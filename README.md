@@ -3,7 +3,7 @@
 Claude Code plugin marketplace for KeyQuest Studio apps. Currently: **ForkFlip** (`plugins/forkflip`).
 
 This folder is separate from `../plugin-mcp` (the Codex/ChatGPT work, its own Git repo). It never writes there.
-`sync-from-plugin-mcp.sh` copies `server.py`, `requirements.txt` and the recipe data one way, from `plugin-mcp` into `plugins/forkflip/server/`. Run it after Codex changes the server, then re-test.
+`sync-from-plugin-mcp.sh` copies the recipe data one way from `plugin-mcp` into `remote-server/data/`. Logic changes in `plugin-mcp/server.py` must be ported to `remote-server/src/catalog.js` and re-tested.
 
 ## Try locally (no install)
 ```
@@ -24,6 +24,6 @@ claude plugin install forkflip@keyquest-studio
 Then start a new Claude Code session.
 
 ## Status
-- Works: local stdio MCP server, 5 read-only tools, skill, manifest validation.
+- Works: remote MCP server on Cloudflare Workers (`remote-server/`, https://forkflip-mcp.forkflip-mcp.workers.dev/mcp), 5 read-only tools, skill, manifest validation.
 - License: proprietary (see LICENSE).
-- Claude.ai / Claude Desktop users without Claude Code need a remote (HTTPS) MCP connector — the same hosting work that ChatGPT needs (see `../plugin-mcp/REVIEW_PREPARATION.md`). Once hosted, `.mcp.json` can point to the URL instead.
+- Deploy server changes: `cd remote-server && node test/parity.mjs` against `npx wrangler dev`, then `npx wrangler deploy`.

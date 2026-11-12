@@ -1,11 +1,11 @@
 // ForkFlip read-only recipe catalog. Port of plugin-mcp/server.py (same tools, inputs and outputs).
 // No accounts, no storage, no outbound requests.
-import base from '../../plugins/forkflip/server/data/recipes.json';
-import ru from '../../plugins/forkflip/server/data/recipes.ru.json';
-import ar from '../../plugins/forkflip/server/data/recipes.ar.json';
-import fr from '../../plugins/forkflip/server/data/recipes.fr.json';
-import de from '../../plugins/forkflip/server/data/recipes.de.json';
-import es from '../../plugins/forkflip/server/data/recipes.es.json';
+import base from '../data/recipes.json';
+import ru from '../data/recipes.ru.json';
+import ar from '../data/recipes.ar.json';
+import fr from '../data/recipes.fr.json';
+import de from '../data/recipes.de.json';
+import es from '../data/recipes.es.json';
 
 export const LANGUAGES = ['he', 'en', 'ru', 'ar', 'fr', 'de', 'es'];
 export const MEALS = ['breakfast', 'lunch', 'dinner', 'dessert'];

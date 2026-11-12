@@ -21,13 +21,12 @@ claude plugin install forkflip@keyquest-studio
 ```
 
 ## Where it works
-Claude Code, on macOS, Linux and Windows (WSL). The plugin runs a small local Python server on your computer; it does not run inside claude.ai web chat.
+claude.ai, the Claude desktop and mobile apps, Cowork and Claude Code. Nothing to set up: no Python, no account, no API key.
 
 ## Privacy
-No account, sign-in or API key. The server runs locally and makes no network calls; the only download is the pinned `mcp` Python package from PyPI on first start. Ingredients you type are processed for that request only and are not stored or sent anywhere.
+The plugin connects to the ForkFlip recipe server at `forkflip-mcp.forkflip-mcp.workers.dev` (hosted on Cloudflare), its only network destination. The server is read-only, needs no sign-in, and does not log, store or share request contents. Ingredients you type are used only to answer that request. Source: https://github.com/keyquest-studio/claude-plugins/tree/main/remote-server
 
-## Setup
-Needs Python 3.10+ or `uv`. On first start the server creates a private environment in `~/.cache/forkflip-claude-plugin` and installs the `mcp` package.
+[Privacy policy](https://forkflip-mcp.forkflip-mcp.workers.dev/privacy)
 
 Get the app: https://apps.apple.com/app/forkflip-what-to-eat-tonight/id6811795227
 
