@@ -1,0 +1,2002 @@
+{
+  "b1": {
+    "name": "Klassische Shakshuka",
+    "ingredients": [
+      "4 Eier",
+      "3 reife Tomaten, gehackt",
+      "1 mittelgroße Zwiebel, gehackt",
+      "1 rote Paprika, gehackt",
+      "2 Knoblauchzehen, gepresst",
+      "1 TL Paprikapulver",
+      "1/2 TL Kreuzkümmel"
+    ],
+    "instructions": "Zwiebel und Paprika in Öl goldbraun anbraten, dann Knoblauch und Gewürze dazugeben. Die gehackten Tomaten hinzufügen und 10 Minuten eindicken lassen. Mulden formen, die Eier hineinschlagen, zudecken und garen, bis das Eiweiß gestockt ist."
+  },
+  "b2": {
+    "name": "Haferbrei mit Früchten",
+    "ingredients": [
+      "1/2 Tasse Haferflocken",
+      "1 Tasse Milch oder Sojadrink",
+      "1 Banane, in Scheiben",
+      "1/2 Tasse Beeren",
+      "1 EL Honig oder Dattelsirup",
+      "1 Prise Zimt"
+    ],
+    "instructions": "Haferflocken in Milch oder Pflanzendrink etwa 5 Minuten unter Rühren köcheln lassen. Bananenscheiben, Beeren und Zimt dazugeben und nach Geschmack süßen."
+  },
+  "b3": {
+    "name": "Avocado-Toast mit Ei",
+    "ingredients": [
+      "2 Scheiben Vollkornbrot",
+      "1 reife Avocado",
+      "1 Ei",
+      "Saft einer 1/2 Zitrone",
+      "Salz nach Geschmack",
+      "schwarzer Pfeffer nach Geschmack",
+      "1 Prise Chiliflocken"
+    ],
+    "instructions": "Das Brot toasten. Die Avocado mit Zitronensaft, Salz und Pfeffer zerdrücken und auf das Brot streichen. Ein Spiegelei oder pochiertes Ei darauflegen und mit Chiliflocken bestreuen."
+  },
+  "b4": {
+    "name": "Käse-Gemüse-Omelett",
+    "ingredients": [
+      "3 Eier",
+      "1/2 Tasse geriebener Käse",
+      "1 Tomate, gehackt",
+      "2 Frühlingszwiebeln, gehackt",
+      "2 EL Milch",
+      "Salz nach Geschmack",
+      "Pfeffer nach Geschmack"
+    ],
+    "instructions": "Die Eier mit etwas Milch, Salz und Pfeffer verquirlen. Gehacktes Gemüse und geriebenen Käse dazugeben und bei mittlerer Hitze braten, bis das Omelett auf beiden Seiten gestockt ist."
+  },
+  "b5": {
+    "name": "Gesunde Bananen-Pancakes",
+    "ingredients": [
+      "2 reife Bananen",
+      "2 Eier",
+      "1/2 Tasse Hafermehl",
+      "1/2 TL Backpulver",
+      "1 Prise Zimt"
+    ],
+    "instructions": "Die Bananen zerdrücken, Eier und Hafermehl dazugeben und zu einem glatten Teig verrühren. In einer leicht geölten Pfanne bei mittlerer Hitze von beiden Seiten goldbraun backen."
+  },
+  "b6": {
+    "name": "Joghurt mit Granola und Obst",
+    "ingredients": [
+      "1 Tasse Naturjoghurt",
+      "1/4 Tasse Granola",
+      "1/2 Tasse Beeren",
+      "1 EL Honig",
+      "1 EL gehackte Nüsse"
+    ],
+    "instructions": "Joghurt, Granola und Beeren abwechselnd in ein Glas schichten. Mit Honig beträufeln und mit gehackten Nüssen bestreuen."
+  },
+  "b7": {
+    "name": "Schnelle Käse-Bourekas",
+    "ingredients": [
+      "1 Rolle Blätterteig, aufgetaut",
+      "200 g bulgarischer Schafskäse, zerbröselt",
+      "1 Ei, verquirlt, zum Bestreichen",
+      "1 EL Sesam"
+    ],
+    "instructions": "Den Blätterteig in Quadrate schneiden, mit Käse füllen, zu Dreiecken falten, mit verquirltem Ei bestreichen und mit Sesam bestreuen. Bei 200°C etwa 20 Minuten goldbraun backen."
+  },
+  "b8": {
+    "name": "Energie-Smoothie in Grün",
+    "ingredients": [
+      "1 Tasse frischer Spinat",
+      "1 Banane",
+      "1/2 Tasse Ananasstücke",
+      "1 Tasse Kokosdrink",
+      "1/2 TL frisch geriebener Ingwer"
+    ],
+    "instructions": "Alle Zutaten im Mixer glatt pürieren und sofort trinken."
+  },
+  "l1": {
+    "name": "Quinoasalat mit Ofengemüse",
+    "ingredients": [
+      "1 Tasse Quinoa",
+      "1 Zucchini, gewürfelt",
+      "1 Paprika, gewürfelt",
+      "1 mittelgroße Süßkartoffel, gewürfelt",
+      "3 EL Olivenöl",
+      "Saft von 1 Zitrone",
+      "2 EL gehackte Petersilie"
+    ],
+    "instructions": "Quinoa nach Packungsanleitung kochen. Das geschnittene Gemüse mit Olivenöl 25 Minuten im Ofen rösten. Alles mit Zitronensaft und gehackter Petersilie vermengen."
+  },
+  "l2": {
+    "name": "Rote Linsensuppe",
+    "ingredients": [
+      "1 Tasse rote Linsen",
+      "2 Karotten, gehackt",
+      "1 Zwiebel, gehackt",
+      "2 Knoblauchzehen, gepresst",
+      "1 TL Kreuzkümmel",
+      "5 Tassen Gemüsebrühe oder Wasser"
+    ],
+    "instructions": "Zwiebel und Knoblauch anbraten, dann Karotten und Gewürze dazugeben. Linsen und Wasser oder Brühe hinzufügen und etwa 25 Minuten weich köcheln. Nach Belieben teilweise pürieren."
+  },
+  "l3": {
+    "name": "Ofenhähnchen mit Wurzelgemüse",
+    "ingredients": [
+      "2 Hähnchenbrustfilets",
+      "4 mittelgroße Kartoffeln, in Scheiben",
+      "2 Karotten, in Scheiben",
+      "1 Zwiebel, in Streifen",
+      "3 EL Olivenöl",
+      "1 EL frischer Rosmarin",
+      "3 ganze Knoblauchzehen"
+    ],
+    "instructions": "Hähnchen und geschnittenes Gemüse mit Olivenöl, Knoblauch und Rosmarin würzen. Auf einem Blech bei 200°C etwa 40 Minuten rösten, bis das Hähnchen gar und das Gemüse gebräunt ist."
+  },
+  "l4": {
+    "name": "Pasta mit Tomatensoße und Tofu",
+    "ingredients": [
+      "300 g Pasta",
+      "200 g Tofu, gewürfelt",
+      "1 Dose gehackte Tomaten (400 g)",
+      "2 Knoblauchzehen, gepresst",
+      "1 Handvoll Basilikumblätter",
+      "2 EL Olivenöl"
+    ],
+    "instructions": "Die Tofuwürfel goldbraun anbraten. Eine Tomatensoße mit Knoblauch und Basilikum zubereiten. Die Pasta kochen und mit Soße und Tofu vermengen."
+  },
+  "l5": {
+    "name": "Thunfisch-Gemüse-Sandwich",
+    "ingredients": [
+      "1 Dose Thunfisch (160 g), abgetropft",
+      "2 EL Mayonnaise",
+      "2 Scheiben Vollkornbrot",
+      "2 Salatblätter",
+      "1 Tomate, in Scheiben",
+      "1 Gewürzgurke, in Scheiben"
+    ],
+    "instructions": "Den abgetropften Thunfisch mit Mayonnaise verrühren. Das Sandwich mit frischem Gemüse und Gewürzgurke belegen."
+  },
+  "l6": {
+    "name": "Linsenbratlinge mit Tahini",
+    "ingredients": [
+      "1 Tasse grüne Linsen",
+      "1 Zwiebel, gehackt und angebraten",
+      "2 Knoblauchzehen, gepresst",
+      "1/2 Tasse Semmelbrösel",
+      "3 EL Tahini",
+      "Saft von 1 Zitrone"
+    ],
+    "instructions": "Die Linsen weich kochen, teilweise zerdrücken und mit angebratener Zwiebel und Semmelbröseln vermengen. Bratlinge formen und backen oder braten. Mit Tahini-Zitronen-Soße servieren."
+  },
+  "l7": {
+    "name": "Tofu-Gemüse-Pfanne mit Sojaglasur",
+    "ingredients": [
+      "300 g Tofu, gewürfelt",
+      "1 Brokkoli, in Röschen",
+      "1 Karotte, in Scheiben",
+      "1 Paprika, in Streifen",
+      "3 EL Sojasoße",
+      "2 Knoblauchzehen, gepresst",
+      "1 TL frisch geriebener Ingwer"
+    ],
+    "instructions": "Den Tofu im heißen Wok goldbraun braten und herausnehmen. Das Gemüse mit Knoblauch und Ingwer pfannenrühren, den Tofu zurückgeben und die Sojasoße hinzufügen. Mit Reis servieren."
+  },
+  "l8": {
+    "name": "Griechischer Salat mit Feta",
+    "ingredients": [
+      "1 Gurke, gewürfelt",
+      "2 Tomaten, gewürfelt",
+      "1/2 rote Zwiebel, in Streifen",
+      "1/2 Tasse Oliven",
+      "150 g Feta, in Scheiben",
+      "3 EL Olivenöl",
+      "1 TL getrockneter Oregano"
+    ],
+    "instructions": "Das Gemüse würfeln und mit Oliven und Feta vermengen. Mit Olivenöl und Oregano würzen."
+  },
+  "l9": {
+    "name": "Hausgemachter Rindfleischburger",
+    "ingredients": [
+      "400 g Rinderhackfleisch",
+      "1/2 Zwiebel, gerieben",
+      "2 EL Semmelbrösel",
+      "2 Burgerbrötchen",
+      "2 Salatblätter",
+      "1 Tomate, in Scheiben"
+    ],
+    "instructions": "Das Hackfleisch mit geriebener Zwiebel, Salz und Pfeffer vermengen und zu Patties formen. In einer heißen Pfanne etwa 4 Minuten pro Seite braten und mit Gemüse im Brötchen servieren."
+  },
+  "l10": {
+    "name": "Wurzelgemüsesuppe",
+    "ingredients": [
+      "400 g Kürbis, gewürfelt",
+      "2 Karotten, gewürfelt",
+      "1 Süßkartoffel, gewürfelt",
+      "1 Zwiebel, gehackt",
+      "2 Knoblauchzehen, gepresst",
+      "1 TL Kurkuma"
+    ],
+    "instructions": "Zwiebel und Knoblauch anbraten, Gemüse und Wasser oder Brühe dazugeben. Weich kochen und anschließend fein pürieren. Mit Kurkuma, Salz und Pfeffer abschmecken."
+  },
+  "d1": {
+    "name": "Ofenlachs mit Zitrone",
+    "ingredients": [
+      "2 Lachsfilets (je etwa 150 g)",
+      "1 Zitrone, in Scheiben",
+      "2 EL Olivenöl",
+      "2 Knoblauchzehen, gepresst",
+      "1 EL frische Kräuter"
+    ],
+    "instructions": "Den Lachs auf ein Blech legen, mit Olivenöl, gepresstem Knoblauch und Zitronenscheiben würzen. Bei 200°C etwa 15 Minuten backen."
+  },
+  "d2": {
+    "name": "Weißer Bohneneintopf",
+    "ingredients": [
+      "2 Dosen gekochte weiße Bohnen, abgetropft",
+      "1 Dose gehackte Tomaten (400 g)",
+      "1 Zwiebel, gehackt",
+      "2 Knoblauchzehen, gepresst",
+      "1 TL Paprikapulver"
+    ],
+    "instructions": "Zwiebel und Knoblauch anbraten, Tomaten und Paprikapulver dazugeben. Die Bohnen hinzufügen und etwa 20 Minuten bei niedriger Hitze köcheln lassen."
+  },
+  "d3": {
+    "name": "Hähnchenschenkel mit Kartoffeln aus dem Ofen",
+    "ingredients": [
+      "6 Hähnchenoberschenkel",
+      "4 mittelgroße Kartoffeln, in Scheiben",
+      "2 TL Paprikapulver",
+      "3 Knoblauchzehen, gepresst",
+      "3 EL Olivenöl"
+    ],
+    "instructions": "Hähnchenschenkel und Kartoffeln mit Gewürzen und Olivenöl einreiben. Bei 200°C etwa 35 Minuten goldbraun rösten."
+  },
+  "d4": {
+    "name": "Gemüsecurry mit Kokosmilch",
+    "ingredients": [
+      "1 Dose Kokosmilch (400 ml)",
+      "1 Süßkartoffel, gewürfelt",
+      "1/2 Blumenkohl, in Röschen",
+      "1/2 Tasse Erbsen",
+      "2 EL Currypaste",
+      "1,5 Tassen gekochter Reis"
+    ],
+    "instructions": "Die Currypaste in einem Topf anbraten, Kokosmilch und geschnittenes Gemüse dazugeben. Köcheln lassen, bis das Gemüse weich ist, und mit Reis servieren."
+  },
+  "d5": {
+    "name": "Gemüse-Käse-Auflauf",
+    "ingredients": [
+      "4 Eier",
+      "1/2 Tasse Mehl",
+      "1 Tasse Milch",
+      "2 Zucchini, in Scheiben",
+      "1 Tasse geriebener Käse",
+      "1 Zwiebel, gehackt"
+    ],
+    "instructions": "Eier, Mehl und Milch zu einem Teig verrühren. Geschnittenes Gemüse und Käse unterheben. In eine Form gießen und bei 180°C etwa 35 Minuten backen."
+  },
+  "d6": {
+    "name": "Hähnchenwürstchen mit Ofengemüse",
+    "ingredients": [
+      "6 Hähnchenwürstchen",
+      "2 Paprika, in Streifen",
+      "1 Zwiebel, in Streifen",
+      "2 EL Olivenöl",
+      "1 TL edelsüßes Paprikapulver"
+    ],
+    "instructions": "Würstchen und Gemüse schneiden und mit Olivenöl und Gewürzen vermengen. Auf einem Blech bei 200°C etwa 20 Minuten rösten."
+  },
+  "d7": {
+    "name": "Süße Arme Ritter",
+    "ingredients": [
+      "4 Scheiben Brot",
+      "2 Eier",
+      "1/2 Tasse Milch",
+      "1/2 TL Zimt",
+      "2 EL Dattelsirup"
+    ],
+    "instructions": "Eier mit Milch und Zimt verquirlen. Die Brotscheiben eintauchen und in wenig Öl von beiden Seiten goldbraun braten. Mit Dattelsirup servieren."
+  },
+  "d8": {
+    "name": "Tacos mit schwarzen Bohnen",
+    "ingredients": [
+      "6 kleine Tortillas",
+      "1 Dose schwarze Bohnen, abgetropft",
+      "1/2 Tasse Mais",
+      "1 Avocado, in Scheiben",
+      "1 Tomate, gehackt",
+      "Saft von 1 Limette"
+    ],
+    "instructions": "Die Bohnen mit Gewürzen erwärmen. Tortillas mit Bohnen, Mais, Avocado und gehackter Tomate füllen und mit Limettensaft beträufeln."
+  },
+  "n1": {
+    "name": "Pad Thai mit Tofu",
+    "ingredients": [
+      "200 g Reisnudeln",
+      "250 g Tofu, gewürfelt",
+      "1 Tasse Sojasprossen",
+      "1/4 Tasse gehackte Erdnüsse",
+      "3 EL Sojasoße",
+      "1 Limette, in Spalten"
+    ],
+    "instructions": "Die Reisnudeln in heißem Wasser einweichen. Den Tofu im Wok goldbraun braten, Nudeln und Sojasoße dazugeben und gemeinsam pfannenrühren. Mit Sojasprossen, gehackten Erdnüssen und Limette servieren."
+  },
+  "n2": {
+    "name": "Gebratener Reis nach asiatischer Art",
+    "ingredients": [
+      "3 Tassen gekochter, kalter Reis",
+      "2 Eier",
+      "1 Karotte, fein gewürfelt",
+      "1/2 Tasse Erbsen",
+      "2 Frühlingszwiebeln, in Ringen",
+      "3 EL Sojasoße"
+    ],
+    "instructions": "Das Gemüse im heißen Wok pfannenrühren, zur Seite schieben und die Eier darin stocken lassen. Reis und Sojasoße dazugeben und alles durchschwenken, bis es heiß ist."
+  },
+  "n3": {
+    "name": "Indisches Linsen-Dal",
+    "ingredients": [
+      "1 Tasse gelbe Linsen",
+      "1 Zwiebel, gehackt",
+      "2 Knoblauchzehen, gepresst",
+      "1 Tomate, gehackt",
+      "1 TL Kurkuma",
+      "1 TL Kreuzkümmel",
+      "1,5 Tassen gekochter Reis"
+    ],
+    "instructions": "Die Linsen in Wasser weich kochen. Separat Zwiebel, Knoblauch und Gewürze anbraten, dann die Tomate dazugeben. Unter die Linsen rühren und weitere 10 Minuten köcheln. Mit Reis servieren."
+  },
+  "n4": {
+    "name": "Hähnchen nach Tikka-Masala-Art",
+    "ingredients": [
+      "500 g Hähnchenbrust, gewürfelt",
+      "1/2 Tasse Joghurt",
+      "1 Dose gehackte Tomaten (400 g)",
+      "1/4 Tasse Schlagsahne",
+      "1 TL Kurkuma",
+      "1 TL Paprikapulver",
+      "1,5 Tassen gekochter Reis"
+    ],
+    "instructions": "Das Hähnchen mindestens 20 Minuten in Joghurt und Gewürzen marinieren. In der Pfanne anbraten, herausnehmen und eine Tomatensoße mit Sahne köcheln. Das Hähnchen zurück in die Soße geben und mit Reis servieren."
+  },
+  "n5": {
+    "name": "Italienische Pesto-Pasta",
+    "ingredients": [
+      "300 g Pasta",
+      "2 Tassen Basilikumblätter",
+      "1/3 Tasse Olivenöl",
+      "2 EL Pinienkerne",
+      "1/3 Tasse geriebener Parmesan",
+      "1 Knoblauchzehe"
+    ],
+    "instructions": "Basilikum, Olivenöl, Pinienkerne, Parmesan und Knoblauch zu einem glatten Pesto mixen. Die Pasta kochen und direkt nach dem Abgießen mit der Soße vermengen."
+  },
+  "n6": {
+    "name": "Mexikanischer Rindfleisch-Burrito",
+    "ingredients": [
+      "400 g Rinderhackfleisch",
+      "2 große Tortillas",
+      "1/2 Tasse Kidneybohnen, abgetropft",
+      "1 Tasse gekochter Reis",
+      "1/2 Tasse geriebener Käse",
+      "1 Tomate, gehackt"
+    ],
+    "instructions": "Das Hackfleisch mit mexikanischen Gewürzen braten. Eine große Tortilla mit Fleisch, Bohnen, Reis, Käse und Tomate füllen und fest aufrollen."
+  },
+  "n7": {
+    "name": "Hummus-Falafel-Teller",
+    "ingredients": [
+      "2 Tassen gekochte Kichererbsen",
+      "3 EL Tahini",
+      "2 EL gehackte Petersilie",
+      "1 TL Kreuzkümmel",
+      "Saft von 1 Zitrone",
+      "2 Pitabrote"
+    ],
+    "instructions": "Einen Teil der Kichererbsen mit Tahini, Zitrone und Knoblauch zu cremigem Hummus pürieren. Den Rest grob mit Petersilie und Kreuzkümmel mixen, zu Bällchen formen und als Falafel frittieren. Zusammen mit Pita servieren."
+  },
+  "n8": {
+    "name": "Taboulé-Salat",
+    "ingredients": [
+      "1/2 Tasse Bulgur",
+      "2 Tassen fein gehackte Petersilie",
+      "2 Tomaten, fein gewürfelt",
+      "3 Frühlingszwiebeln, gehackt",
+      "Saft von 1 Zitrone",
+      "3 EL Olivenöl"
+    ],
+    "instructions": "Den Bulgur in heißem Wasser quellen lassen und abgießen. Petersilie, Tomaten und Frühlingszwiebeln fein hacken und mit dem Bulgur vermengen. Mit Zitrone und Olivenöl abschmecken."
+  },
+  "h1": {
+    "name": "Chia-Pudding mit Beeren",
+    "ingredients": [
+      "3 EL Chiasamen",
+      "1 Tasse Mandeldrink oder Milch",
+      "1/2 Tasse Beeren",
+      "1 EL Honig oder Dattelsirup"
+    ],
+    "instructions": "Chiasamen mit Milch und Süße verrühren und mindestens 3 Stunden oder über Nacht kühlen, bis ein Pudding entsteht. Mit frischen Beeren servieren."
+  },
+  "h2": {
+    "name": "Energiebällchen mit Datteln und Mandeln",
+    "ingredients": [
+      "1 Tasse entsteinte Datteln",
+      "1 Tasse Mandeln",
+      "2 EL Kakaopulver",
+      "1/4 Tasse Kokosraspel"
+    ],
+    "instructions": "Datteln und Mandeln in der Küchenmaschine zu einer klebrigen Masse mixen. Kakao dazugeben, kleine Kugeln formen und in Kokosraspeln wälzen."
+  },
+  "h3": {
+    "name": "Gesunde Schoko-Avocado-Mousse",
+    "ingredients": [
+      "2 reife Avocados",
+      "3 EL Kakaopulver",
+      "3 EL Dattelsirup oder Honig",
+      "2 EL Pflanzenmilch"
+    ],
+    "instructions": "Avocado, Kakao, Süße und etwas Pflanzenmilch im Mixer cremig pürieren. Vor dem Servieren kühlen."
+  },
+  "h4": {
+    "name": "Frischer Obstsalat mit Minze und Limette",
+    "ingredients": [
+      "3 Tassen gewürfeltes Saisonobst",
+      "1 EL gehackte Minze",
+      "Saft von 1 Limette",
+      "1 EL Honig"
+    ],
+    "instructions": "Das Saisonobst würfeln, mit gehackter Minze und Limettensaft vermengen und mit etwas Honig beträufeln."
+  },
+  "i1": {
+    "name": "Schokoladen-Lava-Kuchen",
+    "ingredients": [
+      "200 g Zartbitterschokolade",
+      "150 g Butter",
+      "3 Eier",
+      "1/2 Tasse Zucker",
+      "1/3 Tasse Mehl"
+    ],
+    "instructions": "Schokolade und Butter zusammen schmelzen. Eier mit Zucker schaumig schlagen, unter die Schokolade heben und das Mehl einrühren. In kleinen Förmchen bei 200°C etwa 10 Minuten backen, bis der Rand fest und der Kern noch flüssig ist."
+  },
+  "i2": {
+    "name": "Klassisches Tiramisu",
+    "ingredients": [
+      "500 g Mascarpone",
+      "4 Eier, getrennt",
+      "1/2 Tasse Zucker",
+      "24 Löffelbiskuits",
+      "1,5 Tassen starker, kalter Kaffee",
+      "2 EL Kakaopulver zum Bestäuben"
+    ],
+    "instructions": "Eigelb mit Zucker schaumig schlagen und unter die Mascarpone heben. Löffelbiskuits in kalten Kaffee tauchen, in eine Form schichten und mit Creme bedecken. Die Schichten wiederholen und mindestens 4 Stunden kühlen. Vor dem Servieren mit Kakao bestäuben."
+  },
+  "i3": {
+    "name": "Hausgemachte Baklava",
+    "ingredients": [
+      "1 Packung Filoteig (etwa 20 Blätter)",
+      "2 Tassen gehackte Nüsse",
+      "1 Tasse geschmolzene Butter",
+      "1 Tasse Zucker",
+      "1/2 Tasse Honig",
+      "1 TL Rosenwasser"
+    ],
+    "instructions": "Die Filoblätter schichten, jedes mit geschmolzener Butter bestreichen und gehackte Nüsse zwischen die Lagen streuen. In Dreiecke schneiden und bei 180°C etwa 30 Minuten backen. Direkt nach dem Backen heißen Honig-Zucker-Sirup darübergießen."
+  },
+  "i4": {
+    "name": "New York Cheesecake",
+    "ingredients": [
+      "700 g Frischkäse",
+      "3 Eier",
+      "1 Tasse Zucker",
+      "1/2 Tasse saure Sahne",
+      "200 g zerbröselte Kekse",
+      "100 g geschmolzene Butter"
+    ],
+    "instructions": "Die Keksbrösel mit geschmolzener Butter vermengen und in eine Form drücken. Frischkäse mit Zucker, Eiern und saurer Sahne glatt rühren und auf den Boden gießen. Bei 160°C etwa eine Stunde backen und vor dem Servieren mindestens 4 Stunden kühlen."
+  },
+  "b9": {
+    "name": "Shakshuka mit Merguez",
+    "ingredients": [
+      "4 Eier",
+      "250 g Merguez oder scharfe Rinderwürstchen, in Scheiben",
+      "3 reife Tomaten, gehackt",
+      "1 Zwiebel, gehackt",
+      "1 rote Paprika, gehackt",
+      "2 Knoblauchzehen, gepresst",
+      "1 TL Harissa oder Chilipaste"
+    ],
+    "instructions": "Die Wurstscheiben in einer tiefen Pfanne anbraten und herausnehmen. In derselben Pfanne Zwiebel und Paprika anbraten, Knoblauch und Harissa dazugeben, dann die Tomaten, und 10 Minuten köcheln lassen. Die Würstchen zurückgeben, Mulden formen, die Eier hineinschlagen, zudecken und garen, bis das Eiweiß gestockt ist."
+  },
+  "b10": {
+    "name": "Frühstückswrap mit Pute und Gemüse",
+    "ingredients": [
+      "2 Vollkorn-Tortillas",
+      "120 g Putenbrust in Scheiben",
+      "2 Eier",
+      "1 Handvoll Babyspinat",
+      "1 Tomate, in Scheiben",
+      "1 EL Hummus oder Senf"
+    ],
+    "instructions": "Die Eier in einer leicht geölten Pfanne zu Rührei braten. Die Tortillas mit Hummus oder Senf bestreichen, dann Spinat, Pute, Tomate und Rührei darauf verteilen. Fest aufrollen, in einer trockenen Pfanne je Seite eine Minute rösten und halbieren."
+  },
+  "b11": {
+    "name": "Overnight Oats mit Apfel und Zimt",
+    "ingredients": [
+      "1 Tasse Haferflocken",
+      "1 Tasse Hafer- oder Sojamilch",
+      "1 Apfel, gerieben",
+      "1 EL Chiasamen",
+      "1 TL Zimt",
+      "1 EL Ahornsirup"
+    ],
+    "instructions": "Haferflocken, Pflanzenmilch, Chiasamen und Zimt in einem Glas verrühren. Geriebenen Apfel und Ahornsirup unterrühren, abdecken und über Nacht in den Kühlschrank stellen. Umrühren und kalt genießen, nach Belieben mit ein paar Nüssen."
+  },
+  "b12": {
+    "name": "Frittata mit Süßkartoffel und Spinat",
+    "ingredients": [
+      "1 kleine Süßkartoffel, in dünnen Scheiben",
+      "4 Eier",
+      "2 Handvoll frischer Spinat",
+      "1/2 Zwiebel, in Scheiben",
+      "2 EL Olivenöl",
+      "Salz und Pfeffer"
+    ],
+    "instructions": "Süßkartoffel und Zwiebel in Olivenöl etwa 10 Minuten weich braten. Den Spinat zusammenfallen lassen und die verquirlten, mit Salz und Pfeffer gewürzten Eier darübergießen. Zugedeckt bei niedriger Hitze 8 Minuten stocken lassen, dann schneiden und servieren."
+  },
+  "b13": {
+    "name": "Ricotta-Toast mit Feigen und Honig",
+    "ingredients": [
+      "2 Scheiben Vollkornbrot, getoastet",
+      "1/2 Tasse Ricotta",
+      "3 frische Feigen, in Scheiben",
+      "1 EL Honig",
+      "2 EL gehackte Walnüsse"
+    ],
+    "instructions": "Ricotta großzügig auf das warme Toastbrot streichen. Die Feigenscheiben darauflegen, mit Honig beträufeln und mit Walnüssen bestreuen. Sofort servieren."
+  },
+  "b14": {
+    "name": "Menemen (türkisches Rührei)",
+    "ingredients": [
+      "4 Eier",
+      "3 reife Tomaten, gehackt",
+      "1 grüne Paprika, gewürfelt",
+      "1/2 Zwiebel, gewürfelt",
+      "2 EL Olivenöl",
+      "1/2 TL Chiliflocken"
+    ],
+    "instructions": "Zwiebel und grüne Paprika in Olivenöl weich anbraten. Die Tomaten dazugeben und 6 Minuten zu einer Soße einkochen. Die Eier hineingießen, vorsichtig rühren, bis sie gerade gestockt sind, mit Chiliflocken bestreuen und mit Brot servieren."
+  },
+  "b15": {
+    "name": "Erdnussbutter-Bananen-Toast",
+    "ingredients": [
+      "2 Scheiben Vollkornbrot, getoastet",
+      "2 EL Erdnussbutter",
+      "1 Banane, in Scheiben",
+      "1 TL Chiasamen",
+      "1 Prise Zimt"
+    ],
+    "instructions": "Erdnussbutter auf das warme Toastbrot streichen. Bananenscheiben darauflegen und mit Chiasamen und Zimt bestreuen. Sofort essen."
+  },
+  "b16": {
+    "name": "Frühstücksteller mit Hummus und Ei",
+    "ingredients": [
+      "1 Tasse Hummus",
+      "2 hartgekochte Eier, halbiert",
+      "1 Gurke, in Scheiben",
+      "2 Tomaten, in Scheiben",
+      "1 EL Olivenöl",
+      "1 TL Za'atar",
+      "2 Pitabrote"
+    ],
+    "instructions": "Hummus auf einem Teller verstreichen und in der Mitte eine flache Mulde formen. Eier, Gurke und Tomaten darum herum anrichten. Mit Olivenöl beträufeln, mit Za'atar bestreuen und mit warmem Pitabrot servieren."
+  },
+  "b17": {
+    "name": "Croque Monsieur mit Pute",
+    "ingredients": [
+      "4 Scheiben Toastbrot",
+      "4 Scheiben geräucherte Putenbrust",
+      "1 Tasse geriebener Gruyère oder Schweizer Käse",
+      "2 EL Butter",
+      "1 EL Mehl",
+      "1/2 Tasse Milch"
+    ],
+    "instructions": "1 EL Butter schmelzen, Mehl und dann die Milch einrühren und eindicken lassen, bis eine leichte Béchamel entsteht. Das Brot mit Putenbrust und der Hälfte des Käses belegen, mit Béchamel bestreichen und mit dem restlichen Käse bedecken. Bei 220 °C 10 Minuten goldbraun und blubbernd überbacken."
+  },
+  "b18": {
+    "name": "Tamagoyaki (japanisches Rollomelett)",
+    "ingredients": [
+      "4 Eier",
+      "1 EL Sojasauce",
+      "1 TL Zucker",
+      "1 EL Pflanzenöl",
+      "1 Frühlingszwiebel, fein gehackt"
+    ],
+    "instructions": "Eier mit Sojasauce, Zucker und Frühlingszwiebel verquirlen. Eine dünne Schicht in eine heiße, geölte Pfanne gießen und, wenn sie fast gestockt ist, zur Seite aufrollen. Mehr Ei eingießen, die Rolle anheben, damit es darunterfließt, und wieder aufrollen; so lange wiederholen, bis das Ei aufgebraucht ist, dann in Scheiben schneiden."
+  },
+  "b19": {
+    "name": "Huevos Rancheros",
+    "ingredients": [
+      "4 Eier",
+      "4 kleine Maistortillas",
+      "1 Tasse schwarze Bohnen, warm",
+      "1 Tasse Tomatensalsa",
+      "1 Avocado, in Scheiben",
+      "1 EL Öl",
+      "frischer Koriander"
+    ],
+    "instructions": "Die Tortillas in einer trockenen Pfanne erwärmen und mit den warmen schwarzen Bohnen bestreichen. Die Eier in Öl braten, bis das Eiweiß gestockt ist, und auf die Tortillas legen. Mit Salsa übergießen, Avocado dazugeben und mit Koriander bestreuen."
+  },
+  "b20": {
+    "name": "Masala-Omelett",
+    "ingredients": [
+      "4 Eier",
+      "1/2 rote Zwiebel, fein gehackt",
+      "1 Tomate, fein gehackt",
+      "1 grüne Chilischote, fein gehackt",
+      "1/2 TL Kurkuma",
+      "2 EL gehackter Koriander",
+      "1 EL Öl"
+    ],
+    "instructions": "Die Eier mit Zwiebel, Tomate, Chili, Kurkuma, Koriander und einer Prise Salz verquirlen. In eine heiße, geölte Pfanne gießen und bei mittlerer Hitze braten, bis die Unterseite goldbraun ist. Zusammenklappen und heiß mit Toast servieren."
+  },
+  "b21": {
+    "name": "Tofu-Rührei mit Kurkuma",
+    "ingredients": [
+      "200 g fester Tofu",
+      "1 Handvoll Babyspinat",
+      "1/2 Zwiebel, gewürfelt",
+      "6 Cherrytomaten, halbiert",
+      "1/2 TL Kurkuma",
+      "1 EL Olivenöl",
+      "schwarzer Pfeffer"
+    ],
+    "instructions": "Die Zwiebel in Olivenöl weich anbraten. Den Tofu mit dem Kurkuma hineinbröseln und 5 Minuten unter Rühren garen. Tomaten und Spinat dazugeben, bis der Spinat zusammenfällt, dann mit Salz und Pfeffer abschmecken."
+  },
+  "b22": {
+    "name": "Frühstückssandwich mit Pute und Ei",
+    "ingredients": [
+      "2 Brötchen oder English Muffins, getoastet",
+      "2 Eier",
+      "4 Scheiben geräucherte Pute",
+      "1 Tomate, in Scheiben",
+      "ein paar Salatblätter",
+      "1 EL Öl",
+      "1 TL Senf"
+    ],
+    "instructions": "Die Eier nach Geschmack in Öl braten und die Putenscheiben eine Minute in der Pfanne erwärmen. Die getoasteten Brötchen mit Senf bestreichen. Pute, Ei, Tomate und Salat einlegen und warm servieren."
+  },
+  "b23": {
+    "name": "Ofeneier mit Spinat und Feta",
+    "ingredients": [
+      "4 Eier",
+      "200 g frischer Spinat",
+      "80 g Feta, zerbröckelt",
+      "1 Knoblauchzehe, gehackt",
+      "1 EL Olivenöl",
+      "1/2 TL Paprikapulver"
+    ],
+    "instructions": "Knoblauch und Spinat in Olivenöl zusammenfallen lassen und auf zwei kleine Auflaufförmchen verteilen. Den Feta darüberstreuen, die Eier aufschlagen und mit Paprika bestäuben. Bei 200 °C 10–12 Minuten backen, bis das Eiweiß gestockt ist."
+  },
+  "b24": {
+    "name": "Bagel mit Räucherlachs",
+    "ingredients": [
+      "2 Bagels, halbiert und getoastet",
+      "100 g Räucherlachs",
+      "4 EL Frischkäse",
+      "1/2 Gurke, dünn geschnitten",
+      "1/4 rote Zwiebel, dünn geschnitten",
+      "1 EL Kapern",
+      "frischer Dill"
+    ],
+    "instructions": "Frischkäse großzügig auf die getoasteten Bagelhälften streichen. Mit Lachs, Gurke und roter Zwiebel belegen. Mit Kapern und etwas Dill abschließen."
+  },
+  "l11": {
+    "name": "Sandwich mit Kichererbsensalat",
+    "ingredients": [
+      "1 Dose Kichererbsen (400 g), abgetropft",
+      "2 EL Tahini",
+      "1 EL Zitronensaft",
+      "1 Stange Sellerie, fein gewürfelt",
+      "4 Scheiben Vollkornbrot",
+      "ein paar Salatblätter"
+    ],
+    "instructions": "Die Kichererbsen mit einer Gabel grob zerdrücken und mit Tahini, Zitronensaft und Sellerie vermengen. Mit Salz und Pfeffer abschmecken. Mit Salat auf das Brot geben und das Sandwich zuklappen."
+  },
+  "l12": {
+    "name": "Mit Thunfisch gefüllte Avocado",
+    "ingredients": [
+      "2 reife Avocados, halbiert und entkernt",
+      "1 Dose Thunfisch (160 g), abgetropft",
+      "1 EL Mayonnaise",
+      "1 EL Zitronensaft",
+      "2 EL gewürfelte rote Zwiebel",
+      "1 EL gehackte Petersilie"
+    ],
+    "instructions": "Thunfisch mit Mayonnaise, Zitronensaft, roter Zwiebel und Petersilie mischen und mit Salz und Pfeffer abschmecken. Die Mischung in die Avocadohälften füllen. Sofort servieren."
+  },
+  "l13": {
+    "name": "Sabich (Pita mit Aubergine und Ei)",
+    "ingredients": [
+      "2 Auberginen, in Scheiben",
+      "3 hartgekochte Eier, in Scheiben",
+      "4 EL Tahini",
+      "1 Tomate und 1 Gurke, gewürfelt",
+      "2 Pitabrote",
+      "4 EL Öl zum Braten",
+      "1 EL Zitronensaft"
+    ],
+    "instructions": "Die Auberginenscheiben in Öl beidseitig goldbraun braten und salzen. Tahini mit Zitronensaft und etwas Wasser zu einer glatten Soße verrühren. Die Pitabrote mit Aubergine, Ei und gewürfeltem Gemüse füllen und großzügig mit Tahini beträufeln."
+  },
+  "l14": {
+    "name": "Israelischer Salat mit Tahini",
+    "ingredients": [
+      "3 Tomaten, fein gewürfelt",
+      "2 Gurken, fein gewürfelt",
+      "1/2 rote Zwiebel, fein gewürfelt",
+      "2 EL gehackte Petersilie",
+      "2 EL Tahini",
+      "2 EL Olivenöl",
+      "2 EL Zitronensaft"
+    ],
+    "instructions": "Tomaten, Gurken, Zwiebel und Petersilie in einer großen Schüssel vermengen. Tahini, Olivenöl und Zitronensaft mit einem Schuss Wasser cremig verquirlen. Den Salat mit dem Dressing anmachen, salzen und sofort servieren."
+  },
+  "l15": {
+    "name": "Salatschüssel mit Zitronenhähnchen",
+    "ingredients": [
+      "2 Hähnchenbrustfilets",
+      "2 Handvoll gemischter Salat",
+      "1 Gurke, in Scheiben",
+      "10 Cherrytomaten, halbiert",
+      "3 EL Olivenöl",
+      "2 EL Zitronensaft",
+      "1 TL getrockneter Oregano"
+    ],
+    "instructions": "Das Hähnchen 10 Minuten in 1 EL Olivenöl, der Hälfte des Zitronensafts und dem Oregano marinieren. Auf dem Grill oder in der Pfanne pro Seite 6 Minuten durchgaren und aufschneiden. Auf Salat, Gurke und Tomaten anrichten und mit dem restlichen Öl und Zitronensaft anmachen."
+  },
+  "l16": {
+    "name": "Caprese-Sandwich",
+    "ingredients": [
+      "1 Ciabatta oder 4 Scheiben gutes Brot",
+      "200 g frischer Mozzarella, in Scheiben",
+      "2 reife Tomaten, in Scheiben",
+      "eine Handvoll frisches Basilikum",
+      "2 EL Olivenöl",
+      "1 TL Balsamico-Creme"
+    ],
+    "instructions": "Die Ciabatta aufschneiden und beide Seiten mit Olivenöl beträufeln. Mozzarella, Tomaten und Basilikum schichten, mit Salz und Pfeffer würzen und die Balsamico-Creme dazugeben. Zuklappen, leicht andrücken und halbieren."
+  },
+  "l17": {
+    "name": "Minestrone",
+    "ingredients": [
+      "1 Zwiebel und 2 Karotten, gewürfelt",
+      "2 Zucchini, gewürfelt",
+      "1 Dose gehackte Tomaten (400 g)",
+      "1 Dose weiße Bohnen, abgetropft",
+      "1/2 Tasse kleine Nudeln",
+      "1 Liter Gemüsebrühe",
+      "2 EL Olivenöl"
+    ],
+    "instructions": "Zwiebel, Karotten und Zucchini 5 Minuten in Olivenöl anbraten. Tomaten und Brühe dazugeben und 15 Minuten köcheln lassen. Bohnen und Nudeln zufügen und garen, bis die Nudeln weich sind, etwa 8 Minuten, dann abschmecken."
+  },
+  "l18": {
+    "name": "Pilz-Gersten-Suppe",
+    "ingredients": [
+      "300 g Champignons, in Scheiben",
+      "1/2 Tasse Perlgraupen",
+      "1 Zwiebel und 2 Karotten, gewürfelt",
+      "1,5 Liter Gemüsebrühe",
+      "2 EL Olivenöl",
+      "1 TL getrockneter Thymian",
+      "2 Knoblauchzehen, gehackt"
+    ],
+    "instructions": "Zwiebel, Karotten und Champignons in Olivenöl anbraten, bis die Pilze Farbe nehmen, dann Knoblauch und Thymian zugeben. Die Brühe angießen, die Graupen hinzufügen und 35 Minuten köcheln, bis sie weich sind. Mit Salz und Pfeffer abschmecken und heiß servieren."
+  },
+  "l19": {
+    "name": "Hühnersuppe mit Gemüse",
+    "ingredients": [
+      "1 ganzes Huhn in Stücken oder 1 kg Hühnerteile",
+      "2 Karotten, geschält",
+      "2 Stangen Sellerie",
+      "1 Zwiebel, halbiert",
+      "1 Petersilienwurzel",
+      "2 EL gehackter Dill und Petersilie",
+      "2 Liter Wasser"
+    ],
+    "instructions": "Das Huhn in einen großen Topf geben, mit Wasser bedecken und aufkochen, dabei den Schaum abschöpfen. Das Gemüse zugeben, die Hitze reduzieren und halb zugedeckt 1 Stunde köcheln lassen. Mit Salz würzen, frische Kräuter unterrühren und heiß servieren."
+  },
+  "l20": {
+    "name": "Hähnchen-Shawarma-Wrap",
+    "ingredients": [
+      "500 g Hähnchenschenkel, in Streifen",
+      "2 TL Shawarma-Gewürzmischung",
+      "2 EL Olivenöl",
+      "2 große Lavash- oder Pitabrote",
+      "2 EL Tahini",
+      "1 Tomate und 1 Gurke, in Scheiben",
+      "Gewürzgurken und Salat"
+    ],
+    "instructions": "Das Hähnchen mit Gewürzen, Olivenöl und etwas Salz vermengen. In einer heißen Pfanne 8–10 Minuten anbraten, bis es gebräunt und gar ist. Das Brot mit Tahini bestreichen, mit Hähnchen, Gemüse und Gurken füllen und fest aufrollen."
+  },
+  "l21": {
+    "name": "Griechischer Kichererbsen-Feta-Salat",
+    "ingredients": [
+      "1 Dose Kichererbsen (400 g), abgetropft",
+      "100 g Feta, gewürfelt",
+      "1 Gurke, gewürfelt",
+      "10 Cherrytomaten, halbiert",
+      "1/4 rote Zwiebel, dünn geschnitten",
+      "3 EL Olivenöl",
+      "1 EL Zitronensaft"
+    ],
+    "instructions": "Kichererbsen, Gurke, Tomaten und Zwiebel in einer Schüssel mischen. Olivenöl und Zitronensaft mit einer Prise Salz und, falls vorhanden, Oregano verquirlen. Alles vermengen und mit dem Feta bestreuen."
+  },
+  "l22": {
+    "name": "Gefüllte Paprika mit Reis",
+    "ingredients": [
+      "4 Paprika, Deckel abgeschnitten und entkernt",
+      "1 Tasse gekochter Reis",
+      "1 Dose gehackte Tomaten (400 g)",
+      "1 Zwiebel, gewürfelt",
+      "1 Zucchini, gewürfelt",
+      "2 EL Olivenöl",
+      "2 EL gehackte Petersilie"
+    ],
+    "instructions": "Zwiebel und Zucchini in Olivenöl anbraten und mit dem Reis, der Hälfte der Tomaten und der Petersilie mischen. Die Paprika füllen und aufrecht in eine Form stellen. Die übrigen Tomaten drumherum gießen, mit Alufolie abdecken und bei 190 °C 40 Minuten backen."
+  },
+  "l23": {
+    "name": "Gemüse-Lo-Mein-Nudeln",
+    "ingredients": [
+      "200 g eifreie Nudeln",
+      "1 Karotte, in Stiften",
+      "1 rote Paprika, in Streifen",
+      "2 Tassen geraspelter Kohl",
+      "3 EL Sojasauce",
+      "1 EL Sesamöl",
+      "2 Knoblauchzehen, gehackt"
+    ],
+    "instructions": "Die Nudeln nach Packungsanweisung kochen und abgießen. Knoblauch, Karotte, Paprika und Kohl in Sesamöl bei starker Hitze 4 Minuten anbraten. Nudeln und Sojasauce zugeben und schwenken, bis alles heiß und überzogen ist."
+  },
+  "l24": {
+    "name": "Miso-Suppe mit Tofu",
+    "ingredients": [
+      "4 Tassen Wasser",
+      "3 EL Misopaste",
+      "150 g Seidentofu, gewürfelt",
+      "2 Frühlingszwiebeln, in Ringen",
+      "1 Noriblatt, zerrissen",
+      "1 TL Sesam"
+    ],
+    "instructions": "Das Wasser erhitzen, bis es dampft, aber nicht kocht. Die Misopaste in einer Kelle heißem Wasser auflösen und zurück in den Topf rühren. Tofu, Frühlingszwiebeln und Nori zugeben, 2 Minuten ohne Kochen erwärmen und mit Sesam servieren."
+  },
+  "l25": {
+    "name": "Gemüse-Pho (vietnamesische Nudelsuppe)",
+    "ingredients": [
+      "1,5 Liter Gemüsebrühe",
+      "200 g Reisnudeln",
+      "150 g Tofu, gewürfelt",
+      "2 Karotten, dünn geschnitten",
+      "1 Zimtstange und 2 Sternanis",
+      "1 Limette, in Spalten",
+      "Sojasprossen, Basilikum und Koriander"
+    ],
+    "instructions": "Die Brühe mit Zimt, Sternanis und Karotten 15 Minuten köcheln lassen. Die Nudeln separat garen, abgießen und mit dem Tofu auf Schüsseln verteilen. Die heiße Brühe darübergießen und mit Limette, Sojasprossen und frischen Kräutern servieren."
+  },
+  "l26": {
+    "name": "Quesadillas mit Bohnen und Käse",
+    "ingredients": [
+      "4 große Weizentortillas",
+      "1 Dose schwarze Bohnen (400 g), abgetropft und leicht zerdrückt",
+      "1,5 Tassen geriebener Mozzarella oder Gouda",
+      "1/2 Tasse Maiskörner",
+      "1 TL gemahlener Kreuzkümmel",
+      "1 EL Öl",
+      "Salsa zum Servieren"
+    ],
+    "instructions": "Bohnen mit Mais und Kreuzkümmel mischen. Auf eine Hälfte jeder Tortilla streichen, mit Käse bestreuen und zusammenklappen. In einer geölten Pfanne pro Seite 2–3 Minuten knusprig braten, bis der Käse schmilzt, dann in Dreiecke schneiden und mit Salsa servieren."
+  },
+  "l27": {
+    "name": "Zucchinipuffer",
+    "ingredients": [
+      "3 Zucchini, geraspelt",
+      "2 Eier",
+      "1/2 Tasse Mehl",
+      "2 EL gehackter Dill oder Petersilie",
+      "1 TL Salz",
+      "3 EL Öl zum Braten"
+    ],
+    "instructions": "Die geraspelten Zucchini salzen, 10 Minuten ziehen lassen und die Flüssigkeit gut ausdrücken. Mit Eiern, Mehl und Kräutern vermengen. Esslöffelweise in heißem Öl pro Seite 2–3 Minuten goldbraun braten und auf Küchenpapier abtropfen lassen."
+  },
+  "l28": {
+    "name": "Nudelsalat mit Feta und Gemüse",
+    "ingredients": [
+      "250 g Fusilli oder Penne",
+      "1 Gurke, gewürfelt",
+      "10 Cherrytomaten, halbiert",
+      "100 g Feta, zerbröckelt",
+      "1/4 Tasse Oliven, in Scheiben",
+      "3 EL Olivenöl",
+      "2 EL Zitronensaft"
+    ],
+    "instructions": "Die Nudeln al dente kochen, abgießen und kalt abspülen. Mit Gurke, Tomaten, Oliven und Feta vermengen. Mit Olivenöl, Zitronensaft, Salz und Pfeffer anmachen und vor dem Servieren 15 Minuten kühlen."
+  },
+  "l29": {
+    "name": "Linsensalat mit gerösteter Roter Bete",
+    "ingredients": [
+      "1 Tasse grüne oder braune Linsen",
+      "3 mittelgroße Rote Beten, geschält und gewürfelt",
+      "1/2 rote Zwiebel, dünn geschnitten",
+      "3 EL Olivenöl",
+      "2 EL Zitronensaft",
+      "2 EL gehackte Petersilie",
+      "1/4 Tasse gehackte Walnüsse"
+    ],
+    "instructions": "Die Rote Bete mit 1 EL Öl vermengen und bei 200 °C 30 Minuten weich rösten. Währenddessen die Linsen 20–25 Minuten kochen, bis sie weich, aber noch ganz sind, und abgießen. Linsen, Rote Bete, Zwiebel und Petersilie mit dem restlichen Öl und dem Zitronensaft mischen, würzen und mit Walnüssen bestreuen."
+  },
+  "l30": {
+    "name": "Caesar Salad mit Hähnchen",
+    "ingredients": [
+      "2 Hähnchenbrustfilets",
+      "1 großer Romanasalat, gezupft",
+      "1/2 Tasse geriebener Parmesan",
+      "1 Tasse Croûtons",
+      "3 EL Olivenöl",
+      "1 EL Zitronensaft",
+      "1 Knoblauchzehe und 1 TL Dijon-Senf"
+    ],
+    "instructions": "Das Hähnchen würzen und in der Grillpfanne pro Seite 6 Minuten durchgaren, dann aufschneiden. Olivenöl, Zitronensaft, zerdrückten Knoblauch, Senf und die Hälfte des Parmesans zum Dressing verrühren. Den Salat mit dem Dressing mischen und mit Hähnchen, Croûtons und dem restlichen Parmesan belegen."
+  },
+  "d9": {
+    "name": "Knuspriges Hähnchenschnitzel",
+    "ingredients": [
+      "3 Hähnchenbrustfilets, quer halbiert",
+      "1 Tasse Paniermehl",
+      "2 Eier, verquirlt",
+      "1/2 Tasse Mehl",
+      "1/2 Tasse Öl zum Braten",
+      "1 TL Paprikapulver",
+      "1 Zitrone, in Spalten"
+    ],
+    "instructions": "Das Fleisch leicht plattieren und mit Salz und Paprika würzen. Jedes Stück erst in Mehl, dann in Ei und dann in Paniermehl wenden. In heißem Öl pro Seite 3–4 Minuten goldbraun braten, auf Küchenpapier abtropfen lassen und mit Zitrone servieren."
+  },
+  "d10": {
+    "name": "Hackbällchen in Tomatensoße",
+    "ingredients": [
+      "500 g Rinderhack",
+      "1 Ei",
+      "1/2 Tasse Paniermehl",
+      "1 Dose gehackte Tomaten (400 g)",
+      "1 Zwiebel, fein gewürfelt",
+      "2 Knoblauchzehen, gehackt",
+      "250 g Spaghetti"
+    ],
+    "instructions": "Das Hack mit Ei, Paniermehl, der Hälfte der Zwiebel, der Hälfte des Knoblauchs, Salz und Pfeffer vermengen und zu Bällchen formen. Restliche Zwiebel und Knoblauch anbraten, Tomaten zugeben und 10 Minuten köcheln. Die Bällchen hineingeben, 15 Minuten garen und auf gekochten Spaghetti servieren."
+  },
+  "d11": {
+    "name": "Rindfleisch-Kartoffel-Eintopf",
+    "ingredients": [
+      "600 g Rindergulasch, gewürfelt",
+      "3 Kartoffeln, gewürfelt",
+      "2 Karotten, in Scheiben",
+      "1 Zwiebel, gewürfelt",
+      "2 EL Tomatenmark",
+      "1 TL Paprikapulver",
+      "2 EL Öl und 3 Tassen Wasser oder Brühe"
+    ],
+    "instructions": "Das Fleisch in einem schweren Topf in Öl anbraten, dann die Zwiebel weich dünsten. Tomatenmark und Paprika einrühren, Wasser angießen und zugedeckt 1 Stunde köcheln lassen. Kartoffeln und Karotten zugeben und weitere 30 Minuten garen, bis alles zart ist."
+  },
+  "d12": {
+    "name": "Teriyaki-Lachs",
+    "ingredients": [
+      "2 Lachsfilets",
+      "3 EL Sojasauce",
+      "1 EL Honig",
+      "1 TL geriebener Ingwer",
+      "1 Knoblauchzehe, gehackt",
+      "1 EL Öl",
+      "1 TL Sesam"
+    ],
+    "instructions": "Sojasauce, Honig, Ingwer und Knoblauch verrühren. Den Lachs mit der Hautseite nach unten 4 Minuten in Öl anbraten und wenden. Die Sauce angießen und 3–4 Minuten garen, dabei den Fisch mit der Sauce begießen, bis sie glänzt, dann mit Sesam bestreuen."
+  },
+  "d13": {
+    "name": "Lamm-Kofta-Spieße mit Tahini",
+    "ingredients": [
+      "500 g Lamm- oder Rinderhack",
+      "1 Zwiebel, gerieben",
+      "1/2 Tasse gehackte Petersilie",
+      "1 TL Kreuzkümmel",
+      "1 TL Paprikapulver",
+      "3 EL Tahini",
+      "1 EL Zitronensaft"
+    ],
+    "instructions": "Das Fleisch mit Zwiebel, Petersilie, Kreuzkümmel, Paprika und Salz mischen und zu langen Ovalen um Spieße formen. Auf dem Grill oder in der Pfanne pro Seite 4 Minuten braun und gar braten. Tahini mit Zitronensaft und etwas Wasser verrühren und dazu servieren."
+  },
+  "d14": {
+    "name": "Auberginen-Parmigiana",
+    "ingredients": [
+      "3 große Auberginen, in 1 cm dicken Scheiben",
+      "2 Tassen Tomatensoße",
+      "250 g Mozzarella, in Scheiben",
+      "1/2 Tasse geriebener Parmesan",
+      "4 EL Olivenöl",
+      "eine Handvoll frisches Basilikum"
+    ],
+    "instructions": "Die Auberginenscheiben mit Olivenöl bestreichen, salzen und bei 220 °C 20 Minuten backen, einmal wenden, bis sie goldbraun sind. In einer Auflaufform Aubergine, Tomatensoße, Mozzarella und Basilikum schichten und mit Soße und Parmesan abschließen. Bei 200 °C 25 Minuten überbacken, bis es blubbert."
+  },
+  "d15": {
+    "name": "Cremiges Pilzrisotto",
+    "ingredients": [
+      "1 Tasse Arborio-Reis",
+      "300 g Champignons, in Scheiben",
+      "1 Zwiebel, fein gewürfelt",
+      "4 Tassen heiße Gemüsebrühe",
+      "2 EL Butter",
+      "1/2 Tasse geriebener Parmesan",
+      "2 Knoblauchzehen, gehackt"
+    ],
+    "instructions": "Die Champignons in der Hälfte der Butter goldbraun braten und beiseitestellen. Zwiebel und Knoblauch in der restlichen Butter anbraten, den Reis zugeben und 1 Minute rühren. Die heiße Brühe kellenweise unter Rühren etwa 20 Minuten zugeben, bis es cremig ist, dann Pilze und Parmesan unterheben."
+  },
+  "d16": {
+    "name": "Spaghetti Aglio e Olio",
+    "ingredients": [
+      "250 g Spaghetti",
+      "5 Knoblauchzehen, in dünnen Scheiben",
+      "5 EL Olivenöl",
+      "1/2 TL Chiliflocken",
+      "1/4 Tasse gehackte Petersilie",
+      "1 EL Zitronensaft"
+    ],
+    "instructions": "Die Spaghetti in gut gesalzenem Wasser al dente kochen und eine Tasse Kochwasser aufheben. Olivenöl mit Knoblauch und Chili bei niedriger Hitze erwärmen, bis der Knoblauch gerade goldgelb ist. Die Nudeln in der Pfanne mit einem Schuss Kochwasser, Petersilie und Zitronensaft schwenken, bis sie glänzen."
+  },
+  "d17": {
+    "name": "Gemüselasagne",
+    "ingredients": [
+      "9 Lasagneplatten",
+      "3 Tassen Tomatensoße",
+      "2 Zucchini und 1 Aubergine, in dünnen Scheiben",
+      "250 g Ricotta",
+      "200 g geriebener Mozzarella",
+      "2 EL Olivenöl",
+      "1 TL getrockneter Oregano"
+    ],
+    "instructions": "Zucchini- und Auberginenscheiben in Olivenöl grillen oder rösten, bis sie weich sind. In einer Form Soße, Lasagneplatten, Gemüse und Ricotta schichten, dreimal wiederholen und mit Soße und Mozzarella abschließen. Zugedeckt bei 190 °C 35 Minuten backen, dann aufdecken und weitere 10 Minuten goldbraun backen."
+  },
+  "d18": {
+    "name": "Linsen-Shepherd's-Pie",
+    "ingredients": [
+      "1 Tasse braune oder grüne Linsen",
+      "1 Zwiebel, 2 Karotten und 1 Stange Sellerie, gewürfelt",
+      "2 EL Tomatenmark",
+      "1 kg Kartoffeln, geschält und gewürfelt",
+      "3 EL Olivenöl",
+      "1/2 Tasse Erbsen",
+      "1/2 Tasse Pflanzenmilch"
+    ],
+    "instructions": "Die Linsen 20 Minuten weich kochen. Das Gemüse in der Hälfte des Öls anbraten, Tomatenmark, Linsen und Erbsen unterrühren und kräftig würzen. Die Kartoffeln kochen und mit dem restlichen Öl und der Pflanzenmilch stampfen, über die Linsen streichen und bei 200 °C 25 Minuten goldbraun backen."
+  },
+  "d19": {
+    "name": "Hähnchen-Fajitas",
+    "ingredients": [
+      "500 g Hähnchenbrust, in Streifen",
+      "2 Paprika, in Streifen",
+      "1 Zwiebel, in Streifen",
+      "2 TL Fajita-Gewürzmischung",
+      "2 EL Öl",
+      "6 kleine Tortillas",
+      "1 Limette und 1 Avocado zum Servieren"
+    ],
+    "instructions": "Das Hähnchen mit den Gewürzen und 1 EL Öl vermengen. Bei starker Hitze 6–7 Minuten durchbraten und beiseitestellen. Paprika und Zwiebel im restlichen Öl 5 Minuten braten, das Hähnchen zurückgeben und in warmen Tortillas mit Limette und Avocado servieren."
+  },
+  "d20": {
+    "name": "Puten-Bohnen-Chili",
+    "ingredients": [
+      "500 g Putenhack",
+      "1 Dose Kidneybohnen (400 g), abgetropft",
+      "1 Dose gehackte Tomaten (400 g)",
+      "1 Zwiebel und 1 Paprika, gewürfelt",
+      "2 TL Chilipulver",
+      "1 TL Kreuzkümmel",
+      "2 EL Öl"
+    ],
+    "instructions": "Zwiebel und Paprika in Öl anbraten, das Putenhack zugeben und garen, bis es nicht mehr rosa ist. Gewürze, Tomaten, Bohnen und eine halbe Tasse Wasser einrühren. 30 Minuten unter gelegentlichem Rühren dick einköcheln lassen und abschmecken."
+  },
+  "d21": {
+    "name": "Ratatouille",
+    "ingredients": [
+      "1 Aubergine, gewürfelt",
+      "2 Zucchini, in Scheiben",
+      "2 Paprika, gewürfelt",
+      "4 reife Tomaten, gehackt",
+      "1 Zwiebel, in Scheiben",
+      "3 EL Olivenöl",
+      "2 Knoblauchzehen und 1 TL getrockneter Thymian"
+    ],
+    "instructions": "Die Aubergine in Olivenöl goldbraun anbraten und beiseitestellen. Im selben Topf Zwiebel, Knoblauch, Paprika und Zucchini weich dünsten. Die Aubergine zurückgeben, Tomaten und Thymian zufügen und zugedeckt 30 Minuten köcheln, dann mit Salz und Pfeffer abschmecken."
+  },
+  "d22": {
+    "name": "Hähnchen Provençal",
+    "ingredients": [
+      "4 Hähnchenkeulen",
+      "1 Dose gehackte Tomaten (400 g)",
+      "1/2 Tasse schwarze Oliven",
+      "1 Zwiebel, in Scheiben",
+      "3 Knoblauchzehen, in Scheiben",
+      "2 EL Olivenöl",
+      "1 TL getrockneter Thymian oder Kräuter der Provence"
+    ],
+    "instructions": "Das Hähnchen in Olivenöl von beiden Seiten anbraten und beiseitestellen. In derselben Pfanne Zwiebel und Knoblauch weich dünsten, Tomaten, Kräuter und Oliven zugeben und aufkochen. Das Hähnchen zurückgeben, zudecken und bei niedriger Hitze 40 Minuten zart garen."
+  },
+  "d23": {
+    "name": "Rindfleisch mit Brokkoli aus dem Wok",
+    "ingredients": [
+      "400 g Rinderhüfte, in dünnen Scheiben",
+      "1 großer Brokkoli, in Röschen",
+      "3 EL Sojasauce",
+      "1 EL Speisestärke",
+      "2 Knoblauchzehen, gehackt",
+      "1 TL geriebener Ingwer",
+      "2 EL Öl"
+    ],
+    "instructions": "Das Fleisch mit 1 EL Sojasauce und der Speisestärke vermengen. In heißem Öl 2 Minuten scharf anbraten und beiseitestellen. Brokkoli mit Knoblauch und Ingwer 4 Minuten wenden, das Fleisch zurückgeben, die restliche Sojasauce und einen Schuss Wasser zugeben und schwenken, bis es glänzt. Auf Reis servieren."
+  },
+  "d24": {
+    "name": "Süß-saures Hähnchen",
+    "ingredients": [
+      "500 g Hähnchenbrust, gewürfelt",
+      "1 Paprika und 1 Zwiebel, in Stücken",
+      "1 Tasse Ananasstücke",
+      "1/2 Tasse Mehl oder Speisestärke",
+      "1/3 Tasse Ketchup",
+      "3 EL Essig und 2 EL Zucker",
+      "1/3 Tasse Öl zum Braten"
+    ],
+    "instructions": "Das Hähnchen würzen, in Mehl wenden und in heißem Öl goldbraun und gar braten, dann beiseitestellen. Paprika und Zwiebel 3 Minuten anbraten. Ketchup, Essig, Zucker und Ananas zugeben, einköcheln lassen, bis die Soße dickt, das Hähnchen zurückgeben und mit Reis servieren."
+  },
+  "d25": {
+    "name": "Thai-Rotes-Curry mit Hähnchen",
+    "ingredients": [
+      "500 g Hähnchenbrust, in Scheiben",
+      "1 Dose Kokosmilch (400 ml)",
+      "2 EL rote Currypaste",
+      "1 rote Paprika und 1 Zucchini, in Scheiben",
+      "1 EL Sojasauce",
+      "1 TL Zucker",
+      "1,5 Tassen gekochter Jasminreis"
+    ],
+    "instructions": "Die Currypaste in einem Schuss der dicken Kokoscreme 1 Minute anbraten. Das Hähnchen zugeben und garen, bis es undurchsichtig ist, die restliche Kokosmilch angießen und 10 Minuten köcheln. Gemüse, Sojasauce und Zucker zugeben, weitere 5 Minuten garen und auf Reis servieren."
+  },
+  "d26": {
+    "name": "Thai-Basilikum-Hähnchen",
+    "ingredients": [
+      "400 g Hähnchenhack",
+      "1 große Handvoll frische Basilikumblätter",
+      "3 Knoblauchzehen, gehackt",
+      "1 rote Chilischote, in Ringen",
+      "2 EL Sojasauce",
+      "1 TL Zucker",
+      "1 EL Öl und gekochter Reis zum Servieren"
+    ],
+    "instructions": "Knoblauch und Chili in heißem Öl 30 Sekunden anbraten. Das Hack zugeben und unter Zerbröseln etwa 6 Minuten braun braten. Sojasauce und Zucker einrühren, dann das Basilikum, bis es gerade zusammenfällt, und auf Reis servieren."
+  },
+  "d27": {
+    "name": "Gefüllte Zucchini mit Reis und Rindfleisch",
+    "ingredients": [
+      "8 mittelgroße Zucchini, ausgehöhlt",
+      "400 g Rinderhack",
+      "1/2 Tasse Reis, gewaschen",
+      "1 Dose gehackte Tomaten (400 g)",
+      "1 Zwiebel, gerieben",
+      "1 TL Piment",
+      "2 EL gehackte Petersilie"
+    ],
+    "instructions": "Das Hack mit Reis, Zwiebel, der Hälfte der Tomaten, Piment, Petersilie, Salz und Pfeffer mischen. Jede Zucchini zu etwa drei Vierteln füllen. In einem breiten Topf aufrecht hinstellen, die übrigen Tomaten und eine Tasse Wasser darum gießen und zugedeckt 45 Minuten köcheln, bis der Reis gar ist."
+  },
+  "d28": {
+    "name": "Ofenkabeljau mit Tomaten und Oliven",
+    "ingredients": [
+      "2 Kabeljaufilets",
+      "10 Cherrytomaten, halbiert",
+      "1/4 Tasse grüne oder schwarze Oliven",
+      "2 Knoblauchzehen, in Scheiben",
+      "2 EL Olivenöl",
+      "1 EL Kapern",
+      "1 Zitrone"
+    ],
+    "instructions": "Den Fisch in eine Form legen und Tomaten, Oliven, Knoblauch und Kapern darum verteilen. Mit Olivenöl beträufeln, würzen und den Saft einer halben Zitrone darüber pressen. Bei 200 °C 15–18 Minuten backen, bis der Fisch sich leicht zerteilen lässt, und mit Zitronenspalten servieren."
+  },
+  "d29": {
+    "name": "Za'atar-Hähnchen mit Ofengemüse",
+    "ingredients": [
+      "4 Hähnchenkeulen",
+      "3 Kartoffeln, in Spalten",
+      "2 Karotten, in großen Stücken",
+      "1 rote Zwiebel, geviertelt",
+      "3 EL Olivenöl",
+      "2 EL Za'atar",
+      "1 Zitrone"
+    ],
+    "instructions": "Gemüse und Hähnchen mit Olivenöl, Za'atar, Salz und dem Saft einer halben Zitrone vermengen. Auf einem großen Blech in einer Schicht mit der Hautseite nach oben verteilen. Bei 210 °C 40–45 Minuten rösten, bis das Hähnchen gar und alles goldbraun ist."
+  },
+  "d30": {
+    "name": "Gefüllte Kohlrouladen",
+    "ingredients": [
+      "1 großer Kopf Weißkohl",
+      "400 g Rinderhack",
+      "1/2 Tasse Reis, gewaschen",
+      "1 Dose gehackte Tomaten (400 g)",
+      "1 Zwiebel, gerieben",
+      "2 EL Zitronensaft",
+      "1 EL Zucker"
+    ],
+    "instructions": "Die Kohlblätter in kochendem Wasser blanchieren, bis sie biegsam sind, und die dicken Rippen abschneiden. Hack, Reis, Zwiebel, Salz und Pfeffer mischen, je einen Löffel auf ein Blatt geben und aufrollen. In einen Topf schichten, die mit Zitronensaft, Zucker und einer Tasse Wasser verrührten Tomaten darübergießen und zugedeckt 1 Stunde köcheln."
+  },
+  "n9": {
+    "name": "Palak Paneer (Spinat-Käse-Curry)",
+    "ingredients": [
+      "400 g frischer Spinat",
+      "200 g Paneer oder fester weißer Käse, gewürfelt",
+      "1 Zwiebel, gehackt",
+      "2 Tomaten, gehackt",
+      "2 Knoblauchzehen und 1 TL geriebener Ingwer",
+      "1 TL Garam Masala",
+      "2 EL Öl und 3 EL Sahne"
+    ],
+    "instructions": "Den Spinat 2 Minuten blanchieren und zu einem Püree mixen. Zwiebel, Knoblauch und Ingwer in Öl anbraten, Tomaten und Garam Masala zugeben und weich garen. Spinatpüree und Sahne einrühren, den Käse zugeben und 5 Minuten köcheln lassen. Mit Reis oder Fladenbrot servieren."
+  },
+  "n10": {
+    "name": "Chana Masala (würziges Kichererbsen-Curry)",
+    "ingredients": [
+      "2 Dosen Kichererbsen (je 400 g), abgetropft",
+      "1 Zwiebel, fein gehackt",
+      "1 Dose gehackte Tomaten (400 g)",
+      "2 Knoblauchzehen und 1 TL geriebener Ingwer",
+      "2 TL Garam Masala",
+      "1 TL Kreuzkümmel",
+      "2 EL Öl"
+    ],
+    "instructions": "Die Zwiebel in Öl goldbraun anbraten, Knoblauch, Ingwer, Kreuzkümmel und Garam Masala zugeben und 1 Minute rühren. Die Tomaten zufügen und 8 Minuten garen. Kichererbsen und eine halbe Tasse Wasser zugeben, 15 Minuten köcheln, einige Kichererbsen zum Andicken zerdrücken und mit Salz und Zitronensaft abschließen."
+  },
+  "n11": {
+    "name": "Gemüse-Biryani",
+    "ingredients": [
+      "1,5 Tassen Basmatireis, gewaschen",
+      "2 Karotten und 1 Tasse Blumenkohlröschen, gehackt",
+      "1/2 Tasse Erbsen",
+      "1 Zwiebel, in dünnen Scheiben",
+      "2 TL Biryani- oder Garam-Masala-Gewürz",
+      "1 TL Kurkuma",
+      "3 EL Öl"
+    ],
+    "instructions": "Die Zwiebel in Öl tief goldbraun braten. Gemüse und Gewürze zugeben und 5 Minuten garen. Den Reis einrühren, 3 Tassen Wasser und Salz zugeben, aufkochen, dann zugedeckt bei kleinster Hitze 15 Minuten garen. 5 Minuten ruhen lassen und mit einer Gabel auflockern."
+  },
+  "n12": {
+    "name": "Aloo Gobi (Kartoffeln und Blumenkohl)",
+    "ingredients": [
+      "3 Kartoffeln, gewürfelt",
+      "1 kleiner Blumenkohl, in Röschen",
+      "1 Zwiebel, gehackt",
+      "1 Tomate, gehackt",
+      "1 TL Kurkuma und 1 TL Kreuzkümmel",
+      "1 TL Garam Masala",
+      "3 EL Öl"
+    ],
+    "instructions": "Die Zwiebel in Öl weich dünsten, Kreuzkümmel, Kurkuma und Tomate zugeben und 3 Minuten garen. Kartoffeln und Blumenkohl mit einem Schuss Wasser zufügen, zugedeckt bei mittlerer bis niedriger Hitze 20 Minuten garen und gelegentlich rühren. Mit Garam Masala bestreuen und mit Reis oder Fladenbrot servieren."
+  },
+  "n13": {
+    "name": "Hähnchen nach Tandoori-Art",
+    "ingredients": [
+      "4 Hähnchenkeulen oder 600 g Hähnchenteile",
+      "3 EL Zitronensaft",
+      "2 EL Öl",
+      "2 EL Tandoori-Gewürzmischung",
+      "3 Knoblauchzehen und 1 TL geriebener Ingwer",
+      "1 TL Paprikapulver",
+      "1 rote Zwiebel, in Scheiben, zum Servieren"
+    ],
+    "instructions": "Zitronensaft, Öl, Gewürze, Knoblauch und Ingwer zu einer Paste verrühren und das eingeschnittene Fleisch damit einreiben. Mindestens 30 Minuten oder über Nacht marinieren. Bei 220 °C 30–35 Minuten rösten, einmal wenden, bis die Ränder angekohlt und das Hähnchen gar ist, und mit der Zwiebel servieren."
+  },
+  "n14": {
+    "name": "Gemüse-Korma mit Kokosmilch",
+    "ingredients": [
+      "1 Dose Kokosmilch (400 ml)",
+      "2 Kartoffeln und 2 Karotten, gewürfelt",
+      "1 Tasse grüne Bohnen oder Erbsen",
+      "1 Zwiebel, gehackt",
+      "2 EL Korma-Paste oder 1 EL Currypulver",
+      "2 EL Cashewkerne oder Mandeln, gemahlen",
+      "2 EL Öl"
+    ],
+    "instructions": "Die Zwiebel in Öl weich dünsten und die Korma-Paste 1 Minute anrösten. Kartoffeln, Karotten, Kokosmilch und eine halbe Tasse Wasser zugeben und 20 Minuten köcheln. Grüne Bohnen und gemahlene Nüsse zufügen, weitere 8 Minuten garen, bis die Soße cremig ist, und salzen."
+  },
+  "n15": {
+    "name": "Eier-Curry",
+    "ingredients": [
+      "6 hartgekochte Eier, geschält",
+      "1 Zwiebel, fein gehackt",
+      "1 Dose gehackte Tomaten (400 g)",
+      "2 Knoblauchzehen und 1 TL geriebener Ingwer",
+      "1 TL Kurkuma und 2 TL Garam Masala",
+      "1 TL Kreuzkümmel",
+      "3 EL Öl"
+    ],
+    "instructions": "Die Zwiebel in Öl goldbraun anbraten, Knoblauch, Ingwer und Gewürze zugeben und 1 Minute rühren. Tomaten und eine halbe Tasse Wasser zufügen und 12 Minuten zu einer dicken Soße einköcheln. Die Eier hineingeben, mit Soße übergießen und 5 Minuten garen; mit Reis oder Brot servieren."
+  },
+  "n16": {
+    "name": "Thai-Grünes-Curry mit Tofu",
+    "ingredients": [
+      "250 g fester Tofu, gewürfelt",
+      "1 Dose Kokosmilch (400 ml)",
+      "2 EL grüne Currypaste",
+      "1 Zucchini und 1 Tasse grüne Bohnen, geschnitten",
+      "1 EL Sojasauce",
+      "1 TL Zucker",
+      "eine Handvoll Thai-Basilikum oder normales Basilikum"
+    ],
+    "instructions": "Den Tofu ringsum goldbraun braten und beiseitestellen. Die Currypaste 1 Minute in einem Schuss der dicken Kokoscreme anrösten, dann die restliche Kokosmilch zugeben und 5 Minuten köcheln. Gemüse, Tofu, Sojasauce und Zucker zufügen, 8 Minuten garen und mit dem Basilikum abschließen. Mit Reis servieren."
+  },
+  "n17": {
+    "name": "Tom-Kha-Suppe mit Pilzen",
+    "ingredients": [
+      "1 Dose Kokosmilch (400 ml)",
+      "2 Tassen Gemüsebrühe",
+      "200 g Champignons, in Scheiben",
+      "2 Stängel Zitronengras und ein daumengroßes Stück Ingwer, in Scheiben",
+      "1 Limette, ausgepresst",
+      "1 EL Sojasauce",
+      "frischer Koriander und 1 rote Chili"
+    ],
+    "instructions": "Die Brühe mit Zitronengras und Ingwer leicht köcheln lassen und 10 Minuten ziehen lassen. Kokosmilch und Pilze zugeben und 8 Minuten garen. Sojasauce und Limettensaft einrühren und mit Koriander und Chili servieren."
+  },
+  "n18": {
+    "name": "Thai-Erdnuss-Nudelsalat",
+    "ingredients": [
+      "200 g Reisnudeln",
+      "1 Karotte, in Stiften",
+      "1 rote Paprika, in dünnen Streifen",
+      "2 Tassen geraspelter Rotkohl",
+      "3 EL Erdnussbutter",
+      "2 EL Sojasauce und 1 EL Limettensaft",
+      "1 TL Zucker und 1 Knoblauchzehe, gehackt"
+    ],
+    "instructions": "Die Reisnudeln nach Packungsanweisung kochen, kalt abspülen und abtropfen lassen. Erdnussbutter, Sojasauce, Limettensaft, Zucker und Knoblauch mit 2–3 EL warmem Wasser zu einer glatten Soße verrühren. Nudeln und Gemüse mit der Soße vermengen und kalt mit gehackten Erdnüssen servieren."
+  },
+  "n19": {
+    "name": "Gemüse-Sushi-Rollen",
+    "ingredients": [
+      "1,5 Tassen Sushireis",
+      "4 Noriblätter",
+      "1 Avocado, in Scheiben",
+      "1 Gurke und 1 Karotte, in dünnen Stiften",
+      "3 EL Reisessig",
+      "1 EL Zucker und 1/2 TL Salz",
+      "Sojasauce zum Dippen"
+    ],
+    "instructions": "Den Reis kochen, Reisessig, Zucker und Salz unterheben und abkühlen lassen. Ein Noriblatt auf eine Bambusmatte legen, eine dünne Reisschicht mit einem Rand oben darauf verstreichen und das Gemüse am unteren Rand aufreihen. Fest aufrollen, die Kante mit etwas Wasser verschließen, in Stücke schneiden und mit Sojasauce servieren."
+  },
+  "n20": {
+    "name": "Hähnchen-Katsu",
+    "ingredients": [
+      "3 Hähnchenbrustfilets, quer halbiert",
+      "1 Tasse Panko",
+      "2 Eier, verquirlt",
+      "1/2 Tasse Mehl",
+      "1/2 Tasse Öl zum Braten",
+      "3 EL Ketchup, 1 EL Sojasauce und 1 TL Zucker",
+      "gekochter Reis und geraspelter Kohl zum Servieren"
+    ],
+    "instructions": "Das Hähnchen würzen, in Mehl, dann in Ei und dann in Panko wenden und die Panade andrücken. In heißem Öl pro Seite 3–4 Minuten tief goldbraun und gar braten und abtropfen lassen. Ketchup, Sojasauce und Zucker zu einer schnellen Soße verrühren, das Hähnchen aufschneiden und auf Reis mit Kohl und Soße servieren."
+  },
+  "n21": {
+    "name": "Gemüse-Bibimbap",
+    "ingredients": [
+      "2 Tassen gekochter Reis",
+      "2 Eier",
+      "1 Karotte, in Stiften",
+      "2 Tassen frischer Spinat",
+      "1 Zucchini, in Stiften",
+      "2 EL Sesamöl und 2 EL Sojasauce",
+      "1–2 EL Chilipaste (Gochujang), nach Geschmack"
+    ],
+    "instructions": "Karotte und Zucchini getrennt in wenig Sesamöl je 2–3 Minuten anbraten, den Spinat zusammenfallen lassen und mit Sojasauce würzen. Spiegeleier braten. Den Reis auf zwei Schüsseln verteilen, Gemüse und Eier darauf anrichten und mit Chilipaste zum Unterrühren servieren."
+  },
+  "n22": {
+    "name": "Bulgogi-Reisschüssel mit Rindfleisch",
+    "ingredients": [
+      "400 g Rinderhüfte, sehr dünn geschnitten",
+      "4 EL Sojasauce",
+      "1 EL Zucker oder Honig",
+      "1 EL Sesamöl",
+      "3 Knoblauchzehen, gehackt",
+      "2 Tassen gekochter Reis",
+      "1 Gurke, in Scheiben, und 2 Frühlingszwiebeln"
+    ],
+    "instructions": "Das Fleisch mindestens 15 Minuten in Sojasauce, Zucker, Sesamöl und Knoblauch marinieren. In einer sehr heißen Pfanne 2–3 Minuten braten, bis die Ränder karamellisieren. Auf Reis mit Gurke und Frühlingszwiebeln servieren."
+  },
+  "n23": {
+    "name": "Miso-Ramen mit Ei",
+    "ingredients": [
+      "2 Portionen Ramen- oder Weizennudeln",
+      "4 Tassen Gemüsebrühe",
+      "2 EL Misopaste",
+      "2 weich gekochte Eier, halbiert",
+      "1 Tasse Babyspinat oder Pak Choi",
+      "2 Frühlingszwiebeln, in Ringen",
+      "1 TL Sesamöl"
+    ],
+    "instructions": "Die Brühe erhitzen und das Miso einrühren, ohne dass sie kocht. Die Nudeln separat nach Packungsanweisung kochen und auf zwei Schüsseln verteilen. Die Brühe darübergießen, Spinat, Eier und Frühlingszwiebeln zugeben und mit einem Spritzer Sesamöl abschließen."
+  },
+  "n24": {
+    "name": "Kalte Sesamnudeln",
+    "ingredients": [
+      "200 g Weizen- oder Reisnudeln",
+      "3 EL Tahini oder Sesampaste",
+      "2 EL Sojasauce",
+      "1 EL Reisessig und 1 TL Zucker",
+      "1 Gurke, in Stiften",
+      "2 Frühlingszwiebeln, in Ringen",
+      "1 EL geröstete Sesamsamen"
+    ],
+    "instructions": "Die Nudeln kochen, kalt abspülen und gut abtropfen lassen. Tahini, Sojasauce, Essig und Zucker mit 2–3 EL warmem Wasser zu einer gießfähigen Soße verrühren. Die Nudeln mit der Soße mischen, mit Gurke, Frühlingszwiebeln und Sesam belegen und kalt servieren."
+  },
+  "n25": {
+    "name": "Hähnchen-Quesadilla",
+    "ingredients": [
+      "2 Hähnchenbrustfilets, gegart und zerpflückt",
+      "4 große Weizentortillas",
+      "1,5 Tassen geriebener Cheddar oder Mozzarella",
+      "1 Paprika, gewürfelt",
+      "1/2 Zwiebel, gewürfelt",
+      "1 TL Kreuzkümmel",
+      "1 EL Öl"
+    ],
+    "instructions": "Paprika und Zwiebel 4 Minuten in Öl anbraten und mit dem zerpflückten Hähnchen und dem Kreuzkümmel mischen. Die Füllung auf eine Hälfte jeder Tortilla streichen, mit Käse bestreuen und zusammenklappen. In einer trockenen Pfanne pro Seite 2–3 Minuten knusprig braten, bis der Käse schmilzt, dann in Dreiecke schneiden."
+  },
+  "n26": {
+    "name": "Tostadas mit schwarzen Bohnen und Mais",
+    "ingredients": [
+      "6 Mais-Tostadas oder kleine Tortillas, knusprig geröstet",
+      "1 Dose schwarze Bohnen (400 g), abgetropft und zerdrückt",
+      "1 Tasse Maiskörner",
+      "1 Avocado, in Scheiben",
+      "1 Tomate, gewürfelt",
+      "1 Limette",
+      "frischer Koriander und 1 TL Kreuzkümmel"
+    ],
+    "instructions": "Die Bohnen mit Kreuzkümmel und etwas Wasser erwärmen und zerdrücken, bis sie streichfähig sind. Mais, Tomate, Koriander und einen Spritzer Limettensaft mischen. Die Bohnen auf die Tostadas streichen, mit dem Maissalat und der Avocado belegen und mit Limettenspalten servieren."
+  },
+  "n27": {
+    "name": "Mexikanische Reis-Bohnen-Bowl",
+    "ingredients": [
+      "1 Tasse Langkornreis",
+      "1 Dose schwarze oder Pintobohnen (400 g), abgetropft",
+      "1 Tasse Tomatensoße",
+      "1 Tasse Maiskörner",
+      "1 Avocado, gewürfelt",
+      "1 TL Kreuzkümmel und 1 TL Paprikapulver",
+      "1 EL Öl und frischer Koriander"
+    ],
+    "instructions": "Den Reis 2 Minuten in Öl anrösten, dann Tomatensoße, 1,5 Tassen Wasser, Kreuzkümmel, Paprika und Salz zugeben. Zugedeckt bei niedriger Hitze 18 Minuten garen. Bohnen und Mais erwärmen, alles auf den Reis in Schüsseln verteilen und mit Avocado und Koriander garnieren."
+  },
+  "n28": {
+    "name": "Enchiladas mit Käse und Bohnen",
+    "ingredients": [
+      "8 kleine Mais- oder Weizentortillas",
+      "1 Dose schwarze Bohnen (400 g), abgetropft",
+      "2 Tassen geriebener Mozzarella oder Gouda",
+      "2 Tassen Enchilada- oder Tomatensoße",
+      "1/2 Zwiebel, gewürfelt",
+      "1 TL Kreuzkümmel",
+      "1 EL Öl"
+    ],
+    "instructions": "Die Zwiebel in Öl anbraten und mit Bohnen, Kreuzkümmel und der Hälfte des Käses mischen. Jede Tortilla füllen, aufrollen und mit der Naht nach unten in eine Form legen. Die Soße darübergießen, mit dem restlichen Käse bestreuen und bei 190 °C 20 Minuten backen, bis es blubbert."
+  },
+  "n29": {
+    "name": "Chilaquiles mit Ei",
+    "ingredients": [
+      "150 g Tortillachips",
+      "1,5 Tassen Tomatensalsa",
+      "4 Eier",
+      "1/2 Tasse geriebener Käse oder zerbröckelter Feta",
+      "1/2 rote Zwiebel, in dünnen Scheiben",
+      "1 EL Öl",
+      "frischer Koriander"
+    ],
+    "instructions": "Die Salsa 3 Minuten in einer breiten Pfanne köcheln, die Chips zugeben und nur so lange schwenken, bis sie überzogen, aber noch leicht knusprig sind. Die Eier nach Geschmack in Öl braten. Die Chilaquiles mit Eiern, Käse, Zwiebel und Koriander anrichten."
+  },
+  "n30": {
+    "name": "Tacos mit gerösteter Süßkartoffel",
+    "ingredients": [
+      "2 Süßkartoffeln, in kleinen Würfeln",
+      "6 kleine Maistortillas",
+      "1 Dose schwarze Bohnen (400 g), abgetropft",
+      "1 Avocado, mit Limettensaft zerdrückt",
+      "1 TL geräuchertes Paprikapulver und 1 TL Kreuzkümmel",
+      "2 EL Olivenöl",
+      "frischer Koriander und geraspelter Rotkohl"
+    ],
+    "instructions": "Die Süßkartoffeln mit Olivenöl, Paprika, Kreuzkümmel und Salz vermengen und bei 220 °C 25 Minuten rösten, bis sie weich und karamellisiert sind. Bohnen und Tortillas erwärmen. Die Tortillas mit Bohnen, Süßkartoffel, Avocado, Kohl und Koriander füllen."
+  },
+  "n31": {
+    "name": "Gemüsequiche",
+    "ingredients": [
+      "1 Rolle Mürbeteig",
+      "4 Eier",
+      "1/2 Tasse Milch oder Sahne",
+      "1 Tasse geriebener Käse",
+      "1 Zucchini und 1 Tasse Champignons, in Scheiben",
+      "1/2 Zwiebel, gewürfelt",
+      "1 EL Olivenöl"
+    ],
+    "instructions": "Zwiebel, Zucchini und Champignons in Olivenöl braten, bis die Flüssigkeit verdampft ist. Den Teig in eine Tarteform drücken und bei 190 °C 10 Minuten vorbacken. Eier mit Milch, Salz und Pfeffer verquirlen, Gemüse und Käse auf dem Boden verteilen, die Eiermasse darübergießen und 30 Minuten backen, bis sie gestockt und goldbraun ist."
+  },
+  "n32": {
+    "name": "Französische Zwiebelsuppe",
+    "ingredients": [
+      "4 große Zwiebeln, in dünnen Scheiben",
+      "3 EL Butter",
+      "1 Liter Gemüsebrühe",
+      "1 TL getrockneter Thymian",
+      "4 Scheiben Baguette, getoastet",
+      "1 Tasse geriebener Gruyère oder Schweizer Käse",
+      "1 EL Mehl"
+    ],
+    "instructions": "Die Zwiebeln in der Butter bei mittlerer bis niedriger Hitze 35–40 Minuten unter häufigem Rühren tief karamellisieren. Mehl und Thymian einrühren, die Brühe zugießen und 15 Minuten köcheln. In ofenfeste Schalen füllen, mit Baguette und Käse belegen und 3–4 Minuten unter dem Grill goldbraun überbacken."
+  },
+  "n33": {
+    "name": "Selbstgemachte Pizza Margherita",
+    "ingredients": [
+      "2 Tassen Mehl",
+      "1 Päckchen (7 g) Trockenhefe",
+      "3/4 Tasse warmes Wasser und 1 EL Olivenöl",
+      "1 Tasse Tomatensoße",
+      "200 g frischer Mozzarella, gezupft",
+      "eine Handvoll frisches Basilikum",
+      "1 TL Salz und 1 TL Zucker"
+    ],
+    "instructions": "Mehl, Hefe, Salz, Zucker, warmes Wasser und Öl zu einem Teig verkneten, 8 Minuten kneten und 30 Minuten gehen lassen. Ausrollen, mit Tomatensoße bestreichen und den Mozzarella verteilen. Auf einem heißen Blech bei 250 °C 8–10 Minuten backen, bis der Rand goldbraun ist, und mit frischem Basilikum belegen."
+  },
+  "n34": {
+    "name": "Penne all'arrabbiata",
+    "ingredients": [
+      "250 g Penne",
+      "1 Dose gehackte Tomaten (400 g)",
+      "3 Knoblauchzehen, in Scheiben",
+      "1/2–1 TL Chiliflocken",
+      "3 EL Olivenöl",
+      "2 EL gehackte Petersilie"
+    ],
+    "instructions": "Das Olivenöl mit Knoblauch und Chiliflocken 1 Minute erwärmen, bis es duftet. Tomaten und eine Prise Salz zugeben und 15 Minuten köcheln, bis die Soße dickt. Die Penne al dente kochen, mit der Soße vermengen und mit Petersilie bestreuen."
+  },
+  "h5": {
+    "name": "Bratäpfel mit Zimt",
+    "ingredients": [
+      "4 Äpfel, entkernt",
+      "2 EL Rosinen",
+      "2 EL gehackte Walnüsse",
+      "1 TL Zimt",
+      "1 EL Ahornsirup"
+    ],
+    "instructions": "Rosinen, Walnüsse, Zimt und Ahornsirup mischen und die Äpfel damit füllen. Mit einem Schuss Wasser in eine Form setzen. Bei 180 °C 30 Minuten backen, bis sie weich sind und duften."
+  },
+  "h6": {
+    "name": "Bananen-Nicecream",
+    "ingredients": [
+      "3 reife Bananen, in Scheiben geschnitten und eingefroren",
+      "1 EL Kakaopulver oder 1/2 Tasse gefrorene Beeren",
+      "2 EL Pflanzenmilch",
+      "1 TL Vanilleextrakt"
+    ],
+    "instructions": "Die gefrorenen Bananenscheiben mit Pflanzenmilch, Vanille und Kakao oder Beeren cremig pürieren und dabei bei Bedarf die Ränder abstreifen. Sofort als Softeis servieren oder 30 Minuten einfrieren für festere Kugeln."
+  },
+  "h7": {
+    "name": "Gefrorene Joghurt-Beeren-Rinde",
+    "ingredients": [
+      "2 Tassen griechischer Joghurt",
+      "1 EL Honig",
+      "1 Tasse gemischte Beeren",
+      "2 EL gehackte Pistazien oder Mandeln"
+    ],
+    "instructions": "Den Honig in den Joghurt rühren und etwa 1 cm dick auf einem mit Backpapier ausgelegten Blech verstreichen. Beeren und Nüsse darüberstreuen und leicht andrücken. Mindestens 3 Stunden einfrieren, dann in Stücke brechen und direkt aus dem Gefrierfach servieren."
+  },
+  "h8": {
+    "name": "Bananen-Hafer-Kekse",
+    "ingredients": [
+      "2 reife Bananen, zerdrückt",
+      "1,5 Tassen Haferflocken",
+      "1/3 Tasse dunkle Schokotropfen oder Rosinen",
+      "1 TL Zimt",
+      "1 TL Vanilleextrakt"
+    ],
+    "instructions": "Die zerdrückten Bananen mit Haferflocken, Schokotropfen, Zimt und Vanille mischen und 5 Minuten ruhen lassen. Löffelweise auf ein ausgelegtes Blech setzen und leicht flach drücken. Bei 180 °C 15 Minuten backen, bis die Ränder goldbraun sind."
+  },
+  "h9": {
+    "name": "Mango mit Klebreis",
+    "ingredients": [
+      "1 Tasse Klebreis, 1 Stunde eingeweicht",
+      "1 Dose Kokosmilch (400 ml)",
+      "3 EL Zucker",
+      "1/2 TL Salz",
+      "2 reife Mangos, in Scheiben"
+    ],
+    "instructions": "Den eingeweichten Reis 25 Minuten dämpfen, bis er weich ist. Die Kokosmilch mit Zucker und Salz erwärmen, ohne sie zu kochen, und zwei Drittel davon unter den heißen Reis rühren; zudecken und 15 Minuten ziehen lassen. Den Reis mit Mangoscheiben servieren und mit der restlichen Kokossoße beträufeln."
+  },
+  "h10": {
+    "name": "Gebackene Birnen mit Walnüssen und Honig",
+    "ingredients": [
+      "4 reife Birnen, halbiert und entkernt",
+      "1/4 Tasse Walnüsse, gehackt",
+      "2 EL Honig",
+      "1 TL Zimt",
+      "1 TL Zitronensaft"
+    ],
+    "instructions": "Die Schnittflächen der Birnen mit Zitronensaft bestreichen und mit der Schnittseite nach oben in eine Form legen. Die Mulden mit Walnüssen füllen, mit Honig beträufeln und mit Zimt bestreuen. Bei 180 °C 25 Minuten backen, bis sie weich und karamellisiert sind."
+  },
+  "h11": {
+    "name": "Erdbeeren in dunkler Schokolade",
+    "ingredients": [
+      "300 g große Erdbeeren, gewaschen und trocken getupft",
+      "100 g dunkle Schokolade (milchfrei)",
+      "1 TL Kokosöl",
+      "2 EL gehackte Pistazien oder Kokosflocken"
+    ],
+    "instructions": "Die Schokolade mit dem Kokosöl in einer Schüssel über heißem Wasser unter Rühren glatt schmelzen. Jede Erdbeere zu zwei Dritteln eintauchen und nach Belieben in Pistazien wälzen. Auf Backpapier legen und 20 Minuten kalt stellen, bis die Schokolade fest ist."
+  },
+  "h12": {
+    "name": "Wassermelonen-Minze-Sorbet",
+    "ingredients": [
+      "4 Tassen Wassermelonenstücke, entkernt und gefroren",
+      "1 EL Limetten- oder Zitronensaft",
+      "8 frische Minzblätter",
+      "1 EL Ahornsirup (optional)"
+    ],
+    "instructions": "Die gefrorene Wassermelone mit dem Zitrussaft, der Minze und dem Süßungsmittel glatt und dick pürieren und dabei zwischendurch die Ränder abstreifen. Sofort servieren oder 30 Minuten einfrieren, für eine festere Konsistenz. Mit einem Minzblatt garnieren."
+  },
+  "h13": {
+    "name": "Tahini-Kekse",
+    "ingredients": [
+      "1/2 Tasse Tahini",
+      "1/3 Tasse Ahornsirup oder Dattelsirup",
+      "1 Tasse Mehl oder Mandelmehl",
+      "1 TL Vanilleextrakt",
+      "2 EL Sesamsamen"
+    ],
+    "instructions": "Tahini, Sirup und Vanille glatt rühren, dann das Mehl zu einem weichen Teig unterrühren. Kleine Kugeln formen, in Sesam wälzen und auf einem ausgelegten Blech leicht andrücken. Bei 170 °C 10–12 Minuten backen, bis sie gerade goldgelb sind, und beim Abkühlen fest werden lassen."
+  },
+  "h14": {
+    "name": "Mehlfreier Orangen-Mandel-Kuchen",
+    "ingredients": [
+      "2 Orangen, 1 Stunde im Ganzen gekocht und püriert",
+      "3 Eier",
+      "1,5 Tassen gemahlene Mandeln",
+      "1/2 Tasse Zucker",
+      "1 TL Backpulver"
+    ],
+    "instructions": "Die ganzen Orangen 1 Stunde in Wasser weich kochen, abkühlen lassen, Kerne entfernen und mit der Schale pürieren. Eier mit Zucker verquirlen, dann Orangenpüree, gemahlene Mandeln und Backpulver unterheben. In eine ausgelegte Form (22 cm) füllen und bei 180 °C 45 Minuten backen, bis ein Holzstäbchen sauber herauskommt."
+  },
+  "h15": {
+    "name": "Pochierte Pfirsiche mit Zimt",
+    "ingredients": [
+      "4 reife Pfirsiche oder Nektarinen, halbiert und entsteint",
+      "2 Tassen Wasser",
+      "3 EL Zucker",
+      "1 Zimtstange",
+      "1 TL Vanilleextrakt"
+    ],
+    "instructions": "Wasser, Zucker, Zimtstange und Vanille 3 Minuten köcheln lassen. Die Pfirsiche mit der Schnittseite nach unten zugeben und 10–12 Minuten sanft pochieren, bis sie weich sind. Herausnehmen, nach Belieben häuten und warm oder kalt mit einem Löffel Sirup servieren."
+  },
+  "h16": {
+    "name": "Erdnussbutter-Hafer-Energiebällchen",
+    "ingredients": [
+      "1 Tasse Haferflocken",
+      "1/2 Tasse Erdnussbutter",
+      "1/3 Tasse Ahornsirup oder Dattelsirup",
+      "1/4 Tasse dunkle Schokotropfen",
+      "1 EL Chiasamen"
+    ],
+    "instructions": "Alle Zutaten in einer Schüssel verrühren, bis die Masse zusammenhält, bei Bedarf einen Schuss Wasser zugeben. 15 Minuten kühlen und zu 12 kleinen Kugeln formen. Im Kühlschrank bis zu einer Woche aufbewahren."
+  },
+  "i5": {
+    "name": "Schokoladenkekse (Chocolate Chip Cookies)",
+    "ingredients": [
+      "1/2 Tasse weiche Butter",
+      "1/2 Tasse brauner Zucker und 1/4 Tasse weißer Zucker",
+      "1 Ei und 1 TL Vanilleextrakt",
+      "1,5 Tassen Mehl und 1/2 TL Natron",
+      "1 Tasse Schokotropfen",
+      "eine Prise Salz"
+    ],
+    "instructions": "Butter mit beiden Zuckersorten schaumig schlagen, dann Ei und Vanille unterschlagen. Mehl, Natron und Salz einrühren, dann die Schokotropfen unterheben. Esslöffelweise auf ein ausgelegtes Blech setzen und bei 180 °C 10–12 Minuten backen, bis die Ränder goldbraun und die Mitte noch weich ist."
+  },
+  "i6": {
+    "name": "Fudgy Brownies",
+    "ingredients": [
+      "150 g dunkle Schokolade",
+      "3/4 Tasse Butter",
+      "3/4 Tasse Zucker",
+      "3 Eier",
+      "1/2 Tasse Mehl",
+      "1/4 Tasse Kakaopulver",
+      "eine Prise Salz"
+    ],
+    "instructions": "Schokolade und Butter zusammen schmelzen und leicht abkühlen lassen. Den Zucker einrühren, dann die Eier einzeln unterschlagen. Mehl, Kakao und Salz unterheben, in eine ausgelegte quadratische Form (20 cm) gießen und bei 175 °C 22–25 Minuten backen, bis die Oberfläche fest, die Mitte aber noch saftig ist."
+  },
+  "i7": {
+    "name": "Klassischer Apfelkuchen",
+    "ingredients": [
+      "1 fertiger doppelter Kuchenteig oder selbstgemacht",
+      "6 Äpfel, geschält und in Scheiben",
+      "1/2 Tasse Zucker",
+      "2 EL Mehl",
+      "1 TL Zimt",
+      "2 EL Butter, gewürfelt",
+      "1 Ei, verquirlt, zum Bestreichen"
+    ],
+    "instructions": "Die Äpfel mit Zucker, Mehl und Zimt vermengen. Eine Form mit der Hälfte des Teigs auslegen, die Äpfel einfüllen und Butterwürfel darauf verteilen. Mit dem restlichen Teig abdecken, die Ränder andrücken, den Deckel einschneiden, mit Ei bestreichen und 20 Minuten bei 200 °C, dann 35 Minuten bei 180 °C goldbraun backen."
+  },
+  "i8": {
+    "name": "Crème brûlée",
+    "ingredients": [
+      "2 Tassen Schlagsahne",
+      "5 Eigelb",
+      "1/3 Tasse Zucker, plus etwas für die Oberfläche",
+      "1 TL Vanilleextrakt"
+    ],
+    "instructions": "Die Sahne mit der Vanille erwärmen. Eigelb mit Zucker verquirlen und die warme Sahne langsam einrühren. In 4 Förmchen füllen, im Wasserbad bei 150 °C 35–40 Minuten backen, bis die Creme gerade gestockt ist. 4 Stunden kühlen, mit Zucker bestreuen und mit dem Brenner oder unter dem Grill karamellisieren."
+  },
+  "i9": {
+    "name": "Zitronen-Ricotta-Kuchen",
+    "ingredients": [
+      "250 g Ricotta",
+      "3 Eier",
+      "3/4 Tasse Zucker",
+      "1 Tasse Mehl",
+      "Schale und Saft von 1 Zitrone",
+      "1 TL Backpulver"
+    ],
+    "instructions": "Die Eier mit dem Zucker hell aufschlagen, dann Ricotta, Zitronenschale und -saft unterschlagen. Mehl und Backpulver unterheben. In eine ausgelegte Form (22 cm) füllen und bei 180 °C 40 Minuten backen, bis er goldbraun ist und ein Stäbchen sauber herauskommt. Mit Puderzucker bestäuben."
+  },
+  "i10": {
+    "name": "Malabi (Milchpudding mit Rosenwasser)",
+    "ingredients": [
+      "3 Tassen Milch",
+      "5 EL Speisestärke",
+      "1/3 Tasse Zucker",
+      "1 EL Rosenwasser",
+      "2 EL gehackte Pistazien",
+      "2 EL Kokosflocken"
+    ],
+    "instructions": "Die Speisestärke in etwas kalter Milch auflösen. Die restliche Milch mit dem Zucker erhitzen, die aufgelöste Stärke einrühren und unter Rühren eindicken lassen. Rosenwasser einrühren, in Gläser füllen und 3 Stunden kühlen. Mit Pistazien, Kokos und nach Belieben etwas Sirup garnieren."
+  },
+  "i11": {
+    "name": "Kheer (Kardamom-Milchreis)",
+    "ingredients": [
+      "1/2 Tasse Basmatireis, gewaschen",
+      "4 Tassen Milch",
+      "1/2 Tasse Zucker",
+      "4 Kardamomkapseln, zerstoßen",
+      "2 EL Rosinen",
+      "2 EL Mandelblättchen"
+    ],
+    "instructions": "Den Reis mit Milch und Kardamom bei niedriger Hitze 35–40 Minuten unter häufigem Rühren köcheln, bis er dick und cremig ist. Zucker und Rosinen einrühren und weitere 5 Minuten garen. Warm oder kalt mit Mandeln servieren."
+  },
+  "i12": {
+    "name": "Churros mit Schokoladensauce",
+    "ingredients": [
+      "1 Tasse Wasser und 2 EL Zucker",
+      "1 Tasse Mehl",
+      "2 EL Butter und 1 Ei",
+      "1/2 Tasse Öl zum Frittieren",
+      "1/3 Tasse Zucker, gemischt mit 1 TL Zimt",
+      "100 g dunkle Schokolade und 1/3 Tasse Sahne"
+    ],
+    "instructions": "Wasser, Zucker und Butter aufkochen, das Mehl einrühren, bis ein Teig entsteht, leicht abkühlen lassen und das Ei unterschlagen. Streifen in heißes Öl spritzen, pro Seite 2–3 Minuten goldbraun frittieren und in Zimtzucker wälzen. Die Schokolade mit der Sahne zu einer Dip-Sauce schmelzen."
+  },
+  "i13": {
+    "name": "Karottenkuchen mit Frischkäse-Frosting",
+    "ingredients": [
+      "3 Tassen geraspelte Karotten",
+      "2 Tassen Mehl, 1 TL Natron und 2 TL Zimt",
+      "1 Tasse Zucker und 3/4 Tasse Öl",
+      "3 Eier",
+      "1/2 Tasse gehackte Walnüsse",
+      "200 g Frischkäse und 1/2 Tasse Puderzucker",
+      "1/4 Tasse weiche Butter"
+    ],
+    "instructions": "Zucker, Öl und Eier verquirlen, dann die trockenen Zutaten, Karotten und Walnüsse unterrühren. In eine ausgelegte Form (22 cm) füllen und bei 180 °C 40–45 Minuten backen, dann vollständig abkühlen lassen. Frischkäse, Butter und Puderzucker zum Frosting verrühren und auf dem Kuchen verstreichen."
+  },
+  "i14": {
+    "name": "Sufganiyot (Berliner mit Marmelade)",
+    "ingredients": [
+      "3 Tassen Mehl",
+      "1 Päckchen (7 g) Trockenhefe",
+      "1/2 Tasse warme Milch",
+      "1/4 Tasse Zucker, 2 Eier und 3 EL weiche Butter",
+      "Öl zum Frittieren",
+      "1/2 Tasse Marmelade",
+      "Puderzucker zum Bestäuben"
+    ],
+    "instructions": "Mehl, Hefe, Zucker, Eier, Milch und Butter zu einem weichen Teig verkneten, 8 Minuten kneten und 1 Stunde gehen lassen. Auf 1,5 cm ausrollen, Kreise ausstechen und 30 Minuten gehen lassen. In heißem Öl pro Seite 2 Minuten goldbraun frittieren, mit einem Spritzbeutel mit Marmelade füllen und mit Puderzucker bestäuben."
+  },
+  "i15": {
+    "name": "Crêpes mit Schoko-Nuss-Creme und Banane",
+    "ingredients": [
+      "1 Tasse Mehl",
+      "2 Eier",
+      "1,5 Tassen Milch",
+      "1 EL geschmolzene Butter, plus mehr für die Pfanne",
+      "1/2 Tasse Schoko-Haselnuss-Aufstrich",
+      "2 Bananen, in Scheiben"
+    ],
+    "instructions": "Mehl, Eier, Milch und geschmolzene Butter zu einem glatten, dünnen Teig verrühren und 10 Minuten ruhen lassen. In einer leicht gebutterten Pfanne dünne Crêpes backen, etwa 1 Minute pro Seite. Mit dem Aufstrich bestreichen, Bananenscheiben darauflegen und zu Dreiecken falten."
+  },
+  "i16": {
+    "name": "Rugelach mit Zimt und Walnüssen",
+    "ingredients": [
+      "2 Tassen Mehl",
+      "200 g kalte Butter, gewürfelt",
+      "200 g Frischkäse",
+      "1/3 Tasse Zucker, gemischt mit 2 TL Zimt",
+      "1/2 Tasse fein gehackte Walnüsse",
+      "1/2 Tasse Rosinen",
+      "1 Ei, verquirlt, zum Bestreichen"
+    ],
+    "instructions": "Mehl, Butter und Frischkäse zu einem glatten Teig verarbeiten, einwickeln und 1 Stunde kühlen. Zu einem Kreis ausrollen, mit Zimtzucker, Walnüssen und Rosinen bestreuen und in 16 Stücke schneiden. Jedes Stück von der breiten Seite aufrollen, mit Ei bestreichen und bei 180 °C 25 Minuten goldbraun backen."
+  },
+  "k1": {
+    "name": "Gebackene Avocado-Ei-Boote",
+    "ingredients": [
+      "2 reife Avocados, halbiert und entkernt",
+      "4 Eier",
+      "2 EL gehackter Schnittlauch oder Petersilie",
+      "1/2 TL Paprikapulver",
+      "Salz und Pfeffer"
+    ],
+    "instructions": "Aus jeder Avocadohälfte etwas Fruchtfleisch herauslöffeln, damit die Mulde größer wird, und die Hälften in eine kleine Form setzen. In jede ein Ei schlagen und mit Salz, Pfeffer und Paprika würzen. Bei 200 °C 15 Minuten backen, bis das Eiweiß gestockt ist, und mit den Kräutern bestreuen."
+  },
+  "k2": {
+    "name": "Gebratener Blumenkohl-„Reis“ mit Ei",
+    "ingredients": [
+      "1 großer Blumenkohl, in reiskorngroße Stücke gerieben",
+      "3 Eier, verquirlt",
+      "2 Frühlingszwiebeln, in Ringen",
+      "2 Knoblauchzehen, gehackt",
+      "2 EL Sojasauce",
+      "1 EL Sesamöl"
+    ],
+    "instructions": "Die Eier in einer heißen Pfanne mit etwas Sesamöl zu Rührei braten und beiseitestellen. Knoblauch und Blumenkohl im restlichen Öl 5–6 Minuten braten, bis sie zart, aber nicht matschig sind. Die Eier zurückgeben, Sojasauce und Frühlingszwiebeln zufügen und 1 Minute schwenken."
+  },
+  "k3": {
+    "name": "Zucchini-Nudeln mit Knoblauchhähnchen",
+    "ingredients": [
+      "2 Hähnchenbrustfilets, in Streifen",
+      "3 Zucchini, zu Spiralen geschnitten",
+      "3 Knoblauchzehen, in Scheiben",
+      "3 EL Olivenöl",
+      "Schale und Saft von 1 Zitrone",
+      "8 Cherrytomaten, halbiert",
+      "frisches Basilikum"
+    ],
+    "instructions": "Das Hähnchen in 1 EL Olivenöl 6–7 Minuten durchbraten und beiseitestellen. Knoblauch und Tomaten im restlichen Öl 2 Minuten anbraten. Die Zucchininudeln zugeben und nur 2 Minuten schwenken, dann das Hähnchen, Zitronenschale und -saft und Basilikum dazugeben."
+  },
+  "k4": {
+    "name": "Knoblauch-Kräuter-Steak mit Ofenbohnen",
+    "ingredients": [
+      "2 Hüft- oder Rib-Eye-Steaks (je etwa 200 g)",
+      "300 g grüne Bohnen, geputzt",
+      "3 EL Olivenöl",
+      "3 Knoblauchzehen, angedrückt",
+      "1 EL frischer Rosmarin oder Thymian",
+      "Salz und Pfeffer"
+    ],
+    "instructions": "Die Bohnen mit 1 EL Öl vermengen und bei 220 °C 12 Minuten rösten. Die Steaks kräftig würzen und in 1 EL Öl pro Seite 3–4 Minuten mit Knoblauch und Kräutern braten. 5 Minuten ruhen lassen, aufschneiden und mit den Bohnen servieren."
+  },
+  "k5": {
+    "name": "Ei-Muffins mit Spinat und Feta",
+    "ingredients": [
+      "6 Eier",
+      "1 Tasse frischer Spinat, gehackt",
+      "80 g Feta, zerbröckelt",
+      "1/2 rote Paprika, fein gewürfelt",
+      "1 EL Olivenöl zum Einfetten",
+      "Salz und Pfeffer"
+    ],
+    "instructions": "6 Muffinförmchen mit dem Olivenöl einfetten. Die Eier mit Salz und Pfeffer verquirlen, dann Spinat, Feta und rote Paprika unterrühren. Auf die Förmchen verteilen und bei 190 °C 18–20 Minuten backen, bis sie aufgegangen und gestockt sind."
+  },
+  "k6": {
+    "name": "Griechischer Salat mit gegrilltem Halloumi",
+    "ingredients": [
+      "200 g Halloumi, in Scheiben",
+      "1 Gurke, gewürfelt",
+      "2 Tomaten, gewürfelt",
+      "1/2 rote Zwiebel, dünn geschnitten",
+      "1/4 Tasse Oliven",
+      "3 EL Olivenöl",
+      "1 EL Zitronensaft"
+    ],
+    "instructions": "Gurke, Tomaten, Zwiebel und Oliven mit 2 EL Olivenöl, dem Zitronensaft und einer Prise Salz vermengen. Die Halloumischeiben im restlichen Öl pro Seite 2 Minuten grillen oder braten, bis sie goldbraun sind. Den warmen Halloumi auf dem Salat servieren."
+  },
+  "k7": {
+    "name": "Lachs mit cremiger Dillsoße",
+    "ingredients": [
+      "2 Lachsfilets",
+      "1/2 Tasse griechischer Joghurt",
+      "2 EL gehackter frischer Dill",
+      "1 EL Zitronensaft",
+      "1 Knoblauchzehe, gehackt",
+      "1 EL Olivenöl",
+      "Salz und Pfeffer"
+    ],
+    "instructions": "Den Lachs würzen und mit der Hautseite nach unten 4 Minuten in Olivenöl braten, dann wenden und weitere 3–4 Minuten garen. Inzwischen den Joghurt mit Dill, Zitronensaft, Knoblauch, Salz und Pfeffer verrühren. Den Lachs mit der Soße servieren."
+  },
+  "k8": {
+    "name": "Pizza mit Blumenkohlboden",
+    "ingredients": [
+      "1 mittelgroßer Blumenkohl, gerieben (ca. 3 Tassen)",
+      "2 Eier",
+      "1,5 Tassen geriebener Mozzarella, aufgeteilt",
+      "1/2 Tasse zuckerfreie Tomatensoße",
+      "1 TL getrockneter Oregano",
+      "ein paar frische Basilikumblätter"
+    ],
+    "instructions": "Den geriebenen Blumenkohl 5 Minuten in der Mikrowelle oder über Dampf garen, abkühlen lassen und in einem sauberen Tuch so viel Flüssigkeit wie möglich auspressen. Mit den Eiern, einer halben Tasse Mozzarella und dem Oregano mischen und auf einem ausgelegten Blech zu einem dünnen Kreis andrücken. Bei 220 °C 15 Minuten backen, mit Soße und dem restlichen Käse belegen und 8 Minuten weiterbacken; mit Basilikum abschließen."
+  },
+  "k9": {
+    "name": "Rinder-Tacos in Salatblättern",
+    "ingredients": [
+      "400 g Rinderhack",
+      "8 große Salatblätter (Romana oder Buttersalat)",
+      "1 TL Kreuzkümmel und 1 TL Paprikapulver",
+      "1 Avocado, in Scheiben",
+      "1 Tomate, gewürfelt",
+      "frischer Koriander",
+      "1 Limette"
+    ],
+    "instructions": "Das Hack in einer heißen Pfanne unter Zerbröseln anbraten, dann Kreuzkümmel, Paprika und Salz zugeben und 8 Minuten garen. Das Fleisch in die Salatblätter füllen. Mit Avocado, Tomate und Koriander belegen und Limettensaft darüber pressen."
+  },
+  "k10": {
+    "name": "Schoko-Mandelmus-Fettbomben",
+    "ingredients": [
+      "1/2 Tasse Mandelmus",
+      "1/4 Tasse Kokosöl",
+      "2 EL Kakaopulver",
+      "1 TL Vanilleextrakt",
+      "1 EL Erythrit-Puder oder Stevia (optional)",
+      "eine Prise Salz"
+    ],
+    "instructions": "Mandelmus und Kokosöl sanft zusammen schmelzen, dann Kakao, Vanille, Süßungsmittel und Salz glatt einrühren. In eine Mini-Muffinform oder Silikonform füllen. 30 Minuten einfrieren, bis sie fest sind, und im Gefrierfach aufbewahren."
+  },
+  "k11": {
+    "name": "Himbeer-Frischkäse-Mousse",
+    "ingredients": [
+      "200 g Frischkäse, weich",
+      "1/2 Tasse Schlagsahne",
+      "1 Tasse frische Himbeeren",
+      "1 TL Vanilleextrakt",
+      "1 EL Erythrit-Puder oder Stevia (optional)"
+    ],
+    "instructions": "Die Sahne halbsteif schlagen. Den Frischkäse mit Vanille und Süßungsmittel glatt rühren und die Sahne unterheben. Die meisten Himbeeren vorsichtig unterheben, in Gläser füllen und mit den übrigen Beeren garnieren. 1 Stunde kühlen."
+  },
+  "k12": {
+    "name": "Tahini-Hähnchenspieße mit Gurkensalat",
+    "ingredients": [
+      "500 g Hähnchenschenkel, gewürfelt",
+      "3 EL Tahini",
+      "2 EL Zitronensaft",
+      "2 Knoblauchzehen, gehackt",
+      "1 TL Kreuzkümmel",
+      "2 Gurken, gewürfelt",
+      "2 EL gehackte Petersilie"
+    ],
+    "instructions": "Tahini, Zitronensaft, Knoblauch, Kreuzkümmel und Salz mit einem Schuss Wasser verrühren und das Hähnchen in der Hälfte der Soße 15 Minuten marinieren. Auf Spieße stecken und 10–12 Minuten unter Wenden grillen, bis es gar ist. Die Gurken mit der Petersilie mischen und mit den Spießen und der restlichen Tahinisoße servieren."
+  },
+  "k13": {
+    "name": "Salatblätter mit Eiersalat",
+    "ingredients": [
+      "4 hartgekochte Eier, gehackt",
+      "2 EL Mayonnaise",
+      "1 TL Senf",
+      "1 Stange Sellerie, fein gewürfelt",
+      "1 EL gehackter Schnittlauch",
+      "6 Buttersalatblätter"
+    ],
+    "instructions": "Die gehackten Eier mit Mayonnaise, Senf, Sellerie und Schnittlauch mischen und mit Salz und Pfeffer abschmecken. Den Eiersalat in die Salatblätter füllen. Sofort servieren."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "keyquest-studio",
+  "owner": {
+    "name": "KeyQuest Studio",
+    "url": "https://github.com/keyquest-studio"
+  },
+  "metadata": {
+    "description": "Claude plugins for KeyQuest Studio apps."
+  },
+  "plugins": [
+    {
+      "name": "forkflip",
+      "source": "./plugins/forkflip",
+      "description": "ForkFlip recipe catalog: 163 original recipes in 7 languages, meal suggestions, pantry matching and missing-ingredient drafts.",
+      "version": "0.1.0",
+      "category": "lifestyle",
+      "keywords": [
+        "recipes",
+        "cooking",
+        "meal-picker",
+        "pantry",
+        "hebrew"
+      ]
+    }
+  ]
+}

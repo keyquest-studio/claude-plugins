@@ -1,0 +1,2002 @@
+{
+  "b1": {
+    "name": "Chakchouka classique",
+    "ingredients": [
+      "4 œufs",
+      "3 tomates mûres, hachées",
+      "1 oignon moyen, haché",
+      "1 poivron rouge, haché",
+      "2 gousses d'ail, écrasées",
+      "1 c. à café de paprika",
+      "1/2 c. à café de cumin"
+    ],
+    "instructions": "Faites revenir l'oignon et le poivron dans l'huile jusqu'à ce qu'ils dorent, puis ajoutez l'ail et les épices. Ajoutez les tomates et laissez mijoter 10 minutes jusqu'à épaississement. Creusez des puits, cassez-y les œufs, couvrez et laissez cuire jusqu'à ce que les blancs soient pris."
+  },
+  "b2": {
+    "name": "Porridge aux fruits",
+    "ingredients": [
+      "1/2 tasse de flocons d'avoine",
+      "1 tasse de lait ou de boisson au soja",
+      "1 banane, en rondelles",
+      "1/2 tasse de fruits rouges",
+      "1 c. à soupe de miel ou de sirop de dattes",
+      "1 pincée de cannelle"
+    ],
+    "instructions": "Faites cuire les flocons dans le lait ou la boisson végétale environ 5 minutes en remuant. Ajoutez la banane, les fruits rouges et la cannelle, puis sucrez selon votre goût."
+  },
+  "b3": {
+    "name": "Toast avocat et œuf",
+    "ingredients": [
+      "2 tranches de pain complet",
+      "1 avocat mûr",
+      "1 œuf",
+      "le jus d'1/2 citron",
+      "sel, à votre goût",
+      "poivre noir, à votre goût",
+      "1 pincée de piment en flocons"
+    ],
+    "instructions": "Faites griller le pain. Écrasez l'avocat avec le jus de citron, le sel et le poivre, puis tartinez. Faites cuire l'œuf au plat ou poché, posez-le dessus et parsemez de piment en flocons."
+  },
+  "b4": {
+    "name": "Omelette fromage et légumes",
+    "ingredients": [
+      "3 œufs",
+      "1/2 tasse de fromage râpé",
+      "1 tomate, hachée",
+      "2 oignons verts, émincés",
+      "2 c. à soupe de lait",
+      "sel, à votre goût",
+      "poivre, à votre goût"
+    ],
+    "instructions": "Battez les œufs avec un peu de lait, du sel et du poivre. Ajoutez les légumes et le fromage râpé, puis faites cuire à feu moyen jusqu'à ce que l'omelette soit prise des deux côtés."
+  },
+  "b5": {
+    "name": "Pancakes banane healthy",
+    "ingredients": [
+      "2 bananes mûres",
+      "2 œufs",
+      "1/2 tasse de farine d'avoine",
+      "1/2 c. à café de levure chimique",
+      "1 pincée de cannelle"
+    ],
+    "instructions": "Écrasez les bananes, ajoutez les œufs et la farine d'avoine, puis fouettez jusqu'à obtenir une pâte lisse. Faites cuire dans une poêle légèrement huilée à feu moyen jusqu'à ce que les deux faces soient dorées."
+  },
+  "b6": {
+    "name": "Yaourt, granola et fruits",
+    "ingredients": [
+      "1 tasse de yaourt nature",
+      "1/4 tasse de granola",
+      "1/2 tasse de fruits rouges",
+      "1 c. à soupe de miel",
+      "1 c. à soupe de noix concassées"
+    ],
+    "instructions": "Alternez yaourt, granola et fruits rouges dans un verre. Arrosez de miel et parsemez de noix concassées."
+  },
+  "b7": {
+    "name": "Bourekas express au fromage",
+    "ingredients": [
+      "1 pâte feuilletée, décongelée",
+      "200 g de fromage bulgare émietté",
+      "1 œuf battu, pour dorer",
+      "1 c. à soupe de graines de sésame"
+    ],
+    "instructions": "Découpez la pâte feuilletée en carrés, garnissez de fromage, pliez en triangles, badigeonnez d'œuf battu et parsemez de sésame. Enfournez à 200°C pendant environ 20 minutes jusqu'à ce qu'ils soient dorés."
+  },
+  "b8": {
+    "name": "Smoothie vert énergisant",
+    "ingredients": [
+      "1 tasse d'épinards frais",
+      "1 banane",
+      "1/2 tasse d'ananas en morceaux",
+      "1 tasse de boisson à la noix de coco",
+      "1/2 c. à café de gingembre frais râpé"
+    ],
+    "instructions": "Mixez tous les ingrédients jusqu'à obtenir un mélange lisse et buvez aussitôt."
+  },
+  "l1": {
+    "name": "Salade de quinoa aux légumes rôtis",
+    "ingredients": [
+      "1 tasse de quinoa",
+      "1 courgette, en dés",
+      "1 poivron, en dés",
+      "1 patate douce moyenne, en cubes",
+      "3 c. à soupe d'huile d'olive",
+      "le jus d'1 citron",
+      "2 c. à soupe de persil haché"
+    ],
+    "instructions": "Faites cuire le quinoa selon les indications du paquet. Rôtissez les légumes coupés avec l'huile d'olive pendant 25 minutes. Mélangez le tout avec le jus de citron et le persil haché."
+  },
+  "l2": {
+    "name": "Soupe de lentilles corail",
+    "ingredients": [
+      "1 tasse de lentilles corail",
+      "2 carottes, hachées",
+      "1 oignon, haché",
+      "2 gousses d'ail, écrasées",
+      "1 c. à café de cumin",
+      "5 tasses de bouillon de légumes ou d'eau"
+    ],
+    "instructions": "Faites revenir l'oignon et l'ail, puis ajoutez les carottes et les épices. Ajoutez les lentilles et l'eau ou le bouillon, et laissez mijoter environ 25 minutes jusqu'à ce qu'elles soient tendres. Mixez en partie selon votre goût."
+  },
+  "l3": {
+    "name": "Poulet rôti aux légumes racines",
+    "ingredients": [
+      "2 blancs de poulet",
+      "4 pommes de terre moyennes, en tranches",
+      "2 carottes, en rondelles",
+      "1 oignon, émincé",
+      "3 c. à soupe d'huile d'olive",
+      "1 c. à soupe de romarin frais",
+      "3 gousses d'ail entières"
+    ],
+    "instructions": "Assaisonnez le poulet et les légumes coupés avec l'huile d'olive, l'ail et le romarin. Rôtissez sur une seule plaque à 200°C pendant environ 40 minutes, jusqu'à ce que le poulet soit cuit et les légumes dorés."
+  },
+  "l4": {
+    "name": "Pâtes sauce tomate et tofu",
+    "ingredients": [
+      "300 g de pâtes",
+      "200 g de tofu, en cubes",
+      "1 boîte de tomates concassées (400 g)",
+      "2 gousses d'ail, écrasées",
+      "1 poignée de feuilles de basilic",
+      "2 c. à soupe d'huile d'olive"
+    ],
+    "instructions": "Faites dorer les cubes de tofu à la poêle. Préparez une sauce tomate à l'ail et au basilic. Faites cuire les pâtes et mélangez-les avec la sauce et le tofu."
+  },
+  "l5": {
+    "name": "Sandwich thon et crudités",
+    "ingredients": [
+      "1 boîte de thon (160 g), égoutté",
+      "2 c. à soupe de mayonnaise",
+      "2 tranches de pain complet",
+      "2 feuilles de laitue",
+      "1 tomate, en tranches",
+      "1 cornichon, en tranches"
+    ],
+    "instructions": "Mélangez le thon égoutté avec la mayonnaise. Garnissez le sandwich de crudités et de cornichon."
+  },
+  "l6": {
+    "name": "Galettes de lentilles au tahini",
+    "ingredients": [
+      "1 tasse de lentilles vertes",
+      "1 oignon, haché et revenu",
+      "2 gousses d'ail, écrasées",
+      "1/2 tasse de chapelure",
+      "3 c. à soupe de tahini",
+      "le jus d'1 citron"
+    ],
+    "instructions": "Faites cuire les lentilles jusqu'à ce qu'elles soient tendres, écrasez-les en partie et mélangez avec l'oignon revenu et la chapelure. Formez des galettes et faites-les cuire au four ou à la poêle. Servez avec une sauce tahini au citron."
+  },
+  "l7": {
+    "name": "Sauté de tofu et légumes laqués au soja",
+    "ingredients": [
+      "300 g de tofu, en cubes",
+      "1 brocoli, en fleurettes",
+      "1 carotte, en rondelles",
+      "1 poivron, en lanières",
+      "3 c. à soupe de sauce soja",
+      "2 gousses d'ail, écrasées",
+      "1 c. à café de gingembre frais râpé"
+    ],
+    "instructions": "Faites dorer le tofu dans un wok bien chaud et réservez. Faites sauter les légumes avec l'ail et le gingembre, remettez le tofu et ajoutez la sauce soja. Servez avec du riz."
+  },
+  "l8": {
+    "name": "Salade grecque à la feta",
+    "ingredients": [
+      "1 concombre, en dés",
+      "2 tomates, en dés",
+      "1/2 oignon rouge, émincé",
+      "1/2 tasse d'olives",
+      "150 g de feta, en tranches",
+      "3 c. à soupe d'huile d'olive",
+      "1 c. à café d'origan séché"
+    ],
+    "instructions": "Coupez tous les légumes en dés et mélangez avec les olives et la feta. Assaisonnez d'huile d'olive et d'origan."
+  },
+  "l9": {
+    "name": "Burger de bœuf maison",
+    "ingredients": [
+      "400 g de bœuf haché",
+      "1/2 oignon, râpé",
+      "2 c. à soupe de chapelure",
+      "2 pains à burger",
+      "2 feuilles de laitue",
+      "1 tomate, en tranches"
+    ],
+    "instructions": "Mélangez le bœuf haché avec l'oignon râpé, le sel et le poivre, puis formez des steaks. Faites-les griller dans une poêle bien chaude environ 4 minutes de chaque côté et servez dans les pains avec les crudités."
+  },
+  "l10": {
+    "name": "Soupe de légumes racines",
+    "ingredients": [
+      "400 g de potiron, en cubes",
+      "2 carottes, en cubes",
+      "1 patate douce, en cubes",
+      "1 oignon, haché",
+      "2 gousses d'ail, écrasées",
+      "1 c. à café de curcuma"
+    ],
+    "instructions": "Faites revenir l'oignon et l'ail, ajoutez les légumes et l'eau ou le bouillon. Laissez cuire jusqu'à ce qu'ils soient tendres, puis mixez finement. Assaisonnez de curcuma, de sel et de poivre."
+  },
+  "d1": {
+    "name": "Saumon au four au citron",
+    "ingredients": [
+      "2 pavés de saumon (environ 150 g chacun)",
+      "1 citron, en tranches",
+      "2 c. à soupe d'huile d'olive",
+      "2 gousses d'ail, écrasées",
+      "1 c. à soupe d'herbes fraîches"
+    ],
+    "instructions": "Déposez le saumon sur une plaque, arrosez d'huile d'olive et ajoutez l'ail écrasé et les tranches de citron. Enfournez à 200°C pendant environ 15 minutes."
+  },
+  "d2": {
+    "name": "Ragoût de haricots blancs",
+    "ingredients": [
+      "2 boîtes de haricots blancs cuits, égouttés",
+      "1 boîte de tomates concassées (400 g)",
+      "1 oignon, haché",
+      "2 gousses d'ail, écrasées",
+      "1 c. à café de paprika"
+    ],
+    "instructions": "Faites revenir l'oignon et l'ail, ajoutez les tomates et le paprika. Ajoutez les haricots et laissez mijoter environ 20 minutes à feu doux."
+  },
+  "d3": {
+    "name": "Hauts de cuisse de poulet et pommes de terre au four",
+    "ingredients": [
+      "6 hauts de cuisse de poulet",
+      "4 pommes de terre moyennes, en tranches",
+      "2 c. à café de paprika",
+      "3 gousses d'ail, écrasées",
+      "3 c. à soupe d'huile d'olive"
+    ],
+    "instructions": "Assaisonnez le poulet et les pommes de terre avec les épices et l'huile d'olive. Rôtissez à 200°C pendant environ 35 minutes jusqu'à ce qu'ils soient dorés."
+  },
+  "d4": {
+    "name": "Curry de légumes au lait de coco",
+    "ingredients": [
+      "1 boîte de lait de coco (400 ml)",
+      "1 patate douce, en cubes",
+      "1/2 chou-fleur, en fleurettes",
+      "1/2 tasse de petits pois",
+      "2 c. à soupe de pâte de curry",
+      "1,5 tasse de riz cuit"
+    ],
+    "instructions": "Faites revenir la pâte de curry dans une casserole, ajoutez le lait de coco et les légumes coupés. Laissez mijoter jusqu'à ce qu'ils soient tendres et servez avec le riz."
+  },
+  "d5": {
+    "name": "Gratin de légumes au fromage",
+    "ingredients": [
+      "4 œufs",
+      "1/2 tasse de farine",
+      "1 tasse de lait",
+      "2 courgettes, en rondelles",
+      "1 tasse de fromage râpé",
+      "1 oignon, haché"
+    ],
+    "instructions": "Fouettez les œufs, la farine et le lait pour obtenir une pâte. Ajoutez les légumes et le fromage. Versez dans un plat et enfournez à 180°C pendant environ 35 minutes."
+  },
+  "d6": {
+    "name": "Saucisses de poulet et légumes rôtis",
+    "ingredients": [
+      "6 saucisses de poulet",
+      "2 poivrons, en lanières",
+      "1 oignon, émincé",
+      "2 c. à soupe d'huile d'olive",
+      "1 c. à café de paprika doux"
+    ],
+    "instructions": "Coupez les saucisses et les légumes, puis mélangez avec l'huile d'olive et les épices. Rôtissez sur une seule plaque à 200°C pendant environ 20 minutes."
+  },
+  "d7": {
+    "name": "Pain perdu sucré",
+    "ingredients": [
+      "4 tranches de pain",
+      "2 œufs",
+      "1/2 tasse de lait",
+      "1/2 c. à café de cannelle",
+      "2 c. à soupe de sirop de dattes"
+    ],
+    "instructions": "Battez les œufs avec le lait et la cannelle. Trempez les tranches de pain et faites-les dorer des deux côtés dans une poêle avec un peu d'huile. Servez avec le sirop de dattes."
+  },
+  "d8": {
+    "name": "Tacos aux haricots noirs",
+    "ingredients": [
+      "6 petites tortillas",
+      "1 boîte de haricots noirs, égouttés",
+      "1/2 tasse de maïs",
+      "1 avocat, en tranches",
+      "1 tomate, hachée",
+      "le jus d'1 citron vert"
+    ],
+    "instructions": "Réchauffez les haricots avec des épices. Garnissez les tortillas de haricots, de maïs, d'avocat et de tomate, puis arrosez de jus de citron vert."
+  },
+  "n1": {
+    "name": "Pad thaï au tofu",
+    "ingredients": [
+      "200 g de nouilles de riz",
+      "250 g de tofu, en cubes",
+      "1 tasse de pousses de soja",
+      "1/4 tasse de cacahuètes concassées",
+      "3 c. à soupe de sauce soja",
+      "1 citron vert, en quartiers"
+    ],
+    "instructions": "Faites tremper les nouilles de riz dans de l'eau chaude. Faites dorer le tofu au wok, ajoutez les nouilles et la sauce soja et faites sauter le tout. Servez avec les pousses de soja, les cacahuètes et le citron vert."
+  },
+  "n2": {
+    "name": "Riz sauté à l'asiatique",
+    "ingredients": [
+      "3 tasses de riz cuit et froid",
+      "2 œufs",
+      "1 carotte, en petits dés",
+      "1/2 tasse de petits pois",
+      "2 oignons verts, émincés",
+      "3 c. à soupe de sauce soja"
+    ],
+    "instructions": "Faites sauter les légumes dans un wok bien chaud, poussez-les sur le côté et brouillez les œufs. Ajoutez le riz et la sauce soja et mélangez le tout jusqu'à ce que ce soit bien chaud."
+  },
+  "n3": {
+    "name": "Dal indien aux lentilles",
+    "ingredients": [
+      "1 tasse de lentilles jaunes",
+      "1 oignon, haché",
+      "2 gousses d'ail, écrasées",
+      "1 tomate, hachée",
+      "1 c. à café de curcuma",
+      "1 c. à café de cumin",
+      "1,5 tasse de riz cuit"
+    ],
+    "instructions": "Faites cuire les lentilles dans l'eau jusqu'à ce qu'elles soient tendres. À part, faites revenir l'oignon, l'ail et les épices, puis ajoutez la tomate. Incorporez aux lentilles et laissez mijoter encore 10 minutes. Servez avec le riz."
+  },
+  "n4": {
+    "name": "Poulet façon tikka masala",
+    "ingredients": [
+      "500 g de blanc de poulet, en cubes",
+      "1/2 tasse de yaourt",
+      "1 boîte de tomates concassées (400 g)",
+      "1/4 tasse de crème liquide entière",
+      "1 c. à café de curcuma",
+      "1 c. à café de paprika",
+      "1,5 tasse de riz cuit"
+    ],
+    "instructions": "Faites mariner le poulet dans le yaourt et les épices au moins 20 minutes. Saisissez-le à la poêle, réservez, puis faites mijoter une sauce tomate à la crème. Remettez le poulet dans la sauce et servez avec le riz."
+  },
+  "n5": {
+    "name": "Pâtes au pesto à l'italienne",
+    "ingredients": [
+      "300 g de pâtes",
+      "2 tasses de feuilles de basilic",
+      "1/3 tasse d'huile d'olive",
+      "2 c. à soupe de pignons de pin",
+      "1/3 tasse de parmesan râpé",
+      "1 gousse d'ail"
+    ],
+    "instructions": "Mixez le basilic, l'huile d'olive, les pignons, le parmesan et l'ail pour obtenir un pesto lisse. Faites cuire les pâtes et mélangez-les avec la sauce dès qu'elles sont égouttées."
+  },
+  "n6": {
+    "name": "Burrito mexicain au bœuf",
+    "ingredients": [
+      "400 g de bœuf haché",
+      "2 grandes tortillas",
+      "1/2 tasse de haricots rouges, égouttés",
+      "1 tasse de riz cuit",
+      "1/2 tasse de fromage râpé",
+      "1 tomate, hachée"
+    ],
+    "instructions": "Faites cuire le bœuf haché avec des épices mexicaines. Garnissez une grande tortilla de bœuf, de haricots, de riz, de fromage et de tomate, puis roulez-la bien serrée."
+  },
+  "n7": {
+    "name": "Assiette houmous et falafels",
+    "ingredients": [
+      "2 tasses de pois chiches cuits",
+      "3 c. à soupe de tahini",
+      "2 c. à soupe de persil haché",
+      "1 c. à café de cumin",
+      "le jus d'1 citron",
+      "2 pains pita"
+    ],
+    "instructions": "Mixez une partie des pois chiches avec le tahini, le citron et l'ail pour obtenir un houmous lisse. Mixez grossièrement le reste avec le persil et le cumin, formez des boulettes et faites frire les falafels. Servez avec les pitas."
+  },
+  "n8": {
+    "name": "Taboulé libanais",
+    "ingredients": [
+      "1/2 tasse de boulgour",
+      "2 tasses de persil finement haché",
+      "2 tomates, en petits dés",
+      "3 oignons verts, hachés",
+      "le jus d'1 citron",
+      "3 c. à soupe d'huile d'olive"
+    ],
+    "instructions": "Faites tremper le boulgour dans de l'eau chaude jusqu'à ce qu'il soit tendre, puis égouttez. Hachez finement le persil, les tomates et les oignons verts et mélangez avec le boulgour. Assaisonnez de citron et d'huile d'olive."
+  },
+  "h1": {
+    "name": "Pudding de chia aux fruits rouges",
+    "ingredients": [
+      "3 c. à soupe de graines de chia",
+      "1 tasse de lait d'amande ou de lait",
+      "1/2 tasse de fruits rouges",
+      "1 c. à soupe de miel ou de sirop de dattes"
+    ],
+    "instructions": "Mélangez les graines de chia avec le lait et l'édulcorant, puis réfrigérez au moins 3 heures ou toute la nuit jusqu'à ce que le mélange épaississe. Servez avec des fruits rouges frais."
+  },
+  "h2": {
+    "name": "Energy balls dattes et amandes",
+    "ingredients": [
+      "1 tasse de dattes dénoyautées",
+      "1 tasse d'amandes",
+      "2 c. à soupe de cacao en poudre",
+      "1/4 tasse de noix de coco râpée"
+    ],
+    "instructions": "Mixez les dattes et les amandes au robot jusqu'à obtenir une pâte collante. Ajoutez le cacao, formez de petites boules et roulez-les dans la noix de coco râpée."
+  },
+  "h3": {
+    "name": "Mousse chocolat-avocat healthy",
+    "ingredients": [
+      "2 avocats mûrs",
+      "3 c. à soupe de cacao en poudre",
+      "3 c. à soupe de sirop de dattes ou de miel",
+      "2 c. à soupe de lait végétal"
+    ],
+    "instructions": "Mixez l'avocat, le cacao, l'édulcorant et un peu de lait végétal jusqu'à obtenir une texture crémeuse et lisse. Réfrigérez avant de servir."
+  },
+  "h4": {
+    "name": "Salade de fruits frais, menthe et citron vert",
+    "ingredients": [
+      "3 tasses de fruits de saison coupés",
+      "1 c. à soupe de menthe hachée",
+      "le jus d'1 citron vert",
+      "1 c. à soupe de miel"
+    ],
+    "instructions": "Coupez les fruits de saison en cubes, mélangez avec la menthe hachée et le jus de citron vert, puis arrosez d'un filet de miel."
+  },
+  "i1": {
+    "name": "Fondant au chocolat coulant",
+    "ingredients": [
+      "200 g de chocolat noir",
+      "150 g de beurre",
+      "3 œufs",
+      "1/2 tasse de sucre",
+      "1/3 tasse de farine"
+    ],
+    "instructions": "Faites fondre le chocolat avec le beurre. Fouettez les œufs avec le sucre, incorporez au chocolat puis ajoutez la farine. Enfournez dans des ramequins individuels à 200°C pendant environ 10 minutes, jusqu'à ce que les bords soient pris et le cœur encore coulant."
+  },
+  "i2": {
+    "name": "Tiramisu classique",
+    "ingredients": [
+      "500 g de mascarpone",
+      "4 œufs, blancs et jaunes séparés",
+      "1/2 tasse de sucre",
+      "24 biscuits à la cuillère",
+      "1,5 tasse de café fort et froid",
+      "2 c. à soupe de cacao en poudre, pour saupoudrer"
+    ],
+    "instructions": "Fouettez les jaunes avec le sucre et incorporez le mascarpone. Trempez les biscuits dans le café froid, disposez-les en couche dans un plat et recouvrez d'une couche de crème. Répétez les couches et réfrigérez au moins 4 heures. Saupoudrez de cacao avant de servir."
+  },
+  "i3": {
+    "name": "Baklava maison",
+    "ingredients": [
+      "1 paquet de pâte filo (environ 20 feuilles)",
+      "2 tasses de noix concassées",
+      "1 tasse de beurre fondu",
+      "1 tasse de sucre",
+      "1/2 tasse de miel",
+      "1 c. à café d'eau de rose"
+    ],
+    "instructions": "Superposez les feuilles de filo en badigeonnant chacune de beurre fondu et en répartissant les noix entre les couches. Découpez en triangles et enfournez à 180°C pendant environ 30 minutes. Versez un sirop chaud de miel et de sucre dès la sortie du four."
+  },
+  "i4": {
+    "name": "Cheesecake new-yorkais",
+    "ingredients": [
+      "700 g de fromage frais à tartiner",
+      "3 œufs",
+      "1 tasse de sucre",
+      "1/2 tasse de crème aigre",
+      "200 g de biscuits émiettés",
+      "100 g de beurre fondu"
+    ],
+    "instructions": "Mélangez les biscuits émiettés avec le beurre fondu et tassez dans un moule. Battez le fromage frais avec le sucre, les œufs et la crème aigre pour obtenir une garniture lisse, puis versez sur la base. Enfournez à 160°C pendant environ une heure et réfrigérez au moins 4 heures avant de servir."
+  },
+  "b9": {
+    "name": "Chakchouka aux merguez",
+    "ingredients": [
+      "4 œufs",
+      "250 g de merguez ou de saucisses de bœuf épicées, en rondelles",
+      "3 tomates mûres, hachées",
+      "1 oignon, haché",
+      "1 poivron rouge, haché",
+      "2 gousses d'ail, écrasées",
+      "1 c. à café de harissa ou de pâte de piment"
+    ],
+    "instructions": "Faites dorer les rondelles de saucisse dans une poêle profonde et réservez. Dans la même poêle, faites revenir l'oignon et le poivron, ajoutez l'ail et la harissa, puis les tomates, et laissez mijoter 10 minutes. Remettez les saucisses, creusez des puits, cassez-y les œufs, couvrez et laissez cuire jusqu'à ce que les blancs soient pris."
+  },
+  "b10": {
+    "name": "Wrap du matin dinde et légumes",
+    "ingredients": [
+      "2 tortillas complètes",
+      "120 g de blanc de dinde en tranches",
+      "2 œufs",
+      "1 poignée de jeunes pousses d'épinard",
+      "1 tomate, en tranches",
+      "1 c. à soupe de houmous ou de moutarde"
+    ],
+    "instructions": "Préparez des œufs brouillés dans une poêle légèrement huilée. Tartinez les tortillas de houmous ou de moutarde, puis garnissez d'épinards, de dinde, de tomate et d'œufs brouillés. Roulez bien serré, faites dorer une minute de chaque côté dans une poêle sèche et coupez en deux."
+  },
+  "b11": {
+    "name": "Overnight oats pomme-cannelle",
+    "ingredients": [
+      "1 tasse de flocons d'avoine",
+      "1 tasse de lait d'avoine ou de soja",
+      "1 pomme, râpée",
+      "1 c. à soupe de graines de chia",
+      "1 c. à café de cannelle",
+      "1 c. à soupe de sirop d'érable"
+    ],
+    "instructions": "Mélangez les flocons d'avoine, le lait végétal, les graines de chia et la cannelle dans un bocal. Ajoutez la pomme râpée et le sirop d'érable, couvrez et réfrigérez toute la nuit. Mélangez et dégustez froid, avec quelques noix si vous le souhaitez."
+  },
+  "b12": {
+    "name": "Frittata patate douce et épinards",
+    "ingredients": [
+      "1 petite patate douce, en fines tranches",
+      "4 œufs",
+      "2 poignées d'épinards frais",
+      "1/2 oignon, émincé",
+      "2 c. à soupe d'huile d'olive",
+      "sel et poivre"
+    ],
+    "instructions": "Faites revenir la patate douce et l'oignon dans l'huile d'olive jusqu'à ce qu'ils soient tendres, environ 10 minutes. Ajoutez les épinards jusqu'à ce qu'ils tombent, puis versez les œufs battus, salés et poivrés. Couvrez et laissez cuire à feu doux 8 minutes jusqu'à prise, puis coupez et servez."
+  },
+  "b13": {
+    "name": "Tartine de ricotta, figues et miel",
+    "ingredients": [
+      "2 tranches de pain complet, grillées",
+      "1/2 tasse de ricotta",
+      "3 figues fraîches, en tranches",
+      "1 c. à soupe de miel",
+      "2 c. à soupe de noix hachées"
+    ],
+    "instructions": "Tartinez généreusement la ricotta sur les tartines chaudes. Disposez les tranches de figue dessus, nappez de miel et parsemez de noix. Servez aussitôt."
+  },
+  "b14": {
+    "name": "Menemen (œufs brouillés à la turque)",
+    "ingredients": [
+      "4 œufs",
+      "3 tomates mûres, hachées",
+      "1 poivron vert, en dés",
+      "1/2 oignon, en dés",
+      "2 c. à soupe d'huile d'olive",
+      "1/2 c. à café de piment en flocons"
+    ],
+    "instructions": "Faites revenir l'oignon et le poivron vert dans l'huile d'olive jusqu'à ce qu'ils soient tendres. Ajoutez les tomates et laissez cuire 6 minutes jusqu'à obtenir une sauce. Versez les œufs, remuez doucement jusqu'à prise, saupoudrez de piment et servez avec du pain."
+  },
+  "b15": {
+    "name": "Tartine beurre de cacahuète et banane",
+    "ingredients": [
+      "2 tranches de pain complet, grillées",
+      "2 c. à soupe de beurre de cacahuète",
+      "1 banane, en rondelles",
+      "1 c. à café de graines de chia",
+      "1 pincée de cannelle"
+    ],
+    "instructions": "Étalez le beurre de cacahuète sur les tartines chaudes. Disposez les rondelles de banane, puis parsemez de graines de chia et de cannelle. Dégustez aussitôt."
+  },
+  "b16": {
+    "name": "Assiette petit-déjeuner houmous et œufs",
+    "ingredients": [
+      "1 tasse de houmous",
+      "2 œufs durs, coupés en deux",
+      "1 concombre, en rondelles",
+      "2 tomates, en tranches",
+      "1 c. à soupe d'huile d'olive",
+      "1 c. à café de zaatar",
+      "2 pains pita"
+    ],
+    "instructions": "Étalez le houmous dans une assiette et creusez légèrement le centre. Disposez autour les œufs, le concombre et les tomates. Arrosez d'huile d'olive, saupoudrez de zaatar et servez avec du pain pita chaud."
+  },
+  "b17": {
+    "name": "Croque-monsieur à la dinde",
+    "ingredients": [
+      "4 tranches de pain de mie",
+      "4 tranches de blanc de dinde fumé",
+      "1 tasse de gruyère ou d'emmental râpé",
+      "2 c. à soupe de beurre",
+      "1 c. à soupe de farine",
+      "1/2 tasse de lait"
+    ],
+    "instructions": "Faites fondre 1 cuillère à soupe de beurre, ajoutez la farine puis le lait en fouettant et laissez épaissir pour obtenir une béchamel légère. Garnissez le pain de dinde et de la moitié du fromage, nappez de béchamel et couvrez du reste de fromage. Enfournez 10 minutes à 220 °C jusqu'à ce que ce soit doré et gratiné."
+  },
+  "b18": {
+    "name": "Tamagoyaki (omelette roulée japonaise)",
+    "ingredients": [
+      "4 œufs",
+      "1 c. à soupe de sauce soja",
+      "1 c. à café de sucre",
+      "1 c. à soupe d'huile végétale",
+      "1 oignon vert, finement haché"
+    ],
+    "instructions": "Battez les œufs avec la sauce soja, le sucre et l'oignon vert. Versez une fine couche dans une poêle chaude huilée et, quand elle est presque prise, roulez-la sur un côté. Versez un peu d'œuf, soulevez le rouleau pour qu'il coule dessous, roulez de nouveau ; répétez jusqu'à épuisement des œufs, puis tranchez."
+  },
+  "b19": {
+    "name": "Huevos rancheros",
+    "ingredients": [
+      "4 œufs",
+      "4 petites tortillas de maïs",
+      "1 tasse de haricots noirs, chauds",
+      "1 tasse de salsa de tomates",
+      "1 avocat, en tranches",
+      "1 c. à soupe d'huile",
+      "coriandre fraîche"
+    ],
+    "instructions": "Réchauffez les tortillas dans une poêle sèche et garnissez-les de haricots noirs chauds. Faites frire les œufs dans l'huile jusqu'à ce que le blanc soit pris et posez-les sur les tortillas. Nappez de salsa, ajoutez l'avocat et parsemez de coriandre."
+  },
+  "b20": {
+    "name": "Omelette masala",
+    "ingredients": [
+      "4 œufs",
+      "1/2 oignon rouge, finement haché",
+      "1 tomate, finement hachée",
+      "1 piment vert, finement haché",
+      "1/2 c. à café de curcuma",
+      "2 c. à soupe de coriandre hachée",
+      "1 c. à soupe d'huile"
+    ],
+    "instructions": "Battez les œufs avec l'oignon, la tomate, le piment, le curcuma, la coriandre et une pincée de sel. Versez dans une poêle chaude huilée et faites cuire à feu moyen jusqu'à ce que le dessous soit doré. Repliez en deux et servez chaud avec du pain grillé."
+  },
+  "b21": {
+    "name": "Brouillade de tofu au curcuma",
+    "ingredients": [
+      "200 g de tofu ferme",
+      "1 poignée de jeunes pousses d'épinards",
+      "1/2 oignon, en dés",
+      "6 tomates cerises, coupées en deux",
+      "1/2 c. à café de curcuma",
+      "1 c. à soupe d'huile d'olive",
+      "poivre noir"
+    ],
+    "instructions": "Faites revenir l'oignon dans l'huile d'olive jusqu'à ce qu'il soit tendre. Émiettez le tofu avec le curcuma et faites cuire 5 minutes en remuant. Ajoutez les tomates et les épinards jusqu'à ce que ces derniers tombent, puis salez et poivrez."
+  },
+  "b22": {
+    "name": "Sandwich petit-déjeuner dinde et œuf",
+    "ingredients": [
+      "2 petits pains ou muffins anglais, grillés",
+      "2 œufs",
+      "4 tranches de dinde fumée",
+      "1 tomate, en tranches",
+      "quelques feuilles de laitue",
+      "1 c. à soupe d'huile",
+      "1 c. à café de moutarde"
+    ],
+    "instructions": "Faites cuire les œufs à l'huile selon votre goût et réchauffez les tranches de dinde une minute dans la poêle. Tartinez les pains grillés de moutarde. Garnissez de dinde, d'œuf, de tomate et de laitue et servez tiède."
+  },
+  "b23": {
+    "name": "Œufs cocotte aux épinards et à la feta",
+    "ingredients": [
+      "4 œufs",
+      "200 g d'épinards frais",
+      "80 g de feta, émiettée",
+      "1 gousse d'ail, hachée",
+      "1 c. à soupe d'huile d'olive",
+      "1/2 c. à café de paprika"
+    ],
+    "instructions": "Faites revenir l'ail et les épinards dans l'huile d'olive jusqu'à ce qu'ils tombent et répartissez-les dans deux petits plats. Parsemez de feta, cassez les œufs dessus et saupoudrez de paprika. Enfournez 10 à 12 minutes à 200 °C jusqu'à ce que le blanc soit pris."
+  },
+  "b24": {
+    "name": "Bagel au saumon fumé",
+    "ingredients": [
+      "2 bagels, coupés en deux et grillés",
+      "100 g de saumon fumé",
+      "4 c. à soupe de fromage frais",
+      "1/2 concombre, en fines tranches",
+      "1/4 oignon rouge, en fines tranches",
+      "1 c. à soupe de câpres",
+      "aneth frais"
+    ],
+    "instructions": "Tartinez généreusement le fromage frais sur les demi-bagels grillés. Garnissez de saumon, de concombre et d'oignon rouge. Terminez par les câpres et un peu d'aneth."
+  },
+  "l11": {
+    "name": "Sandwich à la salade de pois chiches",
+    "ingredients": [
+      "1 boîte de pois chiches (400 g), égouttés",
+      "2 c. à soupe de tahini",
+      "1 c. à soupe de jus de citron",
+      "1 branche de céleri, en petits dés",
+      "4 tranches de pain complet",
+      "quelques feuilles de laitue"
+    ],
+    "instructions": "Écrasez grossièrement les pois chiches à la fourchette et mélangez-les au tahini, au jus de citron et au céleri. Salez et poivrez. Répartissez sur le pain avec la laitue et refermez le sandwich."
+  },
+  "l12": {
+    "name": "Avocats farcis au thon",
+    "ingredients": [
+      "2 avocats mûrs, coupés en deux et dénoyautés",
+      "1 boîte de thon (160 g), égoutté",
+      "1 c. à soupe de mayonnaise",
+      "1 c. à soupe de jus de citron",
+      "2 c. à soupe d'oignon rouge, en dés",
+      "1 c. à soupe de persil haché"
+    ],
+    "instructions": "Mélangez le thon avec la mayonnaise, le jus de citron, l'oignon rouge et le persil, puis salez et poivrez. Garnissez les moitiés d'avocat de cette préparation. Servez aussitôt."
+  },
+  "l13": {
+    "name": "Sabich (pita aux aubergines et à l'œuf)",
+    "ingredients": [
+      "2 aubergines, en tranches",
+      "3 œufs durs, en tranches",
+      "4 c. à soupe de tahini",
+      "1 tomate et 1 concombre, en dés",
+      "2 pains pita",
+      "4 c. à soupe d'huile pour la friture",
+      "1 c. à soupe de jus de citron"
+    ],
+    "instructions": "Faites frire les tranches d'aubergine dans l'huile jusqu'à ce qu'elles soient dorées des deux côtés et salez-les. Délayez le tahini avec le jus de citron et un peu d'eau pour obtenir une sauce lisse. Garnissez les pitas d'aubergine, d'œuf et de légumes en dés et nappez généreusement de tahini."
+  },
+  "l14": {
+    "name": "Salade israélienne au tahini",
+    "ingredients": [
+      "3 tomates, en petits dés",
+      "2 concombres, en petits dés",
+      "1/2 oignon rouge, en petits dés",
+      "2 c. à soupe de persil haché",
+      "2 c. à soupe de tahini",
+      "2 c. à soupe d'huile d'olive",
+      "2 c. à soupe de jus de citron"
+    ],
+    "instructions": "Mélangez les tomates, les concombres, l'oignon et le persil dans un grand saladier. Fouettez le tahini, l'huile d'olive et le jus de citron avec un peu d'eau jusqu'à obtenir une sauce crémeuse. Assaisonnez la salade de cette sauce, salez et servez aussitôt."
+  },
+  "l15": {
+    "name": "Bol de salade au poulet citronné",
+    "ingredients": [
+      "2 blancs de poulet",
+      "2 poignées de salade mélangée",
+      "1 concombre, en rondelles",
+      "10 tomates cerises, coupées en deux",
+      "3 c. à soupe d'huile d'olive",
+      "2 c. à soupe de jus de citron",
+      "1 c. à café d'origan séché"
+    ],
+    "instructions": "Faites mariner le poulet dans 1 cuillère à soupe d'huile d'olive, la moitié du jus de citron et l'origan pendant 10 minutes. Faites-le griller ou cuire à la poêle 6 minutes de chaque côté jusqu'à cuisson complète, puis tranchez. Disposez sur la salade, le concombre et les tomates et assaisonnez avec le reste d'huile et de citron."
+  },
+  "l16": {
+    "name": "Sandwich caprese",
+    "ingredients": [
+      "1 ciabatta ou 4 tranches de bon pain",
+      "200 g de mozzarella fraîche, en tranches",
+      "2 tomates mûres, en tranches",
+      "une poignée de basilic frais",
+      "2 c. à soupe d'huile d'olive",
+      "1 c. à café de glaçage balsamique"
+    ],
+    "instructions": "Ouvrez la ciabatta en deux et arrosez les deux faces d'huile d'olive. Superposez la mozzarella, les tomates et le basilic, salez, poivrez et ajoutez le glaçage balsamique. Refermez, pressez légèrement et coupez en deux."
+  },
+  "l17": {
+    "name": "Soupe minestrone",
+    "ingredients": [
+      "1 oignon et 2 carottes, en dés",
+      "2 courgettes, en dés",
+      "1 boîte de tomates concassées (400 g)",
+      "1 boîte de haricots blancs, égouttés",
+      "1/2 tasse de petites pâtes",
+      "1 litre de bouillon de légumes",
+      "2 c. à soupe d'huile d'olive"
+    ],
+    "instructions": "Faites revenir l'oignon, les carottes et les courgettes dans l'huile d'olive pendant 5 minutes. Ajoutez les tomates et le bouillon et laissez mijoter 15 minutes. Incorporez les haricots et les pâtes et cuisez jusqu'à ce que les pâtes soient tendres, environ 8 minutes, puis assaisonnez."
+  },
+  "l18": {
+    "name": "Soupe de champignons à l'orge",
+    "ingredients": [
+      "300 g de champignons, en lamelles",
+      "1/2 tasse d'orge perlé",
+      "1 oignon et 2 carottes, en dés",
+      "1,5 litre de bouillon de légumes",
+      "2 c. à soupe d'huile d'olive",
+      "1 c. à café de thym séché",
+      "2 gousses d'ail, hachées"
+    ],
+    "instructions": "Faites revenir l'oignon, les carottes et les champignons dans l'huile d'olive jusqu'à ce que les champignons dorent, puis ajoutez l'ail et le thym. Versez le bouillon, ajoutez l'orge et laissez mijoter 35 minutes jusqu'à ce qu'il soit tendre. Salez, poivrez et servez chaud."
+  },
+  "l19": {
+    "name": "Soupe de poulet aux légumes",
+    "ingredients": [
+      "1 poulet entier en morceaux, ou 1 kg de morceaux de poulet",
+      "2 carottes, épluchées",
+      "2 branches de céleri",
+      "1 oignon, coupé en deux",
+      "1 panais",
+      "2 c. à soupe d'aneth et de persil hachés",
+      "2 litres d'eau"
+    ],
+    "instructions": "Placez le poulet dans une grande marmite, couvrez d'eau et portez à ébullition en écumant. Ajoutez les légumes, baissez le feu et laissez mijoter à couvert partiel pendant 1 heure. Salez, ajoutez les herbes fraîches et servez chaud."
+  },
+  "l20": {
+    "name": "Wrap de poulet shawarma",
+    "ingredients": [
+      "500 g de cuisses de poulet, en lanières",
+      "2 c. à café d'épices à shawarma",
+      "2 c. à soupe d'huile d'olive",
+      "2 grands pains lavash ou pita",
+      "2 c. à soupe de tahini",
+      "1 tomate et 1 concombre, en tranches",
+      "cornichons et laitue"
+    ],
+    "instructions": "Mélangez le poulet avec les épices, l'huile d'olive et un peu de sel. Faites-le saisir dans une poêle chaude pendant 8 à 10 minutes jusqu'à ce qu'il soit doré et cuit. Tartinez le pain de tahini, garnissez de poulet, de légumes et de cornichons et roulez fermement."
+  },
+  "l21": {
+    "name": "Salade grecque aux pois chiches et à la feta",
+    "ingredients": [
+      "1 boîte de pois chiches (400 g), égouttés",
+      "100 g de feta, en dés",
+      "1 concombre, en dés",
+      "10 tomates cerises, coupées en deux",
+      "1/4 oignon rouge, en fines tranches",
+      "3 c. à soupe d'huile d'olive",
+      "1 c. à soupe de jus de citron"
+    ],
+    "instructions": "Mélangez dans un saladier les pois chiches, le concombre, les tomates et l'oignon. Fouettez l'huile d'olive et le jus de citron avec une pincée de sel et d'origan si vous en avez. Mélangez et parsemez de feta."
+  },
+  "l22": {
+    "name": "Poivrons farcis au riz",
+    "ingredients": [
+      "4 poivrons, chapeau coupé et épépinés",
+      "1 tasse de riz cuit",
+      "1 boîte de tomates concassées (400 g)",
+      "1 oignon, en dés",
+      "1 courgette, en dés",
+      "2 c. à soupe d'huile d'olive",
+      "2 c. à soupe de persil haché"
+    ],
+    "instructions": "Faites revenir l'oignon et la courgette dans l'huile d'olive, puis mélangez avec le riz, la moitié des tomates et le persil. Garnissez les poivrons et placez-les debout dans un plat. Versez le reste des tomates autour, couvrez de papier d'aluminium et enfournez 40 minutes à 190 °C."
+  },
+  "l23": {
+    "name": "Nouilles sautées aux légumes (lo mein)",
+    "ingredients": [
+      "200 g de nouilles sans œuf",
+      "1 carotte, en bâtonnets",
+      "1 poivron rouge, en lamelles",
+      "2 tasses de chou râpé",
+      "3 c. à soupe de sauce soja",
+      "1 c. à soupe d'huile de sésame",
+      "2 gousses d'ail, hachées"
+    ],
+    "instructions": "Faites cuire les nouilles selon les indications du paquet et égouttez-les. Faites sauter l'ail, la carotte, le poivron et le chou dans l'huile de sésame à feu vif pendant 4 minutes. Ajoutez les nouilles et la sauce soja et mélangez jusqu'à ce que tout soit chaud et enrobé."
+  },
+  "l24": {
+    "name": "Soupe miso au tofu",
+    "ingredients": [
+      "4 tasses d'eau",
+      "3 c. à soupe de pâte de miso",
+      "150 g de tofu soyeux, en dés",
+      "2 oignons verts, émincés",
+      "1 feuille de nori, déchirée",
+      "1 c. à café de graines de sésame"
+    ],
+    "instructions": "Chauffez l'eau jusqu'à ce qu'elle fume sans bouillir. Délayez la pâte de miso dans une louche d'eau chaude et remettez-la dans la casserole. Ajoutez le tofu, les oignons verts et le nori, chauffez 2 minutes sans faire bouillir et servez avec les graines de sésame."
+  },
+  "l25": {
+    "name": "Pho aux légumes",
+    "ingredients": [
+      "1,5 litre de bouillon de légumes",
+      "200 g de nouilles de riz",
+      "150 g de tofu, en dés",
+      "2 carottes, en fines tranches",
+      "1 bâton de cannelle et 2 étoiles de badiane",
+      "1 citron vert, en quartiers",
+      "germes de soja, basilic et coriandre"
+    ],
+    "instructions": "Faites mijoter le bouillon avec la cannelle, la badiane et les carottes pendant 15 minutes. Cuisez les nouilles à part, égouttez-les et répartissez-les dans les bols avec le tofu. Versez le bouillon chaud et servez avec le citron vert, les germes de soja et les herbes fraîches."
+  },
+  "l26": {
+    "name": "Quesadillas aux haricots et au fromage",
+    "ingredients": [
+      "4 grandes tortillas de blé",
+      "1 boîte de haricots noirs (400 g), égouttés et légèrement écrasés",
+      "1,5 tasse de mozzarella ou de fromage jaune râpé",
+      "1/2 tasse de grains de maïs",
+      "1 c. à café de cumin moulu",
+      "1 c. à soupe d'huile",
+      "salsa pour servir"
+    ],
+    "instructions": "Mélangez les haricots avec le maïs et le cumin. Étalez sur la moitié de chaque tortilla, parsemez de fromage et repliez. Faites cuire dans une poêle huilée 2 à 3 minutes de chaque côté jusqu'à ce que ce soit croustillant et le fromage fondu, puis coupez en triangles et servez avec la salsa."
+  },
+  "l27": {
+    "name": "Beignets de courgettes",
+    "ingredients": [
+      "3 courgettes, râpées",
+      "2 œufs",
+      "1/2 tasse de farine",
+      "2 c. à soupe d'aneth ou de persil haché",
+      "1 c. à café de sel",
+      "3 c. à soupe d'huile pour la friture"
+    ],
+    "instructions": "Salez les courgettes râpées, laissez reposer 10 minutes et pressez-les bien pour retirer l'eau. Mélangez avec les œufs, la farine et les herbes. Faites frire des cuillerées dans l'huile chaude 2 à 3 minutes de chaque côté jusqu'à ce qu'elles soient dorées et égouttez sur du papier absorbant."
+  },
+  "l28": {
+    "name": "Salade de pâtes à la feta et aux légumes",
+    "ingredients": [
+      "250 g de fusilli ou de penne",
+      "1 concombre, en dés",
+      "10 tomates cerises, coupées en deux",
+      "100 g de feta, émiettée",
+      "1/4 tasse d'olives, en rondelles",
+      "3 c. à soupe d'huile d'olive",
+      "2 c. à soupe de jus de citron"
+    ],
+    "instructions": "Faites cuire les pâtes al dente, égouttez-les et rincez-les à l'eau froide. Mélangez avec le concombre, les tomates, les olives et la feta. Assaisonnez d'huile d'olive, de jus de citron, de sel et de poivre et laissez au frais 15 minutes avant de servir."
+  },
+  "l29": {
+    "name": "Salade de lentilles et betteraves rôties",
+    "ingredients": [
+      "1 tasse de lentilles vertes ou brunes",
+      "3 betteraves moyennes, épluchées et coupées en dés",
+      "1/2 oignon rouge, en fines tranches",
+      "3 c. à soupe d'huile d'olive",
+      "2 c. à soupe de jus de citron",
+      "2 c. à soupe de persil haché",
+      "1/4 tasse de noix hachées"
+    ],
+    "instructions": "Mélangez les betteraves avec 1 cuillère à soupe d'huile et faites-les rôtir 30 minutes à 200 °C jusqu'à ce qu'elles soient tendres. Pendant ce temps, faites cuire les lentilles 20 à 25 minutes jusqu'à ce qu'elles soient tendres mais entières, puis égouttez-les. Mélangez lentilles, betteraves, oignon et persil avec le reste d'huile et le jus de citron, assaisonnez et parsemez de noix."
+  },
+  "l30": {
+    "name": "Salade César au poulet",
+    "ingredients": [
+      "2 blancs de poulet",
+      "1 grande romaine, déchirée",
+      "1/2 tasse de parmesan râpé",
+      "1 tasse de croûtons",
+      "3 c. à soupe d'huile d'olive",
+      "1 c. à soupe de jus de citron",
+      "1 gousse d'ail et 1 c. à café de moutarde de Dijon"
+    ],
+    "instructions": "Assaisonnez le poulet et faites-le griller à la poêle 6 minutes de chaque côté jusqu'à cuisson complète, puis tranchez. Fouettez l'huile d'olive, le jus de citron, l'ail écrasé, la moutarde et la moitié du parmesan pour la sauce. Mélangez la salade avec la sauce et garnissez de poulet, de croûtons et du reste de parmesan."
+  },
+  "d9": {
+    "name": "Escalope de poulet croustillante",
+    "ingredients": [
+      "3 blancs de poulet, coupés en deux dans l'épaisseur",
+      "1 tasse de chapelure",
+      "2 œufs, battus",
+      "1/2 tasse de farine",
+      "1/2 tasse d'huile pour la friture",
+      "1 c. à café de paprika",
+      "1 citron, en quartiers"
+    ],
+    "instructions": "Aplatissez légèrement le poulet et assaisonnez de sel et de paprika. Passez chaque morceau dans la farine, puis dans l'œuf, puis dans la chapelure. Faites frire dans l'huile chaude 3 à 4 minutes de chaque côté jusqu'à ce que ce soit bien doré, égouttez sur du papier absorbant et servez avec le citron."
+  },
+  "d10": {
+    "name": "Boulettes de bœuf à la sauce tomate",
+    "ingredients": [
+      "500 g de bœuf haché",
+      "1 œuf",
+      "1/2 tasse de chapelure",
+      "1 boîte de tomates concassées (400 g)",
+      "1 oignon, finement haché",
+      "2 gousses d'ail, hachées",
+      "250 g de spaghettis"
+    ],
+    "instructions": "Mélangez le bœuf avec l'œuf, la chapelure, la moitié de l'oignon, la moitié de l'ail, du sel et du poivre, puis formez des boulettes. Faites revenir le reste d'oignon et d'ail, ajoutez les tomates et laissez mijoter 10 minutes. Ajoutez les boulettes, cuisez 15 minutes et servez sur les spaghettis cuits."
+  },
+  "d11": {
+    "name": "Ragoût de bœuf aux pommes de terre",
+    "ingredients": [
+      "600 g de bœuf à braiser, en cubes",
+      "3 pommes de terre, en cubes",
+      "2 carottes, en rondelles",
+      "1 oignon, en dés",
+      "2 c. à soupe de concentré de tomate",
+      "1 c. à café de paprika",
+      "2 c. à soupe d'huile et 3 tasses d'eau ou de bouillon"
+    ],
+    "instructions": "Faites dorer le bœuf dans l'huile dans une cocotte, puis ajoutez l'oignon et faites-le fondre. Incorporez le concentré de tomate et le paprika, versez l'eau et laissez mijoter à couvert 1 heure. Ajoutez les pommes de terre et les carottes et poursuivez la cuisson 30 minutes jusqu'à ce que tout soit tendre."
+  },
+  "d12": {
+    "name": "Saumon teriyaki",
+    "ingredients": [
+      "2 filets de saumon",
+      "3 c. à soupe de sauce soja",
+      "1 c. à soupe de miel",
+      "1 c. à café de gingembre râpé",
+      "1 gousse d'ail, hachée",
+      "1 c. à soupe d'huile",
+      "1 c. à café de graines de sésame"
+    ],
+    "instructions": "Mélangez la sauce soja, le miel, le gingembre et l'ail. Saisissez le saumon dans l'huile, côté peau vers le bas, 4 minutes puis retournez-le. Versez la sauce et laissez cuire 3 à 4 minutes en arrosant le poisson jusqu'à ce qu'elle soit brillante, puis parsemez de sésame."
+  },
+  "d13": {
+    "name": "Brochettes de kefta d'agneau au tahini",
+    "ingredients": [
+      "500 g d'agneau ou de bœuf haché",
+      "1 oignon, râpé",
+      "1/2 tasse de persil haché",
+      "1 c. à café de cumin",
+      "1 c. à café de paprika",
+      "3 c. à soupe de tahini",
+      "1 c. à soupe de jus de citron"
+    ],
+    "instructions": "Mélangez la viande avec l'oignon, le persil, le cumin, le paprika et du sel, puis façonnez de longs ovales autour de brochettes. Faites-les griller ou cuire à la poêle 4 minutes de chaque côté jusqu'à ce qu'elles soient dorées et cuites. Fouettez le tahini avec le jus de citron et un peu d'eau et servez à côté."
+  },
+  "d14": {
+    "name": "Aubergines à la parmesane",
+    "ingredients": [
+      "3 grosses aubergines, en tranches de 1 cm",
+      "2 tasses de sauce tomate",
+      "250 g de mozzarella, en tranches",
+      "1/2 tasse de parmesan râpé",
+      "4 c. à soupe d'huile d'olive",
+      "une poignée de basilic frais"
+    ],
+    "instructions": "Badigeonnez les tranches d'aubergine d'huile d'olive, salez-les et faites-les cuire 20 minutes à 220 °C en les retournant une fois, jusqu'à ce qu'elles soient dorées. Disposez en couches dans un plat l'aubergine, la sauce tomate, la mozzarella et le basilic, en terminant par de la sauce et du parmesan. Enfournez 25 minutes à 200 °C jusqu'à ce que ça bouillonne."
+  },
+  "d15": {
+    "name": "Risotto crémeux aux champignons",
+    "ingredients": [
+      "1 tasse de riz arborio",
+      "300 g de champignons, en lamelles",
+      "1 oignon, finement haché",
+      "4 tasses de bouillon de légumes chaud",
+      "2 c. à soupe de beurre",
+      "1/2 tasse de parmesan râpé",
+      "2 gousses d'ail, hachées"
+    ],
+    "instructions": "Faites dorer les champignons dans la moitié du beurre et réservez. Faites revenir l'oignon et l'ail dans le reste du beurre, ajoutez le riz et remuez 1 minute. Ajoutez le bouillon chaud louche après louche en remuant, environ 20 minutes, jusqu'à ce que ce soit crémeux, puis incorporez les champignons et le parmesan."
+  },
+  "d16": {
+    "name": "Spaghettis aglio e olio",
+    "ingredients": [
+      "250 g de spaghettis",
+      "5 gousses d'ail, en fines lamelles",
+      "5 c. à soupe d'huile d'olive",
+      "1/2 c. à café de piment en flocons",
+      "1/4 tasse de persil haché",
+      "1 c. à soupe de jus de citron"
+    ],
+    "instructions": "Faites cuire les spaghettis al dente dans de l'eau bien salée en gardant une tasse d'eau de cuisson. Chauffez l'huile d'olive avec l'ail et le piment à feu doux jusqu'à ce que l'ail soit à peine doré. Mélangez les pâtes dans la poêle avec un peu d'eau de cuisson, le persil et le jus de citron jusqu'à ce qu'elles soient brillantes."
+  },
+  "d17": {
+    "name": "Lasagnes aux légumes",
+    "ingredients": [
+      "9 feuilles de lasagne",
+      "3 tasses de sauce tomate",
+      "2 courgettes et 1 aubergine, en fines tranches",
+      "250 g de ricotta",
+      "200 g de mozzarella râpée",
+      "2 c. à soupe d'huile d'olive",
+      "1 c. à café d'origan séché"
+    ],
+    "instructions": "Faites griller ou rôtir les tranches de courgette et d'aubergine dans l'huile d'olive jusqu'à ce qu'elles soient tendres. Superposez dans un plat la sauce, les feuilles de lasagne, les légumes et la ricotta, répétez trois fois et terminez par de la sauce et de la mozzarella. Couvrez et enfournez 35 minutes à 190 °C, puis découvrez et poursuivez 10 minutes jusqu'à ce que ce soit doré."
+  },
+  "d18": {
+    "name": "Hachis parmentier aux lentilles",
+    "ingredients": [
+      "1 tasse de lentilles brunes ou vertes",
+      "1 oignon, 2 carottes et 1 branche de céleri, en dés",
+      "2 c. à soupe de concentré de tomate",
+      "1 kg de pommes de terre, épluchées et en cubes",
+      "3 c. à soupe d'huile d'olive",
+      "1/2 tasse de petits pois",
+      "1/2 tasse de lait végétal"
+    ],
+    "instructions": "Faites cuire les lentilles 20 minutes jusqu'à ce qu'elles soient tendres. Faites revenir les légumes dans la moitié de l'huile, ajoutez le concentré de tomate, les lentilles et les petits pois et assaisonnez bien. Faites cuire et écrasez les pommes de terre avec le reste de l'huile et le lait végétal, étalez sur les lentilles et enfournez 25 minutes à 200 °C jusqu'à ce que le dessus soit doré."
+  },
+  "d19": {
+    "name": "Fajitas au poulet",
+    "ingredients": [
+      "500 g de blanc de poulet, en lanières",
+      "2 poivrons, en lamelles",
+      "1 oignon, en lamelles",
+      "2 c. à café d'épices à fajitas",
+      "2 c. à soupe d'huile",
+      "6 petites tortillas",
+      "1 citron vert et 1 avocat, pour servir"
+    ],
+    "instructions": "Mélangez le poulet avec les épices et 1 cuillère à soupe d'huile. Faites-le saisir à feu vif 6 à 7 minutes jusqu'à cuisson complète et réservez. Faites revenir les poivrons et l'oignon dans le reste d'huile 5 minutes, remettez le poulet et servez dans des tortillas chaudes avec le citron vert et l'avocat."
+  },
+  "d20": {
+    "name": "Chili de dinde aux haricots",
+    "ingredients": [
+      "500 g de dinde hachée",
+      "1 boîte de haricots rouges (400 g), égouttés",
+      "1 boîte de tomates concassées (400 g)",
+      "1 oignon et 1 poivron, en dés",
+      "2 c. à café de piment en poudre",
+      "1 c. à café de cumin",
+      "2 c. à soupe d'huile"
+    ],
+    "instructions": "Faites revenir l'oignon et le poivron dans l'huile, ajoutez la dinde et faites cuire jusqu'à ce qu'elle ne soit plus rose. Incorporez les épices, les tomates, les haricots et une demi-tasse d'eau. Laissez mijoter 30 minutes en remuant de temps en temps jusqu'à épaississement et assaisonnez."
+  },
+  "d21": {
+    "name": "Ratatouille",
+    "ingredients": [
+      "1 aubergine, en cubes",
+      "2 courgettes, en rondelles",
+      "2 poivrons, en cubes",
+      "4 tomates mûres, hachées",
+      "1 oignon, émincé",
+      "3 c. à soupe d'huile d'olive",
+      "2 gousses d'ail et 1 c. à café de thym séché"
+    ],
+    "instructions": "Faites dorer l'aubergine dans l'huile d'olive et réservez. Dans la même cocotte, faites fondre l'oignon, l'ail, les poivrons et les courgettes. Remettez l'aubergine, ajoutez les tomates et le thym et laissez mijoter à couvert 30 minutes, puis salez et poivrez."
+  },
+  "d22": {
+    "name": "Poulet provençal",
+    "ingredients": [
+      "4 cuisses de poulet",
+      "1 boîte de tomates concassées (400 g)",
+      "1/2 tasse d'olives noires",
+      "1 oignon, émincé",
+      "3 gousses d'ail, en lamelles",
+      "2 c. à soupe d'huile d'olive",
+      "1 c. à café de thym séché ou d'herbes de Provence"
+    ],
+    "instructions": "Faites dorer le poulet des deux côtés dans l'huile d'olive et réservez. Faites fondre l'oignon et l'ail dans la même poêle, ajoutez les tomates, les herbes et les olives et portez à frémissement. Remettez le poulet, couvrez et laissez cuire à feu doux 40 minutes jusqu'à ce qu'il soit tendre."
+  },
+  "d23": {
+    "name": "Sauté de bœuf au brocoli",
+    "ingredients": [
+      "400 g de faux-filet de bœuf, en fines tranches",
+      "1 gros brocoli, en fleurettes",
+      "3 c. à soupe de sauce soja",
+      "1 c. à soupe de fécule de maïs",
+      "2 gousses d'ail, hachées",
+      "1 c. à café de gingembre râpé",
+      "2 c. à soupe d'huile"
+    ],
+    "instructions": "Mélangez le bœuf avec 1 cuillère à soupe de sauce soja et la fécule. Saisissez le bœuf dans l'huile chaude 2 minutes et réservez. Faites sauter le brocoli avec l'ail et le gingembre 4 minutes, remettez le bœuf, ajoutez le reste de sauce soja et un peu d'eau et mélangez jusqu'à ce que ce soit brillant. Servez sur du riz."
+  },
+  "d24": {
+    "name": "Poulet aigre-doux",
+    "ingredients": [
+      "500 g de blanc de poulet, en cubes",
+      "1 poivron et 1 oignon, en morceaux",
+      "1 tasse de morceaux d'ananas",
+      "1/2 tasse de farine ou de fécule de maïs",
+      "1/3 tasse de ketchup",
+      "3 c. à soupe de vinaigre et 2 c. à soupe de sucre",
+      "1/3 tasse d'huile pour la friture"
+    ],
+    "instructions": "Assaisonnez le poulet, farinez-le et faites-le frire dans l'huile chaude jusqu'à ce qu'il soit doré et cuit, puis réservez. Faites sauter le poivron et l'oignon 3 minutes. Ajoutez le ketchup, le vinaigre, le sucre et l'ananas, laissez épaissir la sauce, remettez le poulet et servez avec du riz."
+  },
+  "d25": {
+    "name": "Curry rouge thaï au poulet",
+    "ingredients": [
+      "500 g de blanc de poulet, en tranches",
+      "1 boîte de lait de coco (400 ml)",
+      "2 c. à soupe de pâte de curry rouge",
+      "1 poivron rouge et 1 courgette, en tranches",
+      "1 c. à soupe de sauce soja",
+      "1 c. à café de sucre",
+      "1,5 tasse de riz jasmin cuit"
+    ],
+    "instructions": "Faites revenir la pâte de curry 1 minute dans un peu de crème épaisse du lait de coco. Ajoutez le poulet et cuisez jusqu'à ce qu'il devienne opaque, versez le reste du lait de coco et laissez mijoter 10 minutes. Ajoutez les légumes, la sauce soja et le sucre, cuisez encore 5 minutes et servez sur du riz."
+  },
+  "d26": {
+    "name": "Poulet au basilic thaï",
+    "ingredients": [
+      "400 g de poulet haché",
+      "1 grosse poignée de feuilles de basilic frais",
+      "3 gousses d'ail, hachées",
+      "1 piment rouge, en rondelles",
+      "2 c. à soupe de sauce soja",
+      "1 c. à café de sucre",
+      "1 c. à soupe d'huile et du riz cuit pour servir"
+    ],
+    "instructions": "Faites sauter l'ail et le piment dans l'huile chaude 30 secondes. Ajoutez le poulet et faites-le cuire en l'émiettant jusqu'à ce qu'il soit doré, environ 6 minutes. Incorporez la sauce soja et le sucre, puis le basilic jusqu'à ce qu'il soit à peine fané, et servez sur du riz."
+  },
+  "d27": {
+    "name": "Courgettes farcies à la viande et au riz",
+    "ingredients": [
+      "8 courgettes moyennes, évidées",
+      "400 g de bœuf haché",
+      "1/2 tasse de riz, rincé",
+      "1 boîte de tomates concassées (400 g)",
+      "1 oignon, râpé",
+      "1 c. à café de quatre-épices",
+      "2 c. à soupe de persil haché"
+    ],
+    "instructions": "Mélangez le bœuf avec le riz, l'oignon, la moitié des tomates, le quatre-épices, le persil, du sel et du poivre. Remplissez chaque courgette aux trois quarts. Placez-les debout dans une large marmite, versez autour le reste des tomates et une tasse d'eau et laissez mijoter à couvert 45 minutes jusqu'à ce que le riz soit cuit."
+  },
+  "d28": {
+    "name": "Cabillaud rôti aux tomates et aux olives",
+    "ingredients": [
+      "2 filets de cabillaud",
+      "10 tomates cerises, coupées en deux",
+      "1/4 tasse d'olives vertes ou noires",
+      "2 gousses d'ail, en lamelles",
+      "2 c. à soupe d'huile d'olive",
+      "1 c. à soupe de câpres",
+      "1 citron"
+    ],
+    "instructions": "Placez le poisson dans un plat et répartissez autour les tomates, les olives, l'ail et les câpres. Arrosez d'huile d'olive, assaisonnez et pressez dessus la moitié du citron. Enfournez 15 à 18 minutes à 200 °C jusqu'à ce que le poisson s'effeuille facilement et servez avec des quartiers de citron."
+  },
+  "d29": {
+    "name": "Poulet et légumes au zaatar au four",
+    "ingredients": [
+      "4 cuisses de poulet",
+      "3 pommes de terre, en quartiers",
+      "2 carottes, en gros morceaux",
+      "1 oignon rouge, en quartiers",
+      "3 c. à soupe d'huile d'olive",
+      "2 c. à soupe de zaatar",
+      "1 citron"
+    ],
+    "instructions": "Mélangez les légumes et le poulet avec l'huile d'olive, le zaatar, du sel et le jus d'un demi-citron. Étalez sur une grande plaque en une seule couche, peau vers le haut. Faites rôtir 40 à 45 minutes à 210 °C jusqu'à ce que le poulet soit cuit et que tout soit doré."
+  },
+  "d30": {
+    "name": "Rouleaux de chou farcis",
+    "ingredients": [
+      "1 gros chou",
+      "400 g de bœuf haché",
+      "1/2 tasse de riz, rincé",
+      "1 boîte de tomates concassées (400 g)",
+      "1 oignon, râpé",
+      "2 c. à soupe de jus de citron",
+      "1 c. à soupe de sucre"
+    ],
+    "instructions": "Blanchissez les feuilles de chou dans l'eau bouillante jusqu'à ce qu'elles soient souples et retirez les grosses côtes. Mélangez le bœuf, le riz, l'oignon, du sel et du poivre, déposez une cuillerée sur chaque feuille et roulez. Disposez dans une marmite, versez dessus les tomates mélangées au jus de citron, au sucre et à une tasse d'eau et laissez mijoter à couvert 1 heure."
+  },
+  "n9": {
+    "name": "Palak paneer (curry d'épinards et de fromage)",
+    "ingredients": [
+      "400 g d'épinards frais",
+      "200 g de paneer ou de fromage blanc ferme, en cubes",
+      "1 oignon, haché",
+      "2 tomates, hachées",
+      "2 gousses d'ail et 1 c. à café de gingembre râpé",
+      "1 c. à café de garam masala",
+      "2 c. à soupe d'huile et 3 c. à soupe de crème"
+    ],
+    "instructions": "Blanchissez les épinards 2 minutes et mixez-les en purée. Faites revenir l'oignon, l'ail et le gingembre dans l'huile, ajoutez les tomates et le garam masala et cuisez jusqu'à ce qu'elles soient tendres. Incorporez la purée d'épinards et la crème, ajoutez le fromage et laissez mijoter 5 minutes. Servez avec du riz ou du pain plat."
+  },
+  "n10": {
+    "name": "Chana masala (curry de pois chiches épicé)",
+    "ingredients": [
+      "2 boîtes de pois chiches (400 g chacune), égouttés",
+      "1 oignon, finement haché",
+      "1 boîte de tomates concassées (400 g)",
+      "2 gousses d'ail et 1 c. à café de gingembre râpé",
+      "2 c. à café de garam masala",
+      "1 c. à café de cumin",
+      "2 c. à soupe d'huile"
+    ],
+    "instructions": "Faites dorer l'oignon dans l'huile, ajoutez l'ail, le gingembre, le cumin et le garam masala et remuez 1 minute. Ajoutez les tomates et cuisez 8 minutes. Ajoutez les pois chiches et une demi-tasse d'eau, laissez mijoter 15 minutes en écrasant quelques pois chiches pour épaissir, et terminez avec du sel et du jus de citron."
+  },
+  "n11": {
+    "name": "Biryani aux légumes",
+    "ingredients": [
+      "1,5 tasse de riz basmati, rincé",
+      "2 carottes et 1 tasse de fleurettes de chou-fleur, hachées",
+      "1/2 tasse de petits pois",
+      "1 oignon, en fines tranches",
+      "2 c. à café d'épices à biryani ou de garam masala",
+      "1 c. à café de curcuma",
+      "3 c. à soupe d'huile"
+    ],
+    "instructions": "Faites frire l'oignon dans l'huile jusqu'à ce qu'il soit bien doré. Ajoutez les légumes et les épices et cuisez 5 minutes. Incorporez le riz, ajoutez 3 tasses d'eau et du sel, portez à ébullition, puis couvrez et laissez cuire à feu très doux 15 minutes. Laissez reposer 5 minutes et égrenez à la fourchette."
+  },
+  "n12": {
+    "name": "Aloo gobi (pommes de terre et chou-fleur)",
+    "ingredients": [
+      "3 pommes de terre, en cubes",
+      "1 petit chou-fleur, en fleurettes",
+      "1 oignon, haché",
+      "1 tomate, hachée",
+      "1 c. à café de curcuma et 1 c. à café de cumin",
+      "1 c. à café de garam masala",
+      "3 c. à soupe d'huile"
+    ],
+    "instructions": "Faites revenir l'oignon dans l'huile jusqu'à ce qu'il soit tendre, ajoutez le cumin, le curcuma et la tomate et cuisez 3 minutes. Ajoutez les pommes de terre et le chou-fleur avec un peu d'eau, couvrez et laissez cuire à feu moyen-doux 20 minutes en remuant de temps en temps. Saupoudrez de garam masala et servez avec du riz ou du pain plat."
+  },
+  "n13": {
+    "name": "Poulet façon tandoori",
+    "ingredients": [
+      "4 cuisses de poulet ou 600 g de morceaux de poulet",
+      "3 c. à soupe de jus de citron",
+      "2 c. à soupe d'huile",
+      "2 c. à soupe d'épices tandoori",
+      "3 gousses d'ail et 1 c. à café de gingembre râpé",
+      "1 c. à café de paprika",
+      "1 oignon rouge, en tranches, pour servir"
+    ],
+    "instructions": "Mélangez le jus de citron, l'huile, les épices, l'ail et le gingembre en une pâte et frottez-en le poulet après avoir incisé la chair. Laissez mariner au moins 30 minutes, ou toute la nuit. Faites rôtir 30 à 35 minutes à 220 °C en retournant une fois, jusqu'à ce que les bords soient grillés et le poulet cuit, et servez avec l'oignon."
+  },
+  "n14": {
+    "name": "Korma de légumes au lait de coco",
+    "ingredients": [
+      "1 boîte de lait de coco (400 ml)",
+      "2 pommes de terre et 2 carottes, en cubes",
+      "1 tasse de haricots verts ou de petits pois",
+      "1 oignon, haché",
+      "2 c. à soupe de pâte de korma ou 1 c. à soupe de curry en poudre",
+      "2 c. à soupe de noix de cajou ou d'amandes, moulues",
+      "2 c. à soupe d'huile"
+    ],
+    "instructions": "Faites revenir l'oignon dans l'huile jusqu'à ce qu'il soit tendre et faites revenir la pâte de korma 1 minute. Ajoutez les pommes de terre, les carottes, le lait de coco et une demi-tasse d'eau et laissez mijoter 20 minutes. Ajoutez les haricots verts et les fruits à coque moulus, cuisez encore 8 minutes jusqu'à ce que la sauce soit crémeuse et salez."
+  },
+  "n15": {
+    "name": "Curry d'œufs",
+    "ingredients": [
+      "6 œufs durs, écalés",
+      "1 oignon, finement haché",
+      "1 boîte de tomates concassées (400 g)",
+      "2 gousses d'ail et 1 c. à café de gingembre râpé",
+      "1 c. à café de curcuma et 2 c. à café de garam masala",
+      "1 c. à café de cumin",
+      "3 c. à soupe d'huile"
+    ],
+    "instructions": "Faites dorer l'oignon dans l'huile, ajoutez l'ail, le gingembre et les épices et remuez 1 minute. Ajoutez les tomates et une demi-tasse d'eau et laissez mijoter 12 minutes jusqu'à obtenir une sauce épaisse. Ajoutez les œufs, nappez-les de sauce et cuisez 5 minutes ; servez avec du riz ou du pain."
+  },
+  "n16": {
+    "name": "Curry vert thaï au tofu",
+    "ingredients": [
+      "250 g de tofu ferme, en cubes",
+      "1 boîte de lait de coco (400 ml)",
+      "2 c. à soupe de pâte de curry vert",
+      "1 courgette et 1 tasse de haricots verts, coupés",
+      "1 c. à soupe de sauce soja",
+      "1 c. à café de sucre",
+      "une poignée de basilic thaï ou classique"
+    ],
+    "instructions": "Faites dorer le tofu de tous les côtés et réservez. Faites cuire la pâte de curry 1 minute dans un peu de crème épaisse du lait de coco, puis ajoutez le reste du lait et laissez mijoter 5 minutes. Ajoutez les légumes, le tofu, la sauce soja et le sucre, cuisez 8 minutes et terminez avec le basilic. Servez avec du riz."
+  },
+  "n17": {
+    "name": "Soupe tom kha aux champignons",
+    "ingredients": [
+      "1 boîte de lait de coco (400 ml)",
+      "2 tasses de bouillon de légumes",
+      "200 g de champignons, en lamelles",
+      "2 tiges de citronnelle et un morceau de gingembre gros comme un pouce, en tranches",
+      "1 citron vert, pressé",
+      "1 c. à soupe de sauce soja",
+      "coriandre fraîche et 1 piment rouge"
+    ],
+    "instructions": "Portez le bouillon à frémissement avec la citronnelle et le gingembre et laissez infuser 10 minutes. Ajoutez le lait de coco et les champignons et cuisez 8 minutes. Incorporez la sauce soja et le jus de citron vert et servez avec de la coriandre et du piment."
+  },
+  "n18": {
+    "name": "Salade de nouilles thaï à la cacahuète",
+    "ingredients": [
+      "200 g de nouilles de riz",
+      "1 carotte, en bâtonnets",
+      "1 poivron rouge, en fines lamelles",
+      "2 tasses de chou rouge râpé",
+      "3 c. à soupe de beurre de cacahuète",
+      "2 c. à soupe de sauce soja et 1 c. à soupe de jus de citron vert",
+      "1 c. à café de sucre et 1 gousse d'ail, hachée"
+    ],
+    "instructions": "Faites cuire les nouilles de riz selon le paquet, rincez-les à l'eau froide et égouttez-les. Fouettez le beurre de cacahuète, la sauce soja, le jus de citron vert, le sucre et l'ail avec 2 à 3 cuillères à soupe d'eau tiède pour obtenir une sauce lisse. Mélangez les nouilles et les légumes avec la sauce et servez froid, parsemé de cacahuètes concassées."
+  },
+  "n19": {
+    "name": "Makis aux légumes",
+    "ingredients": [
+      "1,5 tasse de riz à sushi",
+      "4 feuilles de nori",
+      "1 avocat, en tranches",
+      "1 concombre et 1 carotte, en fins bâtonnets",
+      "3 c. à soupe de vinaigre de riz",
+      "1 c. à soupe de sucre et 1/2 c. à café de sel",
+      "sauce soja, pour tremper"
+    ],
+    "instructions": "Faites cuire le riz, puis incorporez le vinaigre de riz, le sucre et le sel et laissez refroidir. Posez une feuille de nori sur une natte en bambou, étalez une fine couche de riz en laissant un bord en haut et alignez les légumes le long du bas. Roulez fermement, scellez le bord avec un peu d'eau, coupez en tronçons et servez avec de la sauce soja."
+  },
+  "n20": {
+    "name": "Poulet katsu",
+    "ingredients": [
+      "3 blancs de poulet, coupés en deux dans l'épaisseur",
+      "1 tasse de chapelure panko",
+      "2 œufs, battus",
+      "1/2 tasse de farine",
+      "1/2 tasse d'huile pour la friture",
+      "3 c. à soupe de ketchup, 1 c. à soupe de sauce soja et 1 c. à café de sucre",
+      "riz cuit et chou râpé, pour servir"
+    ],
+    "instructions": "Assaisonnez le poulet, passez-le dans la farine, puis dans l'œuf, puis dans le panko en pressant pour bien enrober. Faites-le frire dans l'huile chaude 3 à 4 minutes de chaque côté jusqu'à ce qu'il soit bien doré et cuit, puis égouttez. Mélangez le ketchup, la sauce soja et le sucre en une sauce rapide, tranchez le poulet et servez sur du riz avec du chou et la sauce."
+  },
+  "n21": {
+    "name": "Bibimbap aux légumes",
+    "ingredients": [
+      "2 tasses de riz cuit",
+      "2 œufs",
+      "1 carotte, en bâtonnets",
+      "2 tasses d'épinards frais",
+      "1 courgette, en bâtonnets",
+      "2 c. à soupe d'huile de sésame et 2 c. à soupe de sauce soja",
+      "1 à 2 c. à soupe de pâte de piment (gochujang), selon le goût"
+    ],
+    "instructions": "Faites sauter séparément la carotte et la courgette dans un peu d'huile de sésame 2 à 3 minutes chacune, faites tomber les épinards et assaisonnez-les de sauce soja. Faites cuire les œufs au plat. Répartissez le riz dans deux bols, disposez les légumes et les œufs dessus et servez avec la pâte de piment à mélanger."
+  },
+  "n22": {
+    "name": "Bol de riz au bœuf bulgogi",
+    "ingredients": [
+      "400 g de faux-filet de bœuf, en très fines tranches",
+      "4 c. à soupe de sauce soja",
+      "1 c. à soupe de sucre ou de miel",
+      "1 c. à soupe d'huile de sésame",
+      "3 gousses d'ail, hachées",
+      "2 tasses de riz cuit",
+      "1 concombre, en tranches, et 2 oignons verts"
+    ],
+    "instructions": "Faites mariner le bœuf dans la sauce soja, le sucre, l'huile de sésame et l'ail au moins 15 minutes. Saisissez la viande dans une poêle très chaude 2 à 3 minutes jusqu'à ce que les bords caramélisent. Servez sur du riz avec le concombre et les oignons verts."
+  },
+  "n23": {
+    "name": "Ramen miso à l'œuf",
+    "ingredients": [
+      "2 portions de nouilles ramen ou de blé",
+      "4 tasses de bouillon de légumes",
+      "2 c. à soupe de pâte de miso",
+      "2 œufs mollets, coupés en deux",
+      "1 tasse de jeunes épinards ou de pak-choï",
+      "2 oignons verts, émincés",
+      "1 c. à café d'huile de sésame"
+    ],
+    "instructions": "Chauffez le bouillon et incorporez le miso au fouet sans laisser bouillir. Faites cuire les nouilles à part selon le paquet et répartissez-les dans deux bols. Versez le bouillon, ajoutez les épinards, les œufs et les oignons verts et terminez d'un filet d'huile de sésame."
+  },
+  "n24": {
+    "name": "Nouilles froides au sésame",
+    "ingredients": [
+      "200 g de nouilles de blé ou de riz",
+      "3 c. à soupe de tahini ou de pâte de sésame",
+      "2 c. à soupe de sauce soja",
+      "1 c. à soupe de vinaigre de riz et 1 c. à café de sucre",
+      "1 concombre, en bâtonnets",
+      "2 oignons verts, émincés",
+      "1 c. à soupe de graines de sésame grillées"
+    ],
+    "instructions": "Faites cuire les nouilles, rincez-les à l'eau froide et égouttez-les bien. Fouettez le tahini, la sauce soja, le vinaigre et le sucre avec 2 à 3 cuillères à soupe d'eau tiède pour obtenir une sauce fluide. Mélangez les nouilles avec la sauce, garnissez de concombre, d'oignons verts et de sésame et servez froid."
+  },
+  "n25": {
+    "name": "Quesadilla au poulet et au fromage",
+    "ingredients": [
+      "2 blancs de poulet, cuits et effilochés",
+      "4 grandes tortillas de blé",
+      "1,5 tasse de cheddar ou de mozzarella râpé",
+      "1 poivron, en dés",
+      "1/2 oignon, en dés",
+      "1 c. à café de cumin",
+      "1 c. à soupe d'huile"
+    ],
+    "instructions": "Faites revenir le poivron et l'oignon dans l'huile 4 minutes, puis mélangez avec le poulet effiloché et le cumin. Étalez la garniture sur la moitié de chaque tortilla, parsemez de fromage et repliez. Faites cuire dans une poêle sèche 2 à 3 minutes de chaque côté jusqu'à ce que ce soit croustillant et le fromage fondu, puis coupez en triangles."
+  },
+  "n26": {
+    "name": "Tostadas aux haricots noirs et au maïs",
+    "ingredients": [
+      "6 tostadas de maïs ou petites tortillas, grillées jusqu'à ce qu'elles soient croustillantes",
+      "1 boîte de haricots noirs (400 g), égouttés et écrasés",
+      "1 tasse de grains de maïs",
+      "1 avocat, en tranches",
+      "1 tomate, en dés",
+      "1 citron vert",
+      "coriandre fraîche et 1 c. à café de cumin"
+    ],
+    "instructions": "Réchauffez les haricots avec le cumin et un peu d'eau en les écrasant pour obtenir une texture tartinable. Mélangez le maïs, la tomate, la coriandre et un filet de citron vert. Étalez les haricots sur les tostadas, garnissez de salade de maïs et d'avocat et servez avec des quartiers de citron vert."
+  },
+  "n27": {
+    "name": "Bol de riz et haricots mexicain",
+    "ingredients": [
+      "1 tasse de riz long",
+      "1 boîte de haricots noirs ou pinto (400 g), égouttés",
+      "1 tasse de sauce tomate",
+      "1 tasse de grains de maïs",
+      "1 avocat, en dés",
+      "1 c. à café de cumin et 1 c. à café de paprika",
+      "1 c. à soupe d'huile et de la coriandre fraîche"
+    ],
+    "instructions": "Faites revenir le riz dans l'huile 2 minutes, puis ajoutez la sauce tomate, 1,5 tasse d'eau, le cumin, le paprika et du sel. Couvrez et laissez cuire à feu doux 18 minutes. Réchauffez les haricots et le maïs, répartissez le tout dans des bols sur le riz et garnissez d'avocat et de coriandre."
+  },
+  "n28": {
+    "name": "Enchiladas au fromage et aux haricots",
+    "ingredients": [
+      "8 petites tortillas de maïs ou de blé",
+      "1 boîte de haricots noirs (400 g), égouttés",
+      "2 tasses de mozzarella ou de fromage jaune râpé",
+      "2 tasses de sauce enchilada ou de sauce tomate",
+      "1/2 oignon, en dés",
+      "1 c. à café de cumin",
+      "1 c. à soupe d'huile"
+    ],
+    "instructions": "Faites revenir l'oignon dans l'huile, puis mélangez-le avec les haricots, le cumin et la moitié du fromage. Garnissez chaque tortilla, roulez-la et placez-la, jointure en dessous, dans un plat. Nappez de sauce, parsemez du reste de fromage et enfournez 20 minutes à 190 °C jusqu'à ce que ça bouillonne."
+  },
+  "n29": {
+    "name": "Chilaquiles aux œufs",
+    "ingredients": [
+      "150 g de chips de tortilla",
+      "1,5 tasse de salsa de tomates",
+      "4 œufs",
+      "1/2 tasse de fromage râpé ou de feta émiettée",
+      "1/2 oignon rouge, en fines tranches",
+      "1 c. à soupe d'huile",
+      "coriandre fraîche"
+    ],
+    "instructions": "Faites mijoter la salsa 3 minutes dans une large poêle, ajoutez les chips et mélangez juste le temps qu'elles soient enrobées tout en restant un peu croustillantes. Faites cuire les œufs à l'huile selon votre goût. Servez les chilaquiles garnis des œufs, du fromage, de l'oignon et de la coriandre."
+  },
+  "n30": {
+    "name": "Tacos à la patate douce rôtie",
+    "ingredients": [
+      "2 patates douces, en petits cubes",
+      "6 petites tortillas de maïs",
+      "1 boîte de haricots noirs (400 g), égouttés",
+      "1 avocat, écrasé avec du jus de citron vert",
+      "1 c. à café de paprika fumé et 1 c. à café de cumin",
+      "2 c. à soupe d'huile d'olive",
+      "coriandre fraîche et chou rouge râpé"
+    ],
+    "instructions": "Mélangez les patates douces avec l'huile d'olive, le paprika, le cumin et du sel et faites-les rôtir 25 minutes à 220 °C jusqu'à ce qu'elles soient tendres et caramélisées. Réchauffez les haricots et les tortillas. Garnissez les tortillas de haricots, de patate douce, d'avocat, de chou et de coriandre."
+  },
+  "n31": {
+    "name": "Quiche aux légumes",
+    "ingredients": [
+      "1 pâte brisée",
+      "4 œufs",
+      "1/2 tasse de lait ou de crème",
+      "1 tasse de fromage râpé",
+      "1 courgette et 1 tasse de champignons, en lamelles",
+      "1/2 oignon, en dés",
+      "1 c. à soupe d'huile d'olive"
+    ],
+    "instructions": "Faites revenir l'oignon, la courgette et les champignons dans l'huile d'olive jusqu'à évaporation de l'eau. Foncez un moule à tarte avec la pâte et faites-la précuire 10 minutes à 190 °C. Battez les œufs avec le lait, du sel et du poivre, répartissez les légumes et le fromage dans le fond de tarte, versez l'appareil et enfournez 30 minutes jusqu'à ce que ce soit pris et doré."
+  },
+  "n32": {
+    "name": "Soupe à l'oignon gratinée",
+    "ingredients": [
+      "4 gros oignons, en fines lamelles",
+      "3 c. à soupe de beurre",
+      "1 litre de bouillon de légumes",
+      "1 c. à café de thym séché",
+      "4 tranches de baguette, grillées",
+      "1 tasse de gruyère ou d'emmental râpé",
+      "1 c. à soupe de farine"
+    ],
+    "instructions": "Faites cuire les oignons dans le beurre à feu moyen-doux 35 à 40 minutes en remuant souvent, jusqu'à ce qu'ils soient profondément caramélisés. Ajoutez la farine et le thym, versez le bouillon et laissez mijoter 15 minutes. Répartissez dans des bols allant au four, posez le pain grillé et le fromage et faites gratiner 3 à 4 minutes jusqu'à ce que ce soit doré et bouillonnant."
+  },
+  "n33": {
+    "name": "Pizza margherita maison",
+    "ingredients": [
+      "2 tasses de farine",
+      "1 sachet (7 g) de levure sèche",
+      "3/4 tasse d'eau tiède et 1 c. à soupe d'huile d'olive",
+      "1 tasse de sauce tomate",
+      "200 g de mozzarella fraîche, déchirée",
+      "une poignée de basilic frais",
+      "1 c. à café de sel et 1 c. à café de sucre"
+    ],
+    "instructions": "Mélangez la farine, la levure, le sel, le sucre, l'eau tiède et l'huile en une pâte, pétrissez 8 minutes et laissez lever 30 minutes. Étalez-la, nappez de sauce tomate et parsemez de mozzarella. Faites cuire sur une plaque chaude 8 à 10 minutes à 250 °C jusqu'à ce que le bord soit doré, puis ajoutez du basilic frais."
+  },
+  "n34": {
+    "name": "Penne all'arrabbiata",
+    "ingredients": [
+      "250 g de penne",
+      "1 boîte de tomates concassées (400 g)",
+      "3 gousses d'ail, en lamelles",
+      "1/2 à 1 c. à café de piment en flocons",
+      "3 c. à soupe d'huile d'olive",
+      "2 c. à soupe de persil haché"
+    ],
+    "instructions": "Chauffez l'huile d'olive avec l'ail et le piment 1 minute jusqu'à ce que ça embaume. Ajoutez les tomates et une pincée de sel et laissez mijoter 15 minutes jusqu'à ce que la sauce épaississe. Faites cuire les penne al dente, mélangez-les à la sauce et parsemez de persil."
+  },
+  "h5": {
+    "name": "Pommes au four à la cannelle",
+    "ingredients": [
+      "4 pommes, évidées",
+      "2 c. à soupe de raisins secs",
+      "2 c. à soupe de noix hachées",
+      "1 c. à café de cannelle",
+      "1 c. à soupe de sirop d'érable"
+    ],
+    "instructions": "Mélangez les raisins secs, les noix, la cannelle et le sirop d'érable et garnissez-en les pommes. Placez-les dans un plat avec un peu d'eau. Faites cuire 30 minutes à 180 °C jusqu'à ce qu'elles soient tendres et parfumées."
+  },
+  "h6": {
+    "name": "Glace express à la banane",
+    "ingredients": [
+      "3 bananes mûres, en rondelles et congelées",
+      "1 c. à soupe de cacao en poudre ou 1/2 tasse de fruits rouges surgelés",
+      "2 c. à soupe de lait végétal",
+      "1 c. à café d'extrait de vanille"
+    ],
+    "instructions": "Mixez les rondelles de banane congelées avec le lait végétal, la vanille et le cacao ou les fruits rouges jusqu'à obtenir une texture lisse et crémeuse, en raclant les parois si besoin. Servez aussitôt comme une glace molle, ou congelez 30 minutes pour une texture plus ferme."
+  },
+  "h7": {
+    "name": "Écorces de yaourt glacé aux fruits rouges",
+    "ingredients": [
+      "2 tasses de yaourt grec",
+      "1 c. à soupe de miel",
+      "1 tasse de fruits rouges variés",
+      "2 c. à soupe de pistaches ou d'amandes hachées"
+    ],
+    "instructions": "Incorporez le miel au yaourt et étalez sur environ 1 cm d'épaisseur sur une plaque recouverte de papier sulfurisé. Parsemez de fruits rouges et de fruits à coque et pressez légèrement. Congelez au moins 3 heures, puis cassez en morceaux et servez sortis du congélateur."
+  },
+  "h8": {
+    "name": "Cookies banane-avoine",
+    "ingredients": [
+      "2 bananes mûres, écrasées",
+      "1,5 tasse de flocons d'avoine",
+      "1/3 tasse de pépites de chocolat noir ou de raisins secs",
+      "1 c. à café de cannelle",
+      "1 c. à café d'extrait de vanille"
+    ],
+    "instructions": "Mélangez les bananes écrasées avec l'avoine, les pépites de chocolat, la cannelle et la vanille et laissez reposer 5 minutes. Déposez des cuillerées sur une plaque chemisée et aplatissez légèrement. Enfournez 15 minutes à 180 °C jusqu'à ce que les bords soient dorés."
+  },
+  "h9": {
+    "name": "Riz gluant à la mangue",
+    "ingredients": [
+      "1 tasse de riz gluant, trempé 1 heure",
+      "1 boîte de lait de coco (400 ml)",
+      "3 c. à soupe de sucre",
+      "1/2 c. à café de sel",
+      "2 mangues mûres, en tranches"
+    ],
+    "instructions": "Faites cuire le riz trempé à la vapeur 25 minutes jusqu'à ce qu'il soit tendre. Chauffez le lait de coco avec le sucre et le sel sans faire bouillir et incorporez-en les deux tiers dans le riz chaud ; couvrez et laissez absorber 15 minutes. Servez le riz avec les tranches de mangue et nappez du reste de sauce au coco."
+  },
+  "h10": {
+    "name": "Poires rôties aux noix et au miel",
+    "ingredients": [
+      "4 poires mûres, coupées en deux et évidées",
+      "1/4 tasse de noix hachées",
+      "2 c. à soupe de miel",
+      "1 c. à café de cannelle",
+      "1 c. à café de jus de citron"
+    ],
+    "instructions": "Badigeonnez la face coupée des poires de jus de citron et placez-les face coupée vers le haut dans un plat. Garnissez le centre de noix, nappez de miel et saupoudrez de cannelle. Enfournez 25 minutes à 180 °C jusqu'à ce qu'elles soient tendres et caramélisées."
+  },
+  "h11": {
+    "name": "Fraises enrobées de chocolat noir",
+    "ingredients": [
+      "300 g de grosses fraises, lavées et séchées",
+      "100 g de chocolat noir (sans lait)",
+      "1 c. à café d'huile de coco",
+      "2 c. à soupe de pistaches hachées ou de noix de coco râpée"
+    ],
+    "instructions": "Faites fondre le chocolat avec l'huile de coco dans un bol au-dessus d'eau chaude en remuant jusqu'à ce qu'il soit lisse. Trempez chaque fraise aux deux tiers dans le chocolat et roulez-la dans les pistaches si vous le souhaitez. Déposez sur du papier sulfurisé et placez au frais 20 minutes jusqu'à ce que ce soit ferme."
+  },
+  "h12": {
+    "name": "Sorbet pastèque-menthe",
+    "ingredients": [
+      "4 tasses de morceaux de pastèque, sans pépins et congelés",
+      "1 c. à soupe de jus de citron vert ou de citron",
+      "8 feuilles de menthe fraîche",
+      "1 c. à soupe de sirop d'érable (facultatif)"
+    ],
+    "instructions": "Mixez la pastèque congelée avec le jus d'agrume, la menthe et le sirop jusqu'à obtenir une texture lisse et épaisse, en raclant les parois de temps en temps. Servez aussitôt ou congelez 30 minutes pour une texture plus ferme. Décorez d'une feuille de menthe."
+  },
+  "h13": {
+    "name": "Biscuits au tahini",
+    "ingredients": [
+      "1/2 tasse de tahini",
+      "1/3 tasse de sirop d'érable ou de sirop de dattes",
+      "1 tasse de farine ou de poudre d'amandes",
+      "1 c. à café d'extrait de vanille",
+      "2 c. à soupe de graines de sésame"
+    ],
+    "instructions": "Mélangez le tahini, le sirop et la vanille jusqu'à obtenir une texture lisse, puis incorporez la farine pour former une pâte souple. Façonnez de petites boules, roulez-les dans les graines de sésame et aplatissez-les légèrement sur une plaque chemisée. Enfournez 10 à 12 minutes à 170 °C jusqu'à ce qu'ils soient à peine dorés et laissez-les durcir en refroidissant."
+  },
+  "h14": {
+    "name": "Gâteau sans farine à l'orange et aux amandes",
+    "ingredients": [
+      "2 oranges, cuites entières 1 heure et réduites en purée",
+      "3 œufs",
+      "1,5 tasse de poudre d'amandes",
+      "1/2 tasse de sucre",
+      "1 c. à café de levure chimique"
+    ],
+    "instructions": "Faites bouillir les oranges entières dans l'eau 1 heure jusqu'à ce qu'elles soient tendres, laissez refroidir, retirez les pépins et mixez-les avec la peau. Fouettez les œufs avec le sucre, puis incorporez la purée d'orange, la poudre d'amandes et la levure. Versez dans un moule de 22 cm chemisé et enfournez 45 minutes à 180 °C jusqu'à ce que la lame d'un couteau ressorte propre."
+  },
+  "h15": {
+    "name": "Pêches pochées à la cannelle",
+    "ingredients": [
+      "4 pêches ou nectarines mûres, coupées en deux et dénoyautées",
+      "2 tasses d'eau",
+      "3 c. à soupe de sucre",
+      "1 bâton de cannelle",
+      "1 c. à café d'extrait de vanille"
+    ],
+    "instructions": "Faites mijoter l'eau, le sucre, le bâton de cannelle et la vanille 3 minutes. Ajoutez les pêches face coupée vers le bas et pochez-les doucement 10 à 12 minutes jusqu'à ce qu'elles soient tendres. Retirez-les, ôtez la peau si vous le souhaitez, et servez tièdes ou froides avec une cuillerée de sirop."
+  },
+  "h16": {
+    "name": "Boules d'énergie cacahuète-avoine",
+    "ingredients": [
+      "1 tasse de flocons d'avoine",
+      "1/2 tasse de beurre de cacahuète",
+      "1/3 tasse de sirop d'érable ou de sirop de dattes",
+      "1/4 tasse de pépites de chocolat noir",
+      "1 c. à soupe de graines de chia"
+    ],
+    "instructions": "Mélangez tous les ingrédients dans un bol jusqu'à ce que la préparation se tienne, en ajoutant un filet d'eau si elle est trop sèche. Réfrigérez 15 minutes et façonnez 12 petites boules. Conservez au réfrigérateur jusqu'à une semaine."
+  },
+  "i5": {
+    "name": "Cookies aux pépites de chocolat",
+    "ingredients": [
+      "1/2 tasse de beurre mou",
+      "1/2 tasse de cassonade et 1/4 tasse de sucre blanc",
+      "1 œuf et 1 c. à café d'extrait de vanille",
+      "1,5 tasse de farine et 1/2 c. à café de bicarbonate de soude",
+      "1 tasse de pépites de chocolat",
+      "une pincée de sel"
+    ],
+    "instructions": "Battez le beurre avec les deux sucres jusqu'à obtenir une crème légère, puis ajoutez l'œuf et la vanille. Incorporez la farine, le bicarbonate et le sel, puis les pépites de chocolat. Déposez des cuillerées sur une plaque chemisée et enfournez 10 à 12 minutes à 180 °C jusqu'à ce que les bords soient dorés et le centre encore moelleux."
+  },
+  "i6": {
+    "name": "Brownies fondants",
+    "ingredients": [
+      "150 g de chocolat noir",
+      "3/4 tasse de beurre",
+      "3/4 tasse de sucre",
+      "3 œufs",
+      "1/2 tasse de farine",
+      "1/4 tasse de cacao en poudre",
+      "une pincée de sel"
+    ],
+    "instructions": "Faites fondre ensemble le chocolat et le beurre et laissez tiédir. Incorporez le sucre au fouet, puis les œufs un à un. Ajoutez la farine, le cacao et le sel, versez dans un moule carré de 20 cm chemisé et enfournez 22 à 25 minutes à 175 °C, jusqu'à ce que le dessus soit pris et le centre encore fondant."
+  },
+  "i7": {
+    "name": "Tarte aux pommes classique",
+    "ingredients": [
+      "1 pâte à tarte double prête à l'emploi ou maison",
+      "6 pommes, épluchées et en tranches",
+      "1/2 tasse de sucre",
+      "2 c. à soupe de farine",
+      "1 c. à café de cannelle",
+      "2 c. à soupe de beurre, en dés",
+      "1 œuf battu, pour dorer"
+    ],
+    "instructions": "Mélangez les pommes avec le sucre, la farine et la cannelle. Foncez un moule avec la moitié de la pâte, garnissez de pommes et parsemez de dés de beurre. Couvrez avec le reste de pâte, soudez les bords, faites des incisions, dorez à l'œuf et faites cuire 20 minutes à 200 °C, puis 35 minutes à 180 °C jusqu'à ce que ce soit doré."
+  },
+  "i8": {
+    "name": "Crème brûlée",
+    "ingredients": [
+      "2 tasses de crème entière",
+      "5 jaunes d'œufs",
+      "1/3 tasse de sucre, plus pour le dessus",
+      "1 c. à café d'extrait de vanille"
+    ],
+    "instructions": "Chauffez la crème avec la vanille. Fouettez les jaunes avec le sucre, puis incorporez lentement la crème chaude. Versez dans 4 ramequins, placez-les dans un bain-marie et enfournez 35 à 40 minutes à 150 °C jusqu'à ce que la crème soit à peine prise. Laissez refroidir 4 heures, saupoudrez de sucre et caramélisez au chalumeau ou sous le gril."
+  },
+  "i9": {
+    "name": "Gâteau à la ricotta et au citron",
+    "ingredients": [
+      "250 g de ricotta",
+      "3 œufs",
+      "3/4 tasse de sucre",
+      "1 tasse de farine",
+      "zeste et jus de 1 citron",
+      "1 c. à café de levure chimique"
+    ],
+    "instructions": "Battez les œufs avec le sucre jusqu'à ce que le mélange blanchisse, puis incorporez la ricotta, le zeste et le jus de citron. Ajoutez la farine et la levure. Versez dans un moule de 22 cm chemisé et enfournez 40 minutes à 180 °C jusqu'à ce que ce soit doré et que la lame ressorte propre. Saupoudrez de sucre glace."
+  },
+  "i10": {
+    "name": "Malabi (flan au lait et à l'eau de rose)",
+    "ingredients": [
+      "3 tasses de lait",
+      "5 c. à soupe de fécule de maïs",
+      "1/3 tasse de sucre",
+      "1 c. à soupe d'eau de rose",
+      "2 c. à soupe de pistaches hachées",
+      "2 c. à soupe de noix de coco râpée"
+    ],
+    "instructions": "Délayez la fécule dans un peu de lait froid. Chauffez le reste du lait avec le sucre, ajoutez la fécule délayée et cuisez en fouettant jusqu'à ce que ça épaississe. Incorporez l'eau de rose, versez dans des verres et placez au frais 3 heures. Garnissez de pistaches, de noix de coco et, si vous voulez, d'un filet de sirop."
+  },
+  "i11": {
+    "name": "Kheer (riz au lait à la cardamome)",
+    "ingredients": [
+      "1/2 tasse de riz basmati, rincé",
+      "4 tasses de lait",
+      "1/2 tasse de sucre",
+      "4 gousses de cardamome, écrasées",
+      "2 c. à soupe de raisins secs",
+      "2 c. à soupe d'amandes effilées"
+    ],
+    "instructions": "Laissez mijoter le riz avec le lait et la cardamome à feu doux 35 à 40 minutes en remuant souvent, jusqu'à ce que ce soit épais et crémeux. Ajoutez le sucre et les raisins secs et cuisez encore 5 minutes. Servez tiède ou froid, parsemé d'amandes."
+  },
+  "i12": {
+    "name": "Churros et sauce au chocolat",
+    "ingredients": [
+      "1 tasse d'eau et 2 c. à soupe de sucre",
+      "1 tasse de farine",
+      "2 c. à soupe de beurre et 1 œuf",
+      "1/2 tasse d'huile pour la friture",
+      "1/3 tasse de sucre mélangé à 1 c. à café de cannelle",
+      "100 g de chocolat noir et 1/3 tasse de crème"
+    ],
+    "instructions": "Portez à ébullition l'eau, le sucre et le beurre, incorporez la farine jusqu'à former une pâte, laissez tiédir et incorporez l'œuf. Faites couler des bandes dans l'huile chaude, faites-les frire 2 à 3 minutes de chaque côté jusqu'à ce qu'elles soient dorées et roulez-les dans le sucre à la cannelle. Faites fondre le chocolat avec la crème pour une sauce à tremper."
+  },
+  "i13": {
+    "name": "Carrot cake au glaçage au fromage frais",
+    "ingredients": [
+      "3 tasses de carottes râpées",
+      "2 tasses de farine, 1 c. à café de bicarbonate et 2 c. à café de cannelle",
+      "1 tasse de sucre et 3/4 tasse d'huile",
+      "3 œufs",
+      "1/2 tasse de noix hachées",
+      "200 g de fromage frais et 1/2 tasse de sucre glace",
+      "1/4 tasse de beurre mou"
+    ],
+    "instructions": "Fouettez le sucre, l'huile et les œufs, puis incorporez les ingrédients secs, les carottes et les noix. Versez dans un moule de 22 cm chemisé et enfournez 40 à 45 minutes à 180 °C, puis laissez refroidir complètement. Battez le fromage frais, le beurre et le sucre glace en un glaçage et étalez-le sur le gâteau."
+  },
+  "i14": {
+    "name": "Sufganiyot (beignets à la confiture)",
+    "ingredients": [
+      "3 tasses de farine",
+      "1 sachet (7 g) de levure sèche",
+      "1/2 tasse de lait tiède",
+      "1/4 tasse de sucre, 2 œufs et 3 c. à soupe de beurre mou",
+      "huile pour la friture",
+      "1/2 tasse de confiture",
+      "sucre glace pour saupoudrer"
+    ],
+    "instructions": "Mélangez la farine, la levure, le sucre, les œufs, le lait et le beurre en une pâte souple, pétrissez 8 minutes et laissez lever 1 heure. Étalez sur 1,5 cm, découpez des ronds et laissez lever 30 minutes. Faites frire dans l'huile chaude 2 minutes de chaque côté jusqu'à ce qu'ils soient dorés, garnissez de confiture à la poche et saupoudrez de sucre glace."
+  },
+  "i15": {
+    "name": "Crêpes au chocolat-noisette et à la banane",
+    "ingredients": [
+      "1 tasse de farine",
+      "2 œufs",
+      "1,5 tasse de lait",
+      "1 c. à soupe de beurre fondu, plus pour la poêle",
+      "1/2 tasse de pâte à tartiner chocolat-noisette",
+      "2 bananes, en rondelles"
+    ],
+    "instructions": "Fouettez la farine, les œufs, le lait et le beurre fondu en une pâte lisse et fluide et laissez reposer 10 minutes. Faites cuire de fines crêpes dans une poêle légèrement beurrée, environ 1 minute de chaque côté. Étalez la pâte à tartiner, ajoutez les rondelles de banane et pliez en triangles."
+  },
+  "i16": {
+    "name": "Rugelach à la cannelle et aux noix",
+    "ingredients": [
+      "2 tasses de farine",
+      "200 g de beurre froid, en dés",
+      "200 g de fromage frais",
+      "1/3 tasse de sucre mélangé à 2 c. à café de cannelle",
+      "1/2 tasse de noix finement hachées",
+      "1/2 tasse de raisins secs",
+      "1 œuf battu, pour dorer"
+    ],
+    "instructions": "Travaillez la farine, le beurre et le fromage frais en une pâte lisse, enveloppez et laissez reposer 1 heure au frais. Étalez en cercle, saupoudrez de sucre à la cannelle, de noix et de raisins secs et découpez en 16 parts. Roulez chaque part en partant du côté large, dorez à l'œuf et enfournez 25 minutes à 180 °C jusqu'à ce qu'elles soient dorées."
+  },
+  "k1": {
+    "name": "Avocats cocotte à l'œuf",
+    "ingredients": [
+      "2 avocats mûrs, coupés en deux et dénoyautés",
+      "4 œufs",
+      "2 c. à soupe de ciboulette ou de persil haché",
+      "1/2 c. à café de paprika",
+      "sel et poivre"
+    ],
+    "instructions": "Retirez un peu de chair de chaque moitié d'avocat pour agrandir la cavité et posez les moitiés dans un petit plat. Cassez un œuf dans chacune, salez, poivrez et saupoudrez de paprika. Enfournez 15 minutes à 200 °C jusqu'à ce que le blanc soit pris, puis parsemez d'herbes."
+  },
+  "k2": {
+    "name": "« Riz » de chou-fleur sauté à l'œuf",
+    "ingredients": [
+      "1 gros chou-fleur, râpé en grains de la taille du riz",
+      "3 œufs, battus",
+      "2 oignons verts, émincés",
+      "2 gousses d'ail, hachées",
+      "2 c. à soupe de sauce soja",
+      "1 c. à soupe d'huile de sésame"
+    ],
+    "instructions": "Brouillez les œufs dans une poêle chaude avec un peu d'huile de sésame et réservez. Faites sauter l'ail et le chou-fleur dans le reste de l'huile 5 à 6 minutes jusqu'à ce qu'ils soient tendres sans être mous. Remettez les œufs, ajoutez la sauce soja et les oignons verts et mélangez 1 minute."
+  },
+  "k3": {
+    "name": "Spaghettis de courgettes au poulet à l'ail",
+    "ingredients": [
+      "2 blancs de poulet, en lanières",
+      "3 courgettes, taillées en spaghettis",
+      "3 gousses d'ail, en lamelles",
+      "3 c. à soupe d'huile d'olive",
+      "zeste et jus de 1 citron",
+      "8 tomates cerises, coupées en deux",
+      "basilic frais"
+    ],
+    "instructions": "Saisissez le poulet dans 1 cuillère à soupe d'huile d'olive 6 à 7 minutes jusqu'à cuisson complète et réservez. Faites revenir l'ail et les tomates dans le reste de l'huile 2 minutes. Ajoutez les spaghettis de courgettes et mélangez 2 minutes seulement, puis remettez le poulet et ajoutez le zeste et le jus de citron et le basilic."
+  },
+  "k4": {
+    "name": "Steak ail-herbes et haricots verts rôtis",
+    "ingredients": [
+      "2 steaks de faux-filet ou d'entrecôte (environ 200 g chacun)",
+      "300 g de haricots verts, équeutés",
+      "3 c. à soupe d'huile d'olive",
+      "3 gousses d'ail, écrasées",
+      "1 c. à soupe de romarin ou de thym frais",
+      "sel et poivre"
+    ],
+    "instructions": "Mélangez les haricots verts avec 1 cuillère à soupe d'huile et faites-les rôtir 12 minutes à 220 °C. Assaisonnez généreusement les steaks et saisissez-les dans 1 cuillère à soupe d'huile 3 à 4 minutes de chaque côté avec l'ail et les herbes. Laissez reposer 5 minutes, tranchez et servez avec les haricots."
+  },
+  "k5": {
+    "name": "Muffins aux œufs, épinards et feta",
+    "ingredients": [
+      "6 œufs",
+      "1 tasse d'épinards frais, hachés",
+      "80 g de feta, émiettée",
+      "1/2 poivron rouge, en petits dés",
+      "1 c. à soupe d'huile d'olive, pour graisser",
+      "sel et poivre"
+    ],
+    "instructions": "Huilez 6 moules à muffins avec l'huile d'olive. Battez les œufs avec du sel et du poivre, puis incorporez les épinards, la feta et le poivron rouge. Répartissez dans les moules et enfournez 18 à 20 minutes à 190 °C jusqu'à ce qu'ils soient gonflés et pris."
+  },
+  "k6": {
+    "name": "Salade grecque au halloumi grillé",
+    "ingredients": [
+      "200 g de halloumi, en tranches",
+      "1 concombre, en dés",
+      "2 tomates, en dés",
+      "1/2 oignon rouge, en fines tranches",
+      "1/4 tasse d'olives",
+      "3 c. à soupe d'huile d'olive",
+      "1 c. à soupe de jus de citron"
+    ],
+    "instructions": "Mélangez le concombre, les tomates, l'oignon et les olives avec 2 cuillères à soupe d'huile d'olive, le jus de citron et une pincée de sel. Faites griller ou dorer les tranches de halloumi dans le reste de l'huile 2 minutes de chaque côté. Servez le halloumi chaud sur la salade."
+  },
+  "k7": {
+    "name": "Saumon à la sauce crémeuse à l'aneth",
+    "ingredients": [
+      "2 filets de saumon",
+      "1/2 tasse de yaourt grec",
+      "2 c. à soupe d'aneth frais haché",
+      "1 c. à soupe de jus de citron",
+      "1 gousse d'ail, hachée",
+      "1 c. à soupe d'huile d'olive",
+      "sel et poivre"
+    ],
+    "instructions": "Assaisonnez le saumon et saisissez-le dans l'huile d'olive, côté peau vers le bas, 4 minutes, puis retournez-le et poursuivez 3 à 4 minutes. Pendant ce temps, mélangez le yaourt avec l'aneth, le jus de citron, l'ail, du sel et du poivre. Servez le saumon nappé de sauce."
+  },
+  "k8": {
+    "name": "Pizza à base de chou-fleur",
+    "ingredients": [
+      "1 chou-fleur moyen, râpé (environ 3 tasses)",
+      "2 œufs",
+      "1,5 tasse de mozzarella râpée, divisée",
+      "1/2 tasse de sauce tomate sans sucre",
+      "1 c. à café d'origan séché",
+      "quelques feuilles de basilic frais"
+    ],
+    "instructions": "Faites cuire le chou-fleur râpé au micro-ondes ou à la vapeur 5 minutes, laissez refroidir, puis pressez-le dans un torchon propre pour en extraire un maximum d'eau. Mélangez avec les œufs, une demi-tasse de mozzarella et l'origan et étalez en un disque fin sur une plaque chemisée. Enfournez 15 minutes à 220 °C, garnissez de sauce et du reste de fromage et faites cuire 8 minutes de plus ; terminez avec du basilic."
+  },
+  "k9": {
+    "name": "Tacos de bœuf en feuilles de laitue",
+    "ingredients": [
+      "400 g de bœuf haché",
+      "8 grandes feuilles de laitue (romaine ou beurre)",
+      "1 c. à café de cumin et 1 c. à café de paprika",
+      "1 avocat, en tranches",
+      "1 tomate, en dés",
+      "coriandre fraîche",
+      "1 citron vert"
+    ],
+    "instructions": "Faites dorer le bœuf dans une poêle chaude en l'émiettant, puis ajoutez le cumin, le paprika et du sel et cuisez 8 minutes. Répartissez la viande dans les feuilles de laitue. Garnissez d'avocat, de tomate et de coriandre et pressez du citron vert dessus."
+  },
+  "k10": {
+    "name": "Bombes chocolat-beurre d'amande",
+    "ingredients": [
+      "1/2 tasse de purée d'amandes",
+      "1/4 tasse d'huile de coco",
+      "2 c. à soupe de cacao en poudre",
+      "1 c. à café d'extrait de vanille",
+      "1 c. à soupe d'érythritol en poudre ou de stévia (facultatif)",
+      "une pincée de sel"
+    ],
+    "instructions": "Faites fondre doucement la purée d'amandes avec l'huile de coco, puis incorporez le cacao, la vanille, l'édulcorant et le sel jusqu'à obtenir une texture lisse. Versez dans un moule à mini-muffins ou en silicone. Congelez 30 minutes jusqu'à ce que ce soit ferme et conservez au congélateur."
+  },
+  "k11": {
+    "name": "Mousse au fromage frais et aux framboises",
+    "ingredients": [
+      "200 g de fromage frais, ramolli",
+      "1/2 tasse de crème entière",
+      "1 tasse de framboises fraîches",
+      "1 c. à café d'extrait de vanille",
+      "1 c. à soupe d'érythritol en poudre ou de stévia (facultatif)"
+    ],
+    "instructions": "Fouettez la crème en chantilly souple. Battez le fromage frais avec la vanille et l'édulcorant jusqu'à ce qu'il soit lisse, puis incorporez la chantilly. Ajoutez délicatement la plupart des framboises, répartissez dans des verres et décorez du reste des fruits. Placez au frais 1 heure."
+  },
+  "k12": {
+    "name": "Brochettes de poulet au tahini et concombre",
+    "ingredients": [
+      "500 g de cuisses de poulet, en cubes",
+      "3 c. à soupe de tahini",
+      "2 c. à soupe de jus de citron",
+      "2 gousses d'ail, hachées",
+      "1 c. à café de cumin",
+      "2 concombres, en dés",
+      "2 c. à soupe de persil haché"
+    ],
+    "instructions": "Mélangez le tahini, le jus de citron, l'ail, le cumin et du sel avec un peu d'eau et faites mariner le poulet dans la moitié de cette sauce 15 minutes. Enfilez sur des brochettes et faites griller 10 à 12 minutes en retournant jusqu'à cuisson complète. Mélangez les concombres avec le persil et servez avec les brochettes et le reste de la sauce au tahini."
+  },
+  "k13": {
+    "name": "Bouchées de laitue à la salade d'œufs",
+    "ingredients": [
+      "4 œufs durs, hachés",
+      "2 c. à soupe de mayonnaise",
+      "1 c. à café de moutarde",
+      "1 branche de céleri, en petits dés",
+      "1 c. à soupe de ciboulette hachée",
+      "6 feuilles de laitue beurre"
+    ],
+    "instructions": "Mélangez les œufs hachés avec la mayonnaise, la moutarde, le céleri et la ciboulette, puis salez et poivrez. Répartissez la salade d'œufs dans les feuilles de laitue. Servez aussitôt."
+  }
+}

@@ -1,0 +1,2002 @@
+{
+  "b1": {
+    "name": "Shakshuka clásica",
+    "ingredients": [
+      "4 huevos",
+      "3 tomates maduros, picados",
+      "1 cebolla mediana, picada",
+      "1 pimiento rojo, picado",
+      "2 dientes de ajo, machacados",
+      "1 cdta. de pimentón",
+      "1/2 cdta. de comino"
+    ],
+    "instructions": "Sofríe la cebolla y el pimiento en aceite hasta que se doren y añade el ajo y las especias. Incorpora los tomates y cocina 10 minutos hasta que espese. Haz huecos, casca los huevos dentro, tapa y cocina hasta que cuaje la clara."
+  },
+  "b2": {
+    "name": "Avena con fruta",
+    "ingredients": [
+      "1/2 taza de copos de avena",
+      "1 taza de leche o bebida de soja",
+      "1 plátano, en rodajas",
+      "1/2 taza de frutos rojos",
+      "1 cda. de miel o sirope de dátil",
+      "1 pizca de canela"
+    ],
+    "instructions": "Cocina la avena en la leche o bebida vegetal unos 5 minutos, removiendo. Añade el plátano, los frutos rojos y la canela, y endulza al gusto."
+  },
+  "b3": {
+    "name": "Tostada de aguacate y huevo",
+    "ingredients": [
+      "2 rebanadas de pan integral",
+      "1 aguacate maduro",
+      "1 huevo",
+      "el zumo de 1/2 limón",
+      "sal al gusto",
+      "pimienta negra al gusto",
+      "1 pizca de chile en copos"
+    ],
+    "instructions": "Tuesta el pan. Machaca el aguacate con zumo de limón, sal y pimienta y úntalo en el pan. Fríe o escalfa el huevo, colócalo encima y espolvorea chile en copos."
+  },
+  "b4": {
+    "name": "Tortilla francesa de queso y verduras",
+    "ingredients": [
+      "3 huevos",
+      "1/2 taza de queso rallado",
+      "1 tomate, picado",
+      "2 cebolletas, picadas",
+      "2 cdas. de leche",
+      "sal al gusto",
+      "pimienta al gusto"
+    ],
+    "instructions": "Bate los huevos con un chorrito de leche, sal y pimienta. Añade las verduras picadas y el queso rallado y cocina a fuego medio hasta que cuaje por ambos lados."
+  },
+  "b5": {
+    "name": "Tortitas saludables de plátano",
+    "ingredients": [
+      "2 plátanos maduros",
+      "2 huevos",
+      "1/2 taza de harina de avena",
+      "1/2 cdta. de levadura química",
+      "1 pizca de canela"
+    ],
+    "instructions": "Machaca los plátanos, añade los huevos y la harina de avena y bate hasta obtener una masa lisa. Cocina en una sartén ligeramente engrasada a fuego medio hasta que se doren por ambos lados."
+  },
+  "b6": {
+    "name": "Yogur con granola y fruta",
+    "ingredients": [
+      "1 taza de yogur natural",
+      "1/4 taza de granola",
+      "1/2 taza de frutos rojos",
+      "1 cda. de miel",
+      "1 cda. de frutos secos picados"
+    ],
+    "instructions": "Coloca capas de yogur, granola y frutos rojos en un vaso. Riega con miel y espolvorea los frutos secos picados."
+  },
+  "b7": {
+    "name": "Burekas rápidas de queso",
+    "ingredients": [
+      "1 lámina de hojaldre, descongelada",
+      "200 g de queso búlgaro desmenuzado",
+      "1 huevo batido, para pintar",
+      "1 cda. de semillas de sésamo"
+    ],
+    "instructions": "Corta el hojaldre en cuadrados, rellena con queso, dobla en triángulos, pinta con huevo batido y espolvorea sésamo. Hornea a 200°C unos 20 minutos hasta que estén doradas."
+  },
+  "b8": {
+    "name": "Batido verde energético",
+    "ingredients": [
+      "1 taza de espinacas frescas",
+      "1 plátano",
+      "1/2 taza de piña troceada",
+      "1 taza de bebida de coco",
+      "1/2 cdta. de jengibre fresco rallado"
+    ],
+    "instructions": "Tritura todos los ingredientes en la batidora hasta que quede suave y bébelo enseguida."
+  },
+  "l1": {
+    "name": "Ensalada de quinoa con verduras asadas",
+    "ingredients": [
+      "1 taza de quinoa",
+      "1 calabacín, en dados",
+      "1 pimiento, en dados",
+      "1 boniato mediano, en dados",
+      "3 cdas. de aceite de oliva",
+      "el zumo de 1 limón",
+      "2 cdas. de perejil picado"
+    ],
+    "instructions": "Cuece la quinoa según el paquete. Asa las verduras troceadas con aceite de oliva durante 25 minutos. Mézclalo todo con el zumo de limón y el perejil picado."
+  },
+  "l2": {
+    "name": "Sopa de lentejas rojas",
+    "ingredients": [
+      "1 taza de lentejas rojas",
+      "2 zanahorias, picadas",
+      "1 cebolla, picada",
+      "2 dientes de ajo, machacados",
+      "1 cdta. de comino",
+      "5 tazas de caldo de verduras o agua"
+    ],
+    "instructions": "Sofríe la cebolla y el ajo, y añade la zanahoria y las especias. Incorpora las lentejas y el agua o caldo y cuece unos 25 minutos hasta que estén tiernas. Tritura en parte al gusto."
+  },
+  "l3": {
+    "name": "Pollo al horno con tubérculos",
+    "ingredients": [
+      "2 pechugas de pollo",
+      "4 patatas medianas, en rodajas",
+      "2 zanahorias, en rodajas",
+      "1 cebolla, en tiras",
+      "3 cdas. de aceite de oliva",
+      "1 cda. de romero fresco",
+      "3 dientes de ajo enteros"
+    ],
+    "instructions": "Aliña el pollo y las verduras troceadas con aceite de oliva, ajo y romero. Asa todo en una bandeja a 200°C unos 40 minutos, hasta que el pollo esté hecho y las verduras doradas."
+  },
+  "l4": {
+    "name": "Pasta con salsa de tomate y tofu",
+    "ingredients": [
+      "300 g de pasta",
+      "200 g de tofu, en dados",
+      "1 lata de tomate triturado (400 g)",
+      "2 dientes de ajo, machacados",
+      "1 puñado de hojas de albahaca",
+      "2 cdas. de aceite de oliva"
+    ],
+    "instructions": "Dora los dados de tofu en la sartén. Prepara una salsa de tomate con ajo y albahaca. Cuece la pasta y mézclala con la salsa y el tofu."
+  },
+  "l5": {
+    "name": "Sándwich de atún y verduras",
+    "ingredients": [
+      "1 lata de atún (160 g), escurrido",
+      "2 cdas. de mayonesa",
+      "2 rebanadas de pan integral",
+      "2 hojas de lechuga",
+      "1 tomate, en rodajas",
+      "1 pepinillo, en rodajas"
+    ],
+    "instructions": "Mezcla el atún escurrido con la mayonesa. Monta el sándwich con verduras frescas y pepinillo."
+  },
+  "l6": {
+    "name": "Hamburguesas de lentejas con tahini",
+    "ingredients": [
+      "1 taza de lentejas verdes",
+      "1 cebolla, picada y sofrita",
+      "2 dientes de ajo, machacados",
+      "1/2 taza de pan rallado",
+      "3 cdas. de tahini",
+      "el zumo de 1 limón"
+    ],
+    "instructions": "Cuece las lentejas hasta que estén tiernas, machácalas en parte y mézclalas con la cebolla sofrita y el pan rallado. Forma hamburguesas y hornéalas o fríelas. Sirve con salsa de tahini y limón."
+  },
+  "l7": {
+    "name": "Salteado de tofu y verduras con soja",
+    "ingredients": [
+      "300 g de tofu, en dados",
+      "1 brócoli, en ramilletes",
+      "1 zanahoria, en rodajas",
+      "1 pimiento, en tiras",
+      "3 cdas. de salsa de soja",
+      "2 dientes de ajo, machacados",
+      "1 cdta. de jengibre fresco rallado"
+    ],
+    "instructions": "Dora el tofu en un wok bien caliente y reserva. Saltea las verduras con ajo y jengibre, devuelve el tofu y añade la salsa de soja. Sirve con arroz."
+  },
+  "l8": {
+    "name": "Ensalada griega con feta",
+    "ingredients": [
+      "1 pepino, en dados",
+      "2 tomates, en dados",
+      "1/2 cebolla morada, en tiras",
+      "1/2 taza de aceitunas",
+      "150 g de queso feta, en lonchas",
+      "3 cdas. de aceite de oliva",
+      "1 cdta. de orégano seco"
+    ],
+    "instructions": "Corta todas las verduras en dados y mézclalas con las aceitunas y el feta. Aliña con aceite de oliva y orégano."
+  },
+  "l9": {
+    "name": "Hamburguesa casera de ternera",
+    "ingredients": [
+      "400 g de carne picada de ternera",
+      "1/2 cebolla, rallada",
+      "2 cdas. de pan rallado",
+      "2 panes de hamburguesa",
+      "2 hojas de lechuga",
+      "1 tomate, en rodajas"
+    ],
+    "instructions": "Mezcla la carne picada con la cebolla rallada, sal y pimienta y forma las hamburguesas. Hazlas en una sartén bien caliente unos 4 minutos por lado y sírvelas en el pan con verduras."
+  },
+  "l10": {
+    "name": "Crema de tubérculos",
+    "ingredients": [
+      "400 g de calabaza, en dados",
+      "2 zanahorias, en dados",
+      "1 boniato, en dados",
+      "1 cebolla, picada",
+      "2 dientes de ajo, machacados",
+      "1 cdta. de cúrcuma"
+    ],
+    "instructions": "Sofríe la cebolla y el ajo, y añade las verduras troceadas y el agua o caldo. Cuece hasta que estén tiernas y tritura hasta obtener una crema fina. Sazona con cúrcuma, sal y pimienta."
+  },
+  "d1": {
+    "name": "Salmón al horno con limón",
+    "ingredients": [
+      "2 lomos de salmón (unos 150 g cada uno)",
+      "1 limón, en rodajas",
+      "2 cdas. de aceite de oliva",
+      "2 dientes de ajo, machacados",
+      "1 cda. de hierbas frescas"
+    ],
+    "instructions": "Coloca el salmón en una bandeja y aliña con aceite de oliva, ajo machacado y rodajas de limón. Hornea a 200°C unos 15 minutos."
+  },
+  "d2": {
+    "name": "Guiso de alubias blancas",
+    "ingredients": [
+      "2 latas de alubias blancas cocidas, escurridas",
+      "1 lata de tomate triturado (400 g)",
+      "1 cebolla, picada",
+      "2 dientes de ajo, machacados",
+      "1 cdta. de pimentón"
+    ],
+    "instructions": "Sofríe la cebolla y el ajo, y añade el tomate y el pimentón. Incorpora las alubias y cuece unos 20 minutos a fuego lento."
+  },
+  "d3": {
+    "name": "Muslos de pollo al horno con patatas",
+    "ingredients": [
+      "6 contramuslos de pollo",
+      "4 patatas medianas, en rodajas",
+      "2 cdtas. de pimentón",
+      "3 dientes de ajo, machacados",
+      "3 cdas. de aceite de oliva"
+    ],
+    "instructions": "Aliña los contramuslos y las patatas con las especias y el aceite de oliva. Asa a 200°C unos 35 minutos hasta que estén dorados."
+  },
+  "d4": {
+    "name": "Curry de verduras con leche de coco",
+    "ingredients": [
+      "1 lata de leche de coco (400 ml)",
+      "1 boniato, en dados",
+      "1/2 coliflor, en ramilletes",
+      "1/2 taza de guisantes",
+      "2 cdas. de pasta de curry",
+      "1,5 tazas de arroz cocido"
+    ],
+    "instructions": "Sofríe la pasta de curry en una olla y añade la leche de coco y las verduras troceadas. Cuece hasta que estén tiernas y sirve con arroz."
+  },
+  "d5": {
+    "name": "Pastel de verduras y queso",
+    "ingredients": [
+      "4 huevos",
+      "1/2 taza de harina",
+      "1 taza de leche",
+      "2 calabacines, en rodajas",
+      "1 taza de queso rallado",
+      "1 cebolla, picada"
+    ],
+    "instructions": "Bate los huevos, la harina y la leche hasta formar una masa. Añade las verduras y el queso. Vierte en un molde y hornea a 180°C unos 35 minutos."
+  },
+  "d6": {
+    "name": "Salchichas de pollo con verduras asadas",
+    "ingredients": [
+      "6 salchichas de pollo",
+      "2 pimientos, en tiras",
+      "1 cebolla, en tiras",
+      "2 cdas. de aceite de oliva",
+      "1 cdta. de pimentón dulce"
+    ],
+    "instructions": "Corta las salchichas y las verduras y mézclalas con aceite de oliva y especias. Asa todo en una bandeja a 200°C unos 20 minutos."
+  },
+  "d7": {
+    "name": "Torrijas dulces",
+    "ingredients": [
+      "4 rebanadas de pan",
+      "2 huevos",
+      "1/2 taza de leche",
+      "1/2 cdta. de canela",
+      "2 cdas. de sirope de dátil"
+    ],
+    "instructions": "Bate los huevos con la leche y la canela. Moja las rebanadas de pan y fríelas en un poco de aceite hasta que se doren por ambos lados. Sirve con sirope de dátil."
+  },
+  "d8": {
+    "name": "Tacos de frijoles negros",
+    "ingredients": [
+      "6 tortillas pequeñas",
+      "1 lata de frijoles negros, escurridos",
+      "1/2 taza de maíz",
+      "1 aguacate, en láminas",
+      "1 tomate, picado",
+      "el zumo de 1 lima"
+    ],
+    "instructions": "Calienta los frijoles con especias. Rellena las tortillas con frijoles, maíz, aguacate y tomate picado, y exprime lima por encima."
+  },
+  "n1": {
+    "name": "Pad thai con tofu",
+    "ingredients": [
+      "200 g de fideos de arroz",
+      "250 g de tofu, en dados",
+      "1 taza de brotes de soja",
+      "1/4 taza de cacahuetes picados",
+      "3 cdas. de salsa de soja",
+      "1 lima, en gajos"
+    ],
+    "instructions": "Remoja los fideos de arroz en agua caliente. Dora el tofu en el wok, añade los fideos y la salsa de soja y saltea todo junto. Sirve con brotes de soja, cacahuetes picados y lima."
+  },
+  "n2": {
+    "name": "Arroz frito al estilo asiático",
+    "ingredients": [
+      "3 tazas de arroz cocido y frío",
+      "2 huevos",
+      "1 zanahoria, en dados pequeños",
+      "1/2 taza de guisantes",
+      "2 cebolletas, en rodajas",
+      "3 cdas. de salsa de soja"
+    ],
+    "instructions": "Saltea las verduras en un wok bien caliente, apártalas a un lado y revuelve los huevos. Añade el arroz y la salsa de soja y saltea todo hasta que esté bien caliente."
+  },
+  "n3": {
+    "name": "Dal indio de lentejas",
+    "ingredients": [
+      "1 taza de lentejas amarillas",
+      "1 cebolla, picada",
+      "2 dientes de ajo, machacados",
+      "1 tomate, picado",
+      "1 cdta. de cúrcuma",
+      "1 cdta. de comino",
+      "1,5 tazas de arroz cocido"
+    ],
+    "instructions": "Cuece las lentejas en agua hasta que estén tiernas. Aparte, sofríe la cebolla, el ajo y las especias y añade el tomate. Incorpóralo a las lentejas y cuece 10 minutos más. Sirve con arroz."
+  },
+  "n4": {
+    "name": "Pollo estilo tikka masala",
+    "ingredients": [
+      "500 g de pechuga de pollo, en dados",
+      "1/2 taza de yogur",
+      "1 lata de tomate triturado (400 g)",
+      "1/4 taza de nata para cocinar",
+      "1 cdta. de cúrcuma",
+      "1 cdta. de pimentón",
+      "1,5 tazas de arroz cocido"
+    ],
+    "instructions": "Marina el pollo en yogur y especias al menos 20 minutos. Dóralo en la sartén, resérvalo y cuece una salsa de tomate con nata. Devuelve el pollo a la salsa y sirve con arroz."
+  },
+  "n5": {
+    "name": "Pasta al pesto italiano",
+    "ingredients": [
+      "300 g de pasta",
+      "2 tazas de hojas de albahaca",
+      "1/3 taza de aceite de oliva",
+      "2 cdas. de piñones",
+      "1/3 taza de parmesano rallado",
+      "1 diente de ajo"
+    ],
+    "instructions": "Tritura la albahaca, el aceite de oliva, los piñones, el parmesano y el ajo hasta obtener un pesto fino. Cuece la pasta y mézclala con la salsa nada más escurrirla."
+  },
+  "n6": {
+    "name": "Burrito mexicano de ternera",
+    "ingredients": [
+      "400 g de carne picada de ternera",
+      "2 tortillas grandes",
+      "1/2 taza de alubias rojas, escurridas",
+      "1 taza de arroz cocido",
+      "1/2 taza de queso rallado",
+      "1 tomate, picado"
+    ],
+    "instructions": "Cocina la carne picada con especias mexicanas. Rellena una tortilla grande con la carne, las alubias, el arroz, el queso y el tomate, y enróllala bien apretada."
+  },
+  "n7": {
+    "name": "Plato de hummus y falafel",
+    "ingredients": [
+      "2 tazas de garbanzos cocidos",
+      "3 cdas. de tahini",
+      "2 cdas. de perejil picado",
+      "1 cdta. de comino",
+      "el zumo de 1 limón",
+      "2 panes de pita"
+    ],
+    "instructions": "Tritura parte de los garbanzos con tahini, limón y ajo hasta obtener un hummus cremoso. Tritura el resto de forma gruesa con perejil y comino, forma bolitas y fríe los falafel. Sirve con pan de pita."
+  },
+  "n8": {
+    "name": "Ensalada tabulé",
+    "ingredients": [
+      "1/2 taza de bulgur",
+      "2 tazas de perejil muy picado",
+      "2 tomates, en dados pequeños",
+      "3 cebolletas, picadas",
+      "el zumo de 1 limón",
+      "3 cdas. de aceite de oliva"
+    ],
+    "instructions": "Remoja el bulgur en agua caliente hasta que esté tierno y escúrrelo. Pica fino el perejil, los tomates y las cebolletas y mézclalos con el bulgur. Aliña con limón y aceite de oliva."
+  },
+  "h1": {
+    "name": "Pudin de chía con frutos rojos",
+    "ingredients": [
+      "3 cdas. de semillas de chía",
+      "1 taza de bebida de almendra o leche",
+      "1/2 taza de frutos rojos",
+      "1 cda. de miel o sirope de dátil"
+    ],
+    "instructions": "Mezcla las semillas de chía con la bebida y el endulzante y refrigera al menos 3 horas o toda la noche hasta que espese. Sirve con frutos rojos frescos."
+  },
+  "h2": {
+    "name": "Bolitas energéticas de dátiles y almendras",
+    "ingredients": [
+      "1 taza de dátiles sin hueso",
+      "1 taza de almendras",
+      "2 cdas. de cacao en polvo",
+      "1/4 taza de coco rallado"
+    ],
+    "instructions": "Tritura los dátiles y las almendras en un procesador hasta obtener una masa pegajosa. Añade el cacao, forma bolitas y rebózalas en coco rallado."
+  },
+  "h3": {
+    "name": "Mousse saludable de chocolate y aguacate",
+    "ingredients": [
+      "2 aguacates maduros",
+      "3 cdas. de cacao en polvo",
+      "3 cdas. de sirope de dátil o miel",
+      "2 cdas. de bebida vegetal"
+    ],
+    "instructions": "Tritura el aguacate, el cacao, el endulzante y un poco de bebida vegetal hasta obtener una textura cremosa. Refrigera antes de servir."
+  },
+  "h4": {
+    "name": "Macedonia de fruta con menta y lima",
+    "ingredients": [
+      "3 tazas de fruta de temporada troceada",
+      "1 cda. de menta picada",
+      "el zumo de 1 lima",
+      "1 cda. de miel"
+    ],
+    "instructions": "Corta la fruta de temporada en dados, mézclala con la menta picada y el zumo de lima, y riega con un poco de miel."
+  },
+  "i1": {
+    "name": "Coulant de chocolate",
+    "ingredients": [
+      "200 g de chocolate negro",
+      "150 g de mantequilla",
+      "3 huevos",
+      "1/2 taza de azúcar",
+      "1/3 taza de harina"
+    ],
+    "instructions": "Funde el chocolate con la mantequilla. Bate los huevos con el azúcar, incorpóralos al chocolate y añade la harina. Hornea en moldes individuales a 200°C unos 10 minutos, hasta que los bordes cuajen y el centro siga líquido."
+  },
+  "i2": {
+    "name": "Tiramisú clásico",
+    "ingredients": [
+      "500 g de queso mascarpone",
+      "4 huevos, con yemas y claras separadas",
+      "1/2 taza de azúcar",
+      "24 bizcochos de soletilla",
+      "1,5 tazas de café fuerte y frío",
+      "2 cdas. de cacao en polvo para espolvorear"
+    ],
+    "instructions": "Bate las yemas con el azúcar e incorpora el mascarpone. Moja los bizcochos en el café frío, colócalos en capa en una fuente y cubre con una capa de crema. Repite las capas y refrigera al menos 4 horas. Espolvorea cacao antes de servir."
+  },
+  "i3": {
+    "name": "Baklava casera",
+    "ingredients": [
+      "1 paquete de masa filo (unas 20 láminas)",
+      "2 tazas de frutos secos picados",
+      "1 taza de mantequilla derretida",
+      "1 taza de azúcar",
+      "1/2 taza de miel",
+      "1 cdta. de agua de rosas"
+    ],
+    "instructions": "Superpone las láminas de filo pintando cada una con mantequilla derretida y repartiendo los frutos secos entre capas. Corta en triángulos y hornea a 180°C unos 30 minutos. Nada más sacarla, vierte por encima un almíbar caliente de miel y azúcar."
+  },
+  "i4": {
+    "name": "Tarta de queso estilo Nueva York",
+    "ingredients": [
+      "700 g de queso crema",
+      "3 huevos",
+      "1 taza de azúcar",
+      "1/2 taza de nata agria",
+      "200 g de galletas trituradas",
+      "100 g de mantequilla derretida"
+    ],
+    "instructions": "Mezcla las galletas trituradas con la mantequilla derretida y presiona la mezcla en un molde. Bate el queso crema con el azúcar, los huevos y la nata agria hasta obtener un relleno liso y viértelo sobre la base. Hornea a 160°C alrededor de una hora y refrigera al menos 4 horas antes de servir."
+  },
+  "b9": {
+    "name": "Shakshuka con merguez",
+    "ingredients": [
+      "4 huevos",
+      "250 g de merguez o salchichas picantes de ternera, en rodajas",
+      "3 tomates maduros, picados",
+      "1 cebolla, picada",
+      "1 pimiento rojo, picado",
+      "2 dientes de ajo, machacados",
+      "1 cdta. de harissa o pasta de chile"
+    ],
+    "instructions": "Dora las rodajas de salchicha en una sartén honda y resérvalas. En la misma sartén sofríe la cebolla y el pimiento, añade el ajo y la harissa y después los tomates, y cocina 10 minutos. Devuelve las salchichas, haz huecos, casca los huevos, tapa y cocina hasta que cuaje la clara."
+  },
+  "b10": {
+    "name": "Wrap de desayuno con pavo y verduras",
+    "ingredients": [
+      "2 tortillas integrales",
+      "120 g de pechuga de pavo en lonchas",
+      "2 huevos",
+      "1 puñado de espinacas baby",
+      "1 tomate, en rodajas",
+      "1 cda. de hummus o mostaza"
+    ],
+    "instructions": "Haz huevos revueltos en una sartén ligeramente engrasada. Unta las tortillas con hummus o mostaza y coloca las espinacas, el pavo, el tomate y los huevos. Enrolla bien, tuesta en una sartén sin aceite un minuto por cada lado y corta por la mitad."
+  },
+  "b11": {
+    "name": "Overnight oats de manzana y canela",
+    "ingredients": [
+      "1 taza de copos de avena",
+      "1 taza de bebida de avena o de soja",
+      "1 manzana, rallada",
+      "1 cda. de semillas de chía",
+      "1 cdta. de canela",
+      "1 cda. de sirope de arce"
+    ],
+    "instructions": "Mezcla la avena, la bebida vegetal, las semillas de chía y la canela en un tarro. Añade la manzana rallada y el sirope de arce, tapa y refrigera toda la noche. Remueve y tómalo frío, con unas nueces si quieres."
+  },
+  "b12": {
+    "name": "Frittata de boniato y espinacas",
+    "ingredients": [
+      "1 boniato pequeño, en láminas finas",
+      "4 huevos",
+      "2 puñados de espinacas frescas",
+      "1/2 cebolla, en láminas",
+      "2 cdas. de aceite de oliva",
+      "sal y pimienta"
+    ],
+    "instructions": "Sofríe el boniato y la cebolla en aceite de oliva hasta que estén tiernos, unos 10 minutos. Añade las espinacas hasta que se ablanden y vierte los huevos batidos con sal y pimienta. Tapa y cocina a fuego bajo 8 minutos hasta que cuaje, corta y sirve."
+  },
+  "b13": {
+    "name": "Tostada de ricotta, higos y miel",
+    "ingredients": [
+      "2 rebanadas de pan integral, tostadas",
+      "1/2 taza de queso ricotta",
+      "3 higos frescos, en láminas",
+      "1 cda. de miel",
+      "2 cdas. de nueces picadas"
+    ],
+    "instructions": "Unta generosamente la ricotta sobre las tostadas calientes. Coloca encima las láminas de higo, riega con miel y espolvorea con las nueces. Sirve enseguida."
+  },
+  "b14": {
+    "name": "Menemen (huevos revueltos a la turca)",
+    "ingredients": [
+      "4 huevos",
+      "3 tomates maduros, picados",
+      "1 pimiento verde, en dados",
+      "1/2 cebolla, en dados",
+      "2 cdas. de aceite de oliva",
+      "1/2 cdta. de chile en copos"
+    ],
+    "instructions": "Sofríe la cebolla y el pimiento verde en aceite de oliva hasta que se ablanden. Añade los tomates y cocina 6 minutos hasta que hagan salsa. Vierte los huevos, remueve con suavidad hasta que cuajen, espolvorea con chile y sirve con pan."
+  },
+  "b15": {
+    "name": "Tostada de mantequilla de cacahuete y plátano",
+    "ingredients": [
+      "2 rebanadas de pan integral, tostadas",
+      "2 cdas. de mantequilla de cacahuete",
+      "1 plátano, en rodajas",
+      "1 cdta. de semillas de chía",
+      "1 pizca de canela"
+    ],
+    "instructions": "Unta la mantequilla de cacahuete sobre las tostadas calientes. Coloca encima las rodajas de plátano y espolvorea con chía y canela. Come enseguida."
+  },
+  "b16": {
+    "name": "Plato de desayuno con hummus y huevo",
+    "ingredients": [
+      "1 taza de hummus",
+      "2 huevos duros, partidos por la mitad",
+      "1 pepino, en rodajas",
+      "2 tomates, en rodajas",
+      "1 cda. de aceite de oliva",
+      "1 cdta. de zaatar",
+      "2 panes de pita"
+    ],
+    "instructions": "Extiende el hummus en un plato y haz un pequeño hueco en el centro. Coloca alrededor los huevos, el pepino y los tomates. Riega con aceite de oliva, espolvorea con zaatar y sirve con pan de pita caliente."
+  },
+  "b17": {
+    "name": "Croque monsieur de pavo",
+    "ingredients": [
+      "4 rebanadas de pan de molde",
+      "4 lonchas de pechuga de pavo ahumada",
+      "1 taza de queso gruyer o suizo rallado",
+      "2 cdas. de mantequilla",
+      "1 cda. de harina",
+      "1/2 taza de leche"
+    ],
+    "instructions": "Derrite 1 cucharada de mantequilla, añade la harina y luego la leche batiendo, y cocina hasta que espese en una bechamel ligera. Rellena el pan con el pavo y la mitad del queso, cubre con bechamel y termina con el resto del queso. Hornea 10 minutos a 220 °C hasta que esté dorado y gratinado."
+  },
+  "b18": {
+    "name": "Tamagoyaki (tortilla japonesa enrollada)",
+    "ingredients": [
+      "4 huevos",
+      "1 cda. de salsa de soja",
+      "1 cdta. de azúcar",
+      "1 cda. de aceite vegetal",
+      "1 cebolleta, picada fina"
+    ],
+    "instructions": "Bate los huevos con la salsa de soja, el azúcar y la cebolleta. Vierte una capa fina en una sartén caliente engrasada y, cuando casi cuaje, enróllala hacia un lado. Añade más huevo, levanta el rollo para que fluya por debajo y vuelve a enrollar; repite hasta terminar el huevo y corta en rodajas."
+  },
+  "b19": {
+    "name": "Huevos rancheros",
+    "ingredients": [
+      "4 huevos",
+      "4 tortillas de maíz pequeñas",
+      "1 taza de frijoles negros, calientes",
+      "1 taza de salsa de tomate",
+      "1 aguacate, en láminas",
+      "1 cda. de aceite",
+      "cilantro fresco"
+    ],
+    "instructions": "Calienta las tortillas en una sartén seca y úntalas con los frijoles negros calientes. Fríe los huevos en aceite hasta que la clara cuaje y colócalos sobre las tortillas. Cubre con la salsa, añade el aguacate y espolvorea con cilantro."
+  },
+  "b20": {
+    "name": "Tortilla masala",
+    "ingredients": [
+      "4 huevos",
+      "1/2 cebolla morada, picada fina",
+      "1 tomate, picado fino",
+      "1 chile verde, picado fino",
+      "1/2 cdta. de cúrcuma",
+      "2 cdas. de cilantro picado",
+      "1 cda. de aceite"
+    ],
+    "instructions": "Bate los huevos con la cebolla, el tomate, el chile, la cúrcuma, el cilantro y una pizca de sal. Viértelos en una sartén caliente con aceite y cocina a fuego medio hasta que la base esté dorada. Dobla por la mitad y sirve caliente con tostadas."
+  },
+  "b21": {
+    "name": "Revuelto de tofu con cúrcuma",
+    "ingredients": [
+      "200 g de tofu firme",
+      "1 puñado de espinacas tiernas",
+      "1/2 cebolla, en dados",
+      "6 tomates cherry, partidos por la mitad",
+      "1/2 cdta. de cúrcuma",
+      "1 cda. de aceite de oliva",
+      "pimienta negra"
+    ],
+    "instructions": "Sofríe la cebolla en aceite de oliva hasta que esté tierna. Desmenuza el tofu con la cúrcuma y cocina 5 minutos removiendo. Añade los tomates y las espinacas hasta que estas se ablanden y sazona con sal y pimienta."
+  },
+  "b22": {
+    "name": "Sándwich de desayuno de pavo y huevo",
+    "ingredients": [
+      "2 panecillos o muffins ingleses, tostados",
+      "2 huevos",
+      "4 lonchas de pavo ahumado",
+      "1 tomate, en rodajas",
+      "unas hojas de lechuga",
+      "1 cda. de aceite",
+      "1 cdta. de mostaza"
+    ],
+    "instructions": "Fríe los huevos en aceite al gusto y calienta las lonchas de pavo un minuto en la sartén. Unta los panecillos tostados con mostaza. Rellena con el pavo, el huevo, el tomate y la lechuga y sirve caliente."
+  },
+  "b23": {
+    "name": "Huevos al horno con espinacas y feta",
+    "ingredients": [
+      "4 huevos",
+      "200 g de espinacas frescas",
+      "80 g de queso feta, desmenuzado",
+      "1 diente de ajo, picado",
+      "1 cda. de aceite de oliva",
+      "1/2 cdta. de pimentón"
+    ],
+    "instructions": "Sofríe el ajo y las espinacas en aceite de oliva hasta que se ablanden y reparte en dos cazuelitas. Espolvorea con el feta, casca los huevos encima y añade pimentón. Hornea 10–12 minutos a 200 °C hasta que cuaje la clara."
+  },
+  "b24": {
+    "name": "Bagel con salmón ahumado",
+    "ingredients": [
+      "2 bagels, cortados por la mitad y tostados",
+      "100 g de salmón ahumado",
+      "4 cdas. de queso crema",
+      "1/2 pepino, en láminas finas",
+      "1/4 cebolla morada, en láminas finas",
+      "1 cda. de alcaparras",
+      "eneldo fresco"
+    ],
+    "instructions": "Unta generosamente el queso crema en las mitades de bagel tostadas. Cubre con el salmón, el pepino y la cebolla morada. Termina con las alcaparras y un poco de eneldo."
+  },
+  "l11": {
+    "name": "Sándwich de ensalada de garbanzos",
+    "ingredients": [
+      "1 lata de garbanzos (400 g), escurridos",
+      "2 cdas. de tahini",
+      "1 cda. de zumo de limón",
+      "1 tallo de apio, en dados pequeños",
+      "4 rebanadas de pan integral",
+      "unas hojas de lechuga"
+    ],
+    "instructions": "Machaca los garbanzos de forma tosca con un tenedor y mézclalos con el tahini, el zumo de limón y el apio. Sazona con sal y pimienta. Coloca sobre el pan con la lechuga y cierra el sándwich."
+  },
+  "l12": {
+    "name": "Aguacate relleno de atún",
+    "ingredients": [
+      "2 aguacates maduros, partidos por la mitad y sin hueso",
+      "1 lata de atún (160 g), escurrida",
+      "1 cda. de mayonesa",
+      "1 cda. de zumo de limón",
+      "2 cdas. de cebolla morada en dados",
+      "1 cda. de perejil picado"
+    ],
+    "instructions": "Mezcla el atún con la mayonesa, el zumo de limón, la cebolla morada y el perejil, y sazona con sal y pimienta. Rellena las mitades de aguacate con la mezcla. Sirve enseguida."
+  },
+  "l13": {
+    "name": "Sabich (pita de berenjena y huevo)",
+    "ingredients": [
+      "2 berenjenas, en rodajas",
+      "3 huevos duros, en rodajas",
+      "4 cdas. de tahini",
+      "1 tomate y 1 pepino, en dados",
+      "2 panes de pita",
+      "4 cdas. de aceite para freír",
+      "1 cda. de zumo de limón"
+    ],
+    "instructions": "Fríe las rodajas de berenjena en aceite hasta que estén doradas por ambos lados y sálalas. Mezcla el tahini con el zumo de limón y un poco de agua hasta lograr una salsa lisa. Rellena las pitas con la berenjena, el huevo y las verduras en dados y baña generosamente con tahini."
+  },
+  "l14": {
+    "name": "Ensalada israelí con tahini",
+    "ingredients": [
+      "3 tomates, en dados pequeños",
+      "2 pepinos, en dados pequeños",
+      "1/2 cebolla morada, en dados pequeños",
+      "2 cdas. de perejil picado",
+      "2 cdas. de tahini",
+      "2 cdas. de aceite de oliva",
+      "2 cdas. de zumo de limón"
+    ],
+    "instructions": "Mezcla los tomates, los pepinos, la cebolla y el perejil en un bol grande. Bate el tahini, el aceite de oliva y el zumo de limón con un chorrito de agua hasta obtener una crema. Aliña la ensalada, sala y sirve enseguida."
+  },
+  "l15": {
+    "name": "Bol de ensalada con pollo al limón",
+    "ingredients": [
+      "2 pechugas de pollo",
+      "2 puñados de ensalada variada",
+      "1 pepino, en rodajas",
+      "10 tomates cherry, partidos por la mitad",
+      "3 cdas. de aceite de oliva",
+      "2 cdas. de zumo de limón",
+      "1 cdta. de orégano seco"
+    ],
+    "instructions": "Marina el pollo 10 minutos en 1 cucharada de aceite de oliva, la mitad del zumo de limón y el orégano. Cocínalo a la plancha o en sartén 6 minutos por lado hasta que esté hecho y córtalo en tiras. Colócalo sobre la ensalada, el pepino y los tomates y aliña con el resto del aceite y el limón."
+  },
+  "l16": {
+    "name": "Sándwich caprese",
+    "ingredients": [
+      "1 chapata o 4 rebanadas de buen pan",
+      "200 g de mozzarella fresca, en láminas",
+      "2 tomates maduros, en rodajas",
+      "un puñado de albahaca fresca",
+      "2 cdas. de aceite de oliva",
+      "1 cdta. de crema de balsámico"
+    ],
+    "instructions": "Abre la chapata por la mitad y riega ambas caras con aceite de oliva. Coloca en capas la mozzarella, los tomates y la albahaca, sazona con sal y pimienta y añade la crema de balsámico. Cierra, presiona ligeramente y corta por la mitad."
+  },
+  "l17": {
+    "name": "Sopa minestrone",
+    "ingredients": [
+      "1 cebolla y 2 zanahorias, en dados",
+      "2 calabacines, en dados",
+      "1 lata de tomate triturado (400 g)",
+      "1 lata de alubias blancas, escurridas",
+      "1/2 taza de pasta pequeña",
+      "1 litro de caldo de verduras",
+      "2 cdas. de aceite de oliva"
+    ],
+    "instructions": "Sofríe la cebolla, las zanahorias y los calabacines en aceite de oliva durante 5 minutos. Añade el tomate y el caldo y cuece a fuego lento 15 minutos. Incorpora las alubias y la pasta y cocina hasta que la pasta esté tierna, unos 8 minutos, y rectifica de sal."
+  },
+  "l18": {
+    "name": "Sopa de champiñones y cebada",
+    "ingredients": [
+      "300 g de champiñones, laminados",
+      "1/2 taza de cebada perlada",
+      "1 cebolla y 2 zanahorias, en dados",
+      "1,5 litros de caldo de verduras",
+      "2 cdas. de aceite de oliva",
+      "1 cdta. de tomillo seco",
+      "2 dientes de ajo, picados"
+    ],
+    "instructions": "Sofríe la cebolla, las zanahorias y los champiñones en aceite de oliva hasta que estos se doren y añade el ajo y el tomillo. Vierte el caldo, agrega la cebada y cuece a fuego lento 35 minutos hasta que esté tierna. Sazona con sal y pimienta y sirve caliente."
+  },
+  "l19": {
+    "name": "Sopa de pollo con verduras",
+    "ingredients": [
+      "1 pollo entero troceado, o 1 kg de trozos de pollo",
+      "2 zanahorias, peladas",
+      "2 tallos de apio",
+      "1 cebolla, partida por la mitad",
+      "1 chirivía",
+      "2 cdas. de eneldo y perejil picados",
+      "2 litros de agua"
+    ],
+    "instructions": "Pon el pollo en una olla grande, cúbrelo con agua y llévalo a ebullición retirando la espuma. Añade las verduras, baja el fuego y cuece parcialmente tapado durante 1 hora. Sazona con sal, incorpora las hierbas frescas y sirve caliente."
+  },
+  "l20": {
+    "name": "Wrap de pollo shawarma",
+    "ingredients": [
+      "500 g de muslos de pollo, en tiras",
+      "2 cdtas. de mezcla de especias para shawarma",
+      "2 cdas. de aceite de oliva",
+      "2 panes lavash o pita grandes",
+      "2 cdas. de tahini",
+      "1 tomate y 1 pepino, en rodajas",
+      "pepinillos y lechuga"
+    ],
+    "instructions": "Mezcla el pollo con las especias, el aceite de oliva y un poco de sal. Sella en una sartén caliente 8–10 minutos hasta que esté dorado y bien hecho. Unta el pan con tahini, rellena con el pollo, las verduras y los pepinillos y enrolla con firmeza."
+  },
+  "l21": {
+    "name": "Ensalada griega de garbanzos y feta",
+    "ingredients": [
+      "1 lata de garbanzos (400 g), escurridos",
+      "100 g de queso feta, en dados",
+      "1 pepino, en dados",
+      "10 tomates cherry, partidos por la mitad",
+      "1/4 cebolla morada, en láminas finas",
+      "3 cdas. de aceite de oliva",
+      "1 cda. de zumo de limón"
+    ],
+    "instructions": "Mezcla en un bol los garbanzos, el pepino, los tomates y la cebolla. Bate el aceite de oliva y el zumo de limón con una pizca de sal y orégano si tienes. Remueve y cubre con el feta."
+  },
+  "l22": {
+    "name": "Pimientos rellenos de arroz",
+    "ingredients": [
+      "4 pimientos, sin la parte superior y sin semillas",
+      "1 taza de arroz cocido",
+      "1 lata de tomate triturado (400 g)",
+      "1 cebolla, en dados",
+      "1 calabacín, en dados",
+      "2 cdas. de aceite de oliva",
+      "2 cdas. de perejil picado"
+    ],
+    "instructions": "Sofríe la cebolla y el calabacín en aceite de oliva y mézclalos con el arroz, la mitad del tomate y el perejil. Rellena los pimientos y colócalos de pie en una fuente. Vierte el resto del tomate alrededor, tapa con papel de aluminio y hornea 40 minutos a 190 °C."
+  },
+  "l23": {
+    "name": "Fideos lo mein con verduras",
+    "ingredients": [
+      "200 g de fideos sin huevo",
+      "1 zanahoria, en bastones",
+      "1 pimiento rojo, en tiras",
+      "2 tazas de col rallada",
+      "3 cdas. de salsa de soja",
+      "1 cda. de aceite de sésamo",
+      "2 dientes de ajo, picados"
+    ],
+    "instructions": "Cuece los fideos según el envase y escúrrelos. Saltea el ajo, la zanahoria, el pimiento y la col en aceite de sésamo a fuego vivo durante 4 minutos. Añade los fideos y la salsa de soja y remueve hasta que todo esté caliente y bien impregnado."
+  },
+  "l24": {
+    "name": "Sopa de miso con tofu",
+    "ingredients": [
+      "4 tazas de agua",
+      "3 cdas. de pasta de miso",
+      "150 g de tofu sedoso, en dados",
+      "2 cebolletas, en rodajas",
+      "1 hoja de nori, rota",
+      "1 cdta. de semillas de sésamo"
+    ],
+    "instructions": "Calienta el agua hasta que humee sin hervir. Disuelve la pasta de miso en un cucharón de agua caliente y devuélvela a la olla. Añade el tofu, las cebolletas y el nori, calienta 2 minutos sin hervir y sirve con sésamo."
+  },
+  "l25": {
+    "name": "Pho de verduras (sopa vietnamita de fideos)",
+    "ingredients": [
+      "1,5 litros de caldo de verduras",
+      "200 g de fideos de arroz",
+      "150 g de tofu, en dados",
+      "2 zanahorias, en láminas finas",
+      "1 rama de canela y 2 estrellas de anís",
+      "1 lima, en gajos",
+      "brotes de soja, albahaca y cilantro"
+    ],
+    "instructions": "Cuece el caldo a fuego lento con la canela, el anís y las zanahorias durante 15 minutos. Cuece los fideos aparte, escúrrelos y reparte en cuencos con el tofu. Vierte el caldo caliente y sirve con lima, brotes de soja y hierbas frescas."
+  },
+  "l26": {
+    "name": "Quesadillas de frijoles y queso",
+    "ingredients": [
+      "4 tortillas de harina grandes",
+      "1 lata de frijoles negros (400 g), escurridos y ligeramente aplastados",
+      "1,5 tazas de mozzarella o queso amarillo rallado",
+      "1/2 taza de granos de maíz",
+      "1 cdta. de comino molido",
+      "1 cda. de aceite",
+      "salsa para acompañar"
+    ],
+    "instructions": "Mezcla los frijoles con el maíz y el comino. Extiende sobre la mitad de cada tortilla, espolvorea con queso y dobla. Cocina en una sartén con aceite 2–3 minutos por lado hasta que esté crujiente y el queso se derrita, corta en triángulos y sirve con salsa."
+  },
+  "l27": {
+    "name": "Buñuelos de calabacín",
+    "ingredients": [
+      "3 calabacines, rallados",
+      "2 huevos",
+      "1/2 taza de harina",
+      "2 cdas. de eneldo o perejil picado",
+      "1 cdta. de sal",
+      "3 cdas. de aceite para freír"
+    ],
+    "instructions": "Espolvorea sal sobre el calabacín rallado, déjalo reposar 10 minutos y escúrrelo bien. Mézclalo con los huevos, la harina y las hierbas. Fríe cucharadas de la masa en aceite caliente 2–3 minutos por lado hasta que estén doradas y escúrrelas sobre papel absorbente."
+  },
+  "l28": {
+    "name": "Ensalada de pasta con feta y verduras",
+    "ingredients": [
+      "250 g de fusilli o penne",
+      "1 pepino, en dados",
+      "10 tomates cherry, partidos por la mitad",
+      "100 g de queso feta, desmenuzado",
+      "1/4 taza de aceitunas, en rodajas",
+      "3 cdas. de aceite de oliva",
+      "2 cdas. de zumo de limón"
+    ],
+    "instructions": "Cuece la pasta al dente, escúrrela y enjuágala con agua fría. Mézclala con el pepino, los tomates, las aceitunas y el feta. Aliña con aceite de oliva, zumo de limón, sal y pimienta y refrigera 15 minutos antes de servir."
+  },
+  "l29": {
+    "name": "Ensalada de lentejas con remolacha asada",
+    "ingredients": [
+      "1 taza de lentejas verdes o pardinas",
+      "3 remolachas medianas, peladas y en dados",
+      "1/2 cebolla morada, en láminas finas",
+      "3 cdas. de aceite de oliva",
+      "2 cdas. de zumo de limón",
+      "2 cdas. de perejil picado",
+      "1/4 taza de nueces picadas"
+    ],
+    "instructions": "Mezcla la remolacha con 1 cucharada de aceite y ásala 30 minutos a 200 °C hasta que esté tierna. Mientras tanto, cuece las lentejas 20–25 minutos hasta que estén blandas pero enteras y escúrrelas. Mezcla las lentejas, la remolacha, la cebolla y el perejil con el resto del aceite y el zumo de limón, sazona y espolvorea con las nueces."
+  },
+  "l30": {
+    "name": "Ensalada César con pollo",
+    "ingredients": [
+      "2 pechugas de pollo",
+      "1 lechuga romana grande, troceada",
+      "1/2 taza de parmesano rallado",
+      "1 taza de picatostes",
+      "3 cdas. de aceite de oliva",
+      "1 cda. de zumo de limón",
+      "1 diente de ajo y 1 cdta. de mostaza de Dijon"
+    ],
+    "instructions": "Sazona el pollo y cocínalo en una plancha 6 minutos por lado hasta que esté hecho y córtalo en láminas. Bate el aceite de oliva, el zumo de limón, el ajo machacado, la mostaza y la mitad del parmesano para el aliño. Mezcla la lechuga con el aliño y cubre con el pollo, los picatostes y el resto del parmesano."
+  },
+  "d9": {
+    "name": "Escalope de pollo crujiente",
+    "ingredients": [
+      "3 pechugas de pollo, cortadas por la mitad a lo ancho",
+      "1 taza de pan rallado",
+      "2 huevos, batidos",
+      "1/2 taza de harina",
+      "1/2 taza de aceite para freír",
+      "1 cdta. de pimentón",
+      "1 limón, en gajos"
+    ],
+    "instructions": "Aplana ligeramente el pollo y sazónalo con sal y pimentón. Reboza cada trozo en harina, luego en huevo y luego en pan rallado. Fríe en aceite caliente 3–4 minutos por lado hasta que esté bien dorado, escurre sobre papel absorbente y sirve con limón."
+  },
+  "d10": {
+    "name": "Albóndigas en salsa de tomate",
+    "ingredients": [
+      "500 g de carne de ternera picada",
+      "1 huevo",
+      "1/2 taza de pan rallado",
+      "1 lata de tomate triturado (400 g)",
+      "1 cebolla, picada fina",
+      "2 dientes de ajo, picados",
+      "250 g de espaguetis"
+    ],
+    "instructions": "Mezcla la carne con el huevo, el pan rallado, la mitad de la cebolla, la mitad del ajo, sal y pimienta y forma bolitas. Sofríe el resto de la cebolla y el ajo, añade el tomate y cuece 10 minutos. Agrega las albóndigas, cocina 15 minutos y sirve sobre los espaguetis cocidos."
+  },
+  "d11": {
+    "name": "Estofado de ternera con patatas",
+    "ingredients": [
+      "600 g de ternera para estofar, en cubos",
+      "3 patatas, en dados",
+      "2 zanahorias, en rodajas",
+      "1 cebolla, en dados",
+      "2 cdas. de concentrado de tomate",
+      "1 cdta. de pimentón",
+      "2 cdas. de aceite y 3 tazas de agua o caldo"
+    ],
+    "instructions": "Dora la carne en aceite en una olla pesada, añade la cebolla y sofríe hasta que se ablande. Incorpora el concentrado de tomate y el pimentón, vierte el agua y cuece tapado 1 hora. Añade las patatas y las zanahorias y cocina 30 minutos más hasta que todo esté tierno."
+  },
+  "d12": {
+    "name": "Salmón teriyaki",
+    "ingredients": [
+      "2 filetes de salmón",
+      "3 cdas. de salsa de soja",
+      "1 cda. de miel",
+      "1 cdta. de jengibre rallado",
+      "1 diente de ajo, picado",
+      "1 cda. de aceite",
+      "1 cdta. de semillas de sésamo"
+    ],
+    "instructions": "Mezcla la salsa de soja, la miel, el jengibre y el ajo. Sella el salmón en aceite, con la piel hacia abajo, 4 minutos y dale la vuelta. Vierte la salsa y cocina 3–4 minutos bañando el pescado hasta que quede brillante, y espolvorea con sésamo."
+  },
+  "d13": {
+    "name": "Brochetas de kofta de cordero con tahini",
+    "ingredients": [
+      "500 g de cordero o ternera picada",
+      "1 cebolla, rallada",
+      "1/2 taza de perejil picado",
+      "1 cdta. de comino",
+      "1 cdta. de pimentón",
+      "3 cdas. de tahini",
+      "1 cda. de zumo de limón"
+    ],
+    "instructions": "Mezcla la carne con la cebolla, el perejil, el comino, el pimentón y sal y forma óvalos largos alrededor de pinchos. Cocina a la parrilla o en sartén 4 minutos por lado hasta que estén dorados y hechos. Bate el tahini con el zumo de limón y un poco de agua y sirve al lado."
+  },
+  "d14": {
+    "name": "Berenjenas a la parmesana",
+    "ingredients": [
+      "3 berenjenas grandes, en rodajas de 1 cm",
+      "2 tazas de salsa de tomate",
+      "250 g de mozzarella, en láminas",
+      "1/2 taza de parmesano rallado",
+      "4 cdas. de aceite de oliva",
+      "un puñado de albahaca fresca"
+    ],
+    "instructions": "Pincela las rodajas de berenjena con aceite de oliva, sálalas y hornéalas 20 minutos a 220 °C, dándoles la vuelta una vez, hasta que estén doradas. Coloca en capas en una fuente la berenjena, la salsa de tomate, la mozzarella y la albahaca, terminando con salsa y parmesano. Hornea 25 minutos a 200 °C hasta que burbujee."
+  },
+  "d15": {
+    "name": "Risotto cremoso de champiñones",
+    "ingredients": [
+      "1 taza de arroz arborio",
+      "300 g de champiñones, laminados",
+      "1 cebolla, picada fina",
+      "4 tazas de caldo de verduras caliente",
+      "2 cdas. de mantequilla",
+      "1/2 taza de parmesano rallado",
+      "2 dientes de ajo, picados"
+    ],
+    "instructions": "Dora los champiñones en la mitad de la mantequilla y resérvalos. Sofríe la cebolla y el ajo en el resto de la mantequilla, añade el arroz y remueve 1 minuto. Incorpora el caldo caliente cucharón a cucharón, removiendo, unos 20 minutos hasta que esté cremoso, y mezcla los champiñones y el parmesano."
+  },
+  "d16": {
+    "name": "Espaguetis aglio e olio",
+    "ingredients": [
+      "250 g de espaguetis",
+      "5 dientes de ajo, en láminas finas",
+      "5 cdas. de aceite de oliva",
+      "1/2 cdta. de chile en copos",
+      "1/4 taza de perejil picado",
+      "1 cda. de zumo de limón"
+    ],
+    "instructions": "Cuece los espaguetis al dente en agua bien salada y reserva una taza del agua de cocción. Calienta el aceite de oliva con el ajo y el chile a fuego bajo hasta que el ajo esté apenas dorado. Mezcla la pasta en la sartén con un chorrito del agua de cocción, el perejil y el zumo de limón hasta que brille."
+  },
+  "d17": {
+    "name": "Lasaña de verduras",
+    "ingredients": [
+      "9 láminas de lasaña",
+      "3 tazas de salsa de tomate",
+      "2 calabacines y 1 berenjena, en láminas finas",
+      "250 g de queso ricotta",
+      "200 g de mozzarella rallada",
+      "2 cdas. de aceite de oliva",
+      "1 cdta. de orégano seco"
+    ],
+    "instructions": "Asa o dora las láminas de calabacín y berenjena en aceite de oliva hasta que estén tiernas. Coloca en una fuente capas de salsa, láminas de lasaña, verduras y ricotta, repite tres veces y termina con salsa y mozzarella. Tapa y hornea 35 minutos a 190 °C, destapa y hornea 10 minutos más hasta que esté dorada."
+  },
+  "d18": {
+    "name": "Pastel de pastor de lentejas",
+    "ingredients": [
+      "1 taza de lentejas pardinas o verdes",
+      "1 cebolla, 2 zanahorias y 1 tallo de apio, en dados",
+      "2 cdas. de concentrado de tomate",
+      "1 kg de patatas, peladas y en dados",
+      "3 cdas. de aceite de oliva",
+      "1/2 taza de guisantes",
+      "1/2 taza de bebida vegetal"
+    ],
+    "instructions": "Cuece las lentejas 20 minutos hasta que estén tiernas. Sofríe las verduras en la mitad del aceite, incorpora el concentrado de tomate, las lentejas y los guisantes y sazona bien. Cuece las patatas y aplástalas con el resto del aceite y la bebida vegetal, extiende sobre las lentejas y hornea 25 minutos a 200 °C hasta que dore por encima."
+  },
+  "d19": {
+    "name": "Fajitas de pollo",
+    "ingredients": [
+      "500 g de pechuga de pollo, en tiras",
+      "2 pimientos, en tiras",
+      "1 cebolla, en tiras",
+      "2 cdtas. de mezcla de especias para fajitas",
+      "2 cdas. de aceite",
+      "6 tortillas pequeñas",
+      "1 lima y 1 aguacate, para servir"
+    ],
+    "instructions": "Mezcla el pollo con las especias y 1 cucharada de aceite. Sella a fuego fuerte 6–7 minutos hasta que esté hecho y reserva. Saltea los pimientos y la cebolla en el resto del aceite 5 minutos, devuelve el pollo y sirve en tortillas calientes con lima y aguacate."
+  },
+  "d20": {
+    "name": "Chili de pavo con frijoles",
+    "ingredients": [
+      "500 g de pavo picado",
+      "1 lata de frijoles rojos (400 g), escurridos",
+      "1 lata de tomate triturado (400 g)",
+      "1 cebolla y 1 pimiento, en dados",
+      "2 cdtas. de chile en polvo",
+      "1 cdta. de comino",
+      "2 cdas. de aceite"
+    ],
+    "instructions": "Sofríe la cebolla y el pimiento en aceite, añade el pavo y cocina hasta que deje de estar rosado. Incorpora las especias, el tomate, los frijoles y media taza de agua. Cuece a fuego lento 30 minutos, removiendo de vez en cuando, hasta que espese, y rectifica de sal."
+  },
+  "d21": {
+    "name": "Ratatouille",
+    "ingredients": [
+      "1 berenjena, en dados",
+      "2 calabacines, en rodajas",
+      "2 pimientos, en dados",
+      "4 tomates maduros, picados",
+      "1 cebolla, en láminas",
+      "3 cdas. de aceite de oliva",
+      "2 dientes de ajo y 1 cdta. de tomillo seco"
+    ],
+    "instructions": "Dora la berenjena en aceite de oliva y resérvala. En la misma olla ablanda la cebolla, el ajo, los pimientos y los calabacines. Devuelve la berenjena, añade el tomate y el tomillo y cuece tapado a fuego lento 30 minutos, y sazona con sal y pimienta."
+  },
+  "d22": {
+    "name": "Pollo a la provenzal",
+    "ingredients": [
+      "4 muslos de pollo",
+      "1 lata de tomate triturado (400 g)",
+      "1/2 taza de aceitunas negras",
+      "1 cebolla, en láminas",
+      "3 dientes de ajo, en láminas",
+      "2 cdas. de aceite de oliva",
+      "1 cdta. de tomillo seco o hierbas provenzales"
+    ],
+    "instructions": "Dora el pollo por ambos lados en aceite de oliva y resérvalo. En la misma sartén ablanda la cebolla y el ajo, añade el tomate, las hierbas y las aceitunas y lleva a ebullición suave. Devuelve el pollo, tapa y cocina a fuego bajo 40 minutos hasta que esté tierno."
+  },
+  "d23": {
+    "name": "Salteado de ternera con brócoli",
+    "ingredients": [
+      "400 g de solomillo de ternera, en láminas finas",
+      "1 brócoli grande, en ramilletes",
+      "3 cdas. de salsa de soja",
+      "1 cda. de maicena",
+      "2 dientes de ajo, picados",
+      "1 cdta. de jengibre rallado",
+      "2 cdas. de aceite"
+    ],
+    "instructions": "Mezcla la ternera con 1 cucharada de salsa de soja y la maicena. Sella la carne en aceite caliente 2 minutos y resérvala. Saltea el brócoli con el ajo y el jengibre 4 minutos, devuelve la carne, añade el resto de la salsa de soja y un chorrito de agua y mezcla hasta que brille. Sirve sobre arroz."
+  },
+  "d24": {
+    "name": "Pollo agridulce",
+    "ingredients": [
+      "500 g de pechuga de pollo, en dados",
+      "1 pimiento y 1 cebolla, en trozos",
+      "1 taza de trozos de piña",
+      "1/2 taza de harina o maicena",
+      "1/3 taza de kétchup",
+      "3 cdas. de vinagre y 2 cdas. de azúcar",
+      "1/3 taza de aceite para freír"
+    ],
+    "instructions": "Sazona el pollo, pásalo por harina y fríelo en aceite caliente hasta que esté dorado y hecho, y resérvalo. Saltea el pimiento y la cebolla 3 minutos. Añade el kétchup, el vinagre, el azúcar y la piña, cuece hasta que espese la salsa, devuelve el pollo y sirve con arroz."
+  },
+  "d25": {
+    "name": "Curry rojo tailandés con pollo",
+    "ingredients": [
+      "500 g de pechuga de pollo, en láminas",
+      "1 lata de leche de coco (400 ml)",
+      "2 cdas. de pasta de curry rojo",
+      "1 pimiento rojo y 1 calabacín, en láminas",
+      "1 cda. de salsa de soja",
+      "1 cdta. de azúcar",
+      "1,5 tazas de arroz jazmín cocido"
+    ],
+    "instructions": "Sofríe la pasta de curry 1 minuto en un poco de la crema espesa de la leche de coco. Añade el pollo y cocina hasta que se vuelva opaco, vierte el resto de la leche de coco y cuece a fuego lento 10 minutos. Agrega las verduras, la salsa de soja y el azúcar, cocina 5 minutos más y sirve sobre arroz."
+  },
+  "d26": {
+    "name": "Pollo con albahaca tailandesa",
+    "ingredients": [
+      "400 g de pollo picado",
+      "1 buen puñado de hojas de albahaca fresca",
+      "3 dientes de ajo, picados",
+      "1 chile rojo, en rodajas",
+      "2 cdas. de salsa de soja",
+      "1 cdta. de azúcar",
+      "1 cda. de aceite y arroz cocido para servir"
+    ],
+    "instructions": "Saltea el ajo y el chile en aceite caliente 30 segundos. Añade el pollo y cocina desmenuzándolo hasta que esté dorado, unos 6 minutos. Incorpora la salsa de soja y el azúcar, luego la albahaca hasta que apenas se ablande, y sirve sobre arroz."
+  },
+  "d27": {
+    "name": "Calabacines rellenos de carne y arroz",
+    "ingredients": [
+      "8 calabacines medianos, vaciados",
+      "400 g de carne de ternera picada",
+      "1/2 taza de arroz, lavado",
+      "1 lata de tomate triturado (400 g)",
+      "1 cebolla, rallada",
+      "1 cdta. de pimienta de Jamaica",
+      "2 cdas. de perejil picado"
+    ],
+    "instructions": "Mezcla la carne con el arroz, la cebolla, la mitad del tomate, la pimienta de Jamaica, el perejil, sal y pimienta. Rellena cada calabacín hasta tres cuartas partes. Colócalos de pie en una olla ancha, vierte alrededor el resto del tomate y una taza de agua y cuece tapado 45 minutos hasta que el arroz esté hecho."
+  },
+  "d28": {
+    "name": "Bacalao al horno con tomates y aceitunas",
+    "ingredients": [
+      "2 filetes de bacalao",
+      "10 tomates cherry, partidos por la mitad",
+      "1/4 taza de aceitunas verdes o negras",
+      "2 dientes de ajo, en láminas",
+      "2 cdas. de aceite de oliva",
+      "1 cda. de alcaparras",
+      "1 limón"
+    ],
+    "instructions": "Coloca el pescado en una fuente y reparte alrededor los tomates, las aceitunas, el ajo y las alcaparras. Rocía con aceite de oliva, sazona y exprime encima medio limón. Hornea 15–18 minutos a 200 °C hasta que el pescado se desmenuce con facilidad y sirve con gajos de limón."
+  },
+  "d29": {
+    "name": "Pollo y verduras al horno con zaatar",
+    "ingredients": [
+      "4 muslos de pollo",
+      "3 patatas, en gajos",
+      "2 zanahorias, en trozos grandes",
+      "1 cebolla morada, en cuartos",
+      "3 cdas. de aceite de oliva",
+      "2 cdas. de zaatar",
+      "1 limón"
+    ],
+    "instructions": "Mezcla las verduras y el pollo con el aceite de oliva, el zaatar, sal y el zumo de medio limón. Extiende en una bandeja grande en una sola capa, con la piel hacia arriba. Asa 40–45 minutos a 210 °C hasta que el pollo esté hecho y todo dorado."
+  },
+  "d30": {
+    "name": "Rollos de col rellenos",
+    "ingredients": [
+      "1 col grande",
+      "400 g de carne de ternera picada",
+      "1/2 taza de arroz, lavado",
+      "1 lata de tomate triturado (400 g)",
+      "1 cebolla, rallada",
+      "2 cdas. de zumo de limón",
+      "1 cda. de azúcar"
+    ],
+    "instructions": "Escalda las hojas de col en agua hirviendo hasta que estén flexibles y recorta los nervios gruesos. Mezcla la carne, el arroz, la cebolla, sal y pimienta, pon una cucharada en cada hoja y enrolla. Coloca en una olla, vierte por encima el tomate mezclado con el zumo de limón, el azúcar y una taza de agua y cuece tapado 1 hora."
+  },
+  "n9": {
+    "name": "Palak paneer (curry de espinacas y queso)",
+    "ingredients": [
+      "400 g de espinacas frescas",
+      "200 g de paneer o queso blanco firme, en dados",
+      "1 cebolla, picada",
+      "2 tomates, picados",
+      "2 dientes de ajo y 1 cdta. de jengibre rallado",
+      "1 cdta. de garam masala",
+      "2 cdas. de aceite y 3 cdas. de nata"
+    ],
+    "instructions": "Escalda las espinacas 2 minutos y tritúralas hasta hacer un puré. Sofríe la cebolla, el ajo y el jengibre en aceite, añade los tomates y el garam masala y cocina hasta que estén tiernos. Incorpora el puré de espinacas y la nata, agrega el queso y cuece a fuego lento 5 minutos. Sirve con arroz o pan plano."
+  },
+  "n10": {
+    "name": "Chana masala (curry especiado de garbanzos)",
+    "ingredients": [
+      "2 latas de garbanzos (400 g cada una), escurridos",
+      "1 cebolla, picada fina",
+      "1 lata de tomate triturado (400 g)",
+      "2 dientes de ajo y 1 cdta. de jengibre rallado",
+      "2 cdtas. de garam masala",
+      "1 cdta. de comino",
+      "2 cdas. de aceite"
+    ],
+    "instructions": "Sofríe la cebolla en aceite hasta que dore, añade el ajo, el jengibre, el comino y el garam masala y remueve 1 minuto. Agrega el tomate y cocina 8 minutos. Añade los garbanzos y media taza de agua, cuece 15 minutos aplastando unos pocos garbanzos para espesar, y termina con sal y zumo de limón."
+  },
+  "n11": {
+    "name": "Biryani de verduras",
+    "ingredients": [
+      "1,5 tazas de arroz basmati, lavado",
+      "2 zanahorias y 1 taza de ramilletes de coliflor, picadas",
+      "1/2 taza de guisantes",
+      "1 cebolla, en láminas finas",
+      "2 cdtas. de especias para biryani o garam masala",
+      "1 cdta. de cúrcuma",
+      "3 cdas. de aceite"
+    ],
+    "instructions": "Fríe la cebolla en aceite hasta que esté dorada oscura. Añade las verduras y las especias y cocina 5 minutos. Incorpora el arroz, agrega 3 tazas de agua y sal, lleva a ebullición, tapa y cocina a fuego mínimo 15 minutos. Deja reposar 5 minutos y suelta con un tenedor."
+  },
+  "n12": {
+    "name": "Aloo gobi (patata y coliflor)",
+    "ingredients": [
+      "3 patatas, en dados",
+      "1 coliflor pequeña, en ramilletes",
+      "1 cebolla, picada",
+      "1 tomate, picado",
+      "1 cdta. de cúrcuma y 1 cdta. de comino",
+      "1 cdta. de garam masala",
+      "3 cdas. de aceite"
+    ],
+    "instructions": "Sofríe la cebolla en aceite hasta que esté tierna, añade el comino, la cúrcuma y el tomate y cocina 3 minutos. Agrega las patatas y la coliflor con un chorrito de agua, tapa y cocina a fuego medio-bajo 20 minutos removiendo de vez en cuando. Espolvorea con garam masala y sirve con arroz o pan plano."
+  },
+  "n13": {
+    "name": "Pollo estilo tandoori",
+    "ingredients": [
+      "4 muslos de pollo o 600 g de trozos de pollo",
+      "3 cdas. de zumo de limón",
+      "2 cdas. de aceite",
+      "2 cdas. de mezcla de especias tandoori",
+      "3 dientes de ajo y 1 cdta. de jengibre rallado",
+      "1 cdta. de pimentón",
+      "1 cebolla morada, en láminas, para servir"
+    ],
+    "instructions": "Mezcla el zumo de limón, el aceite, las especias, el ajo y el jengibre en una pasta y frótala sobre el pollo tras hacerle cortes en la carne. Marina al menos 30 minutos o toda la noche. Asa 30–35 minutos a 220 °C, dándole la vuelta una vez, hasta que los bordes estén tostados y el pollo hecho, y sirve con la cebolla."
+  },
+  "n14": {
+    "name": "Korma de verduras con leche de coco",
+    "ingredients": [
+      "1 lata de leche de coco (400 ml)",
+      "2 patatas y 2 zanahorias, en dados",
+      "1 taza de judías verdes o guisantes",
+      "1 cebolla, picada",
+      "2 cdas. de pasta de korma o 1 cda. de curry en polvo",
+      "2 cdas. de anacardos o almendras, molidos",
+      "2 cdas. de aceite"
+    ],
+    "instructions": "Sofríe la cebolla en aceite hasta que esté tierna y fríe la pasta de korma 1 minuto. Añade las patatas, las zanahorias, la leche de coco y media taza de agua y cuece 20 minutos. Agrega las judías verdes y los frutos secos molidos, cocina 8 minutos más hasta que la salsa esté cremosa y sala."
+  },
+  "n15": {
+    "name": "Curry de huevos",
+    "ingredients": [
+      "6 huevos duros, pelados",
+      "1 cebolla, picada fina",
+      "1 lata de tomate triturado (400 g)",
+      "2 dientes de ajo y 1 cdta. de jengibre rallado",
+      "1 cdta. de cúrcuma y 2 cdtas. de garam masala",
+      "1 cdta. de comino",
+      "3 cdas. de aceite"
+    ],
+    "instructions": "Sofríe la cebolla en aceite hasta que dore, añade el ajo, el jengibre y las especias y remueve 1 minuto. Agrega el tomate y media taza de agua y cuece 12 minutos hasta obtener una salsa espesa. Añade los huevos, báñalos con la salsa y cocina 5 minutos; sirve con arroz o pan."
+  },
+  "n16": {
+    "name": "Curry verde tailandés con tofu",
+    "ingredients": [
+      "250 g de tofu firme, en dados",
+      "1 lata de leche de coco (400 ml)",
+      "2 cdas. de pasta de curry verde",
+      "1 calabacín y 1 taza de judías verdes, troceados",
+      "1 cda. de salsa de soja",
+      "1 cdta. de azúcar",
+      "un puñado de albahaca tailandesa o normal"
+    ],
+    "instructions": "Dora el tofu por todos los lados y resérvalo. Cocina la pasta de curry 1 minuto en un poco de la crema espesa de la leche de coco, añade el resto de la leche y cuece 5 minutos. Agrega las verduras, el tofu, la salsa de soja y el azúcar, cocina 8 minutos y termina con la albahaca. Sirve con arroz."
+  },
+  "n17": {
+    "name": "Sopa tom kha con champiñones",
+    "ingredients": [
+      "1 lata de leche de coco (400 ml)",
+      "2 tazas de caldo de verduras",
+      "200 g de champiñones, laminados",
+      "2 tallos de hierba limón y un trozo de jengibre del tamaño de un pulgar, en láminas",
+      "1 lima, exprimida",
+      "1 cda. de salsa de soja",
+      "cilantro fresco y 1 chile rojo"
+    ],
+    "instructions": "Lleva el caldo a fuego lento con la hierba limón y el jengibre y deja infusionar 10 minutos. Añade la leche de coco y los champiñones y cocina 8 minutos. Incorpora la salsa de soja y el zumo de lima y sirve con cilantro y chile."
+  },
+  "n18": {
+    "name": "Ensalada tailandesa de fideos con cacahuete",
+    "ingredients": [
+      "200 g de fideos de arroz",
+      "1 zanahoria, en bastones",
+      "1 pimiento rojo, en láminas finas",
+      "2 tazas de col lombarda rallada",
+      "3 cdas. de mantequilla de cacahuete",
+      "2 cdas. de salsa de soja y 1 cda. de zumo de lima",
+      "1 cdta. de azúcar y 1 diente de ajo, picado"
+    ],
+    "instructions": "Cuece los fideos de arroz según el envase, enjuágalos con agua fría y escúrrelos. Bate la mantequilla de cacahuete, la salsa de soja, el zumo de lima, el azúcar y el ajo con 2–3 cucharadas de agua tibia hasta obtener una salsa lisa. Mezcla los fideos y las verduras con la salsa y sirve frío con cacahuetes picados."
+  },
+  "n19": {
+    "name": "Rollitos de sushi de verduras",
+    "ingredients": [
+      "1,5 tazas de arroz para sushi",
+      "4 hojas de nori",
+      "1 aguacate, en láminas",
+      "1 pepino y 1 zanahoria, en bastones finos",
+      "3 cdas. de vinagre de arroz",
+      "1 cda. de azúcar y 1/2 cdta. de sal",
+      "salsa de soja, para mojar"
+    ],
+    "instructions": "Cuece el arroz, incorpora el vinagre de arroz, el azúcar y la sal y deja enfriar. Coloca una hoja de nori sobre una esterilla de bambú, extiende una capa fina de arroz dejando un borde arriba y alinea las verduras a lo largo del borde inferior. Enrolla con firmeza, sella el borde con un poco de agua, corta en piezas y sirve con salsa de soja."
+  },
+  "n20": {
+    "name": "Pollo katsu",
+    "ingredients": [
+      "3 pechugas de pollo, cortadas por la mitad a lo ancho",
+      "1 taza de pan rallado panko",
+      "2 huevos, batidos",
+      "1/2 taza de harina",
+      "1/2 taza de aceite para freír",
+      "3 cdas. de kétchup, 1 cda. de salsa de soja y 1 cdta. de azúcar",
+      "arroz cocido y col rallada, para servir"
+    ],
+    "instructions": "Sazona el pollo, pásalo por harina, luego por huevo y luego por panko, presionando para que se adhiera. Fríe en aceite caliente 3–4 minutos por lado hasta que esté bien dorado y hecho, y escurre. Mezcla el kétchup, la salsa de soja y el azúcar en una salsa rápida, corta el pollo y sirve sobre arroz con la col y la salsa."
+  },
+  "n21": {
+    "name": "Bibimbap de verduras",
+    "ingredients": [
+      "2 tazas de arroz cocido",
+      "2 huevos",
+      "1 zanahoria, en bastones",
+      "2 tazas de espinacas frescas",
+      "1 calabacín, en bastones",
+      "2 cdas. de aceite de sésamo y 2 cdas. de salsa de soja",
+      "1–2 cdas. de pasta de chile (gochujang), al gusto"
+    ],
+    "instructions": "Saltea por separado la zanahoria y el calabacín en un poco de aceite de sésamo 2–3 minutos cada uno, ablanda las espinacas y sazónalas con salsa de soja. Fríe los huevos. Reparte el arroz en dos cuencos, coloca encima las verduras y los huevos y sirve con la pasta de chile para mezclar."
+  },
+  "n22": {
+    "name": "Bowl de arroz con ternera bulgogi",
+    "ingredients": [
+      "400 g de solomillo de ternera, en láminas muy finas",
+      "4 cdas. de salsa de soja",
+      "1 cda. de azúcar o miel",
+      "1 cda. de aceite de sésamo",
+      "3 dientes de ajo, picados",
+      "2 tazas de arroz cocido",
+      "1 pepino, en rodajas, y 2 cebolletas"
+    ],
+    "instructions": "Marina la ternera en la salsa de soja, el azúcar, el aceite de sésamo y el ajo al menos 15 minutos. Sella la carne en una sartén muy caliente 2–3 minutos hasta que los bordes se caramelicen. Sirve sobre arroz con el pepino y las cebolletas."
+  },
+  "n23": {
+    "name": "Ramen de miso con huevo",
+    "ingredients": [
+      "2 raciones de fideos ramen o de trigo",
+      "4 tazas de caldo de verduras",
+      "2 cdas. de pasta de miso",
+      "2 huevos poco cocidos, partidos por la mitad",
+      "1 taza de espinacas tiernas o pak choi",
+      "2 cebolletas, en rodajas",
+      "1 cdta. de aceite de sésamo"
+    ],
+    "instructions": "Calienta el caldo y bate el miso sin que llegue a hervir. Cuece los fideos aparte según el envase y reparte en dos cuencos. Vierte el caldo, añade las espinacas, los huevos y las cebolletas y termina con un chorrito de aceite de sésamo."
+  },
+  "n24": {
+    "name": "Fideos fríos con sésamo",
+    "ingredients": [
+      "200 g de fideos de trigo o de arroz",
+      "3 cdas. de tahini o pasta de sésamo",
+      "2 cdas. de salsa de soja",
+      "1 cda. de vinagre de arroz y 1 cdta. de azúcar",
+      "1 pepino, en bastones",
+      "2 cebolletas, en rodajas",
+      "1 cda. de semillas de sésamo tostadas"
+    ],
+    "instructions": "Cuece los fideos, enjuágalos con agua fría y escúrrelos bien. Bate el tahini, la salsa de soja, el vinagre y el azúcar con 2–3 cucharadas de agua tibia hasta obtener una salsa fluida. Mezcla los fideos con la salsa, decora con el pepino, las cebolletas y el sésamo y sirve frío."
+  },
+  "n25": {
+    "name": "Quesadilla de pollo y queso",
+    "ingredients": [
+      "2 pechugas de pollo, cocidas y desmenuzadas",
+      "4 tortillas de harina grandes",
+      "1,5 tazas de queso cheddar o mozzarella rallado",
+      "1 pimiento, en dados",
+      "1/2 cebolla, en dados",
+      "1 cdta. de comino",
+      "1 cda. de aceite"
+    ],
+    "instructions": "Sofríe el pimiento y la cebolla en aceite 4 minutos y mézclalos con el pollo desmenuzado y el comino. Extiende el relleno sobre la mitad de cada tortilla, espolvorea con queso y dobla. Cocina en una sartén seca 2–3 minutos por lado hasta que esté crujiente y el queso se derrita, y corta en triángulos."
+  },
+  "n26": {
+    "name": "Tostadas de frijoles negros y maíz",
+    "ingredients": [
+      "6 tostadas de maíz o tortillas pequeñas, tostadas hasta quedar crujientes",
+      "1 lata de frijoles negros (400 g), escurridos y machacados",
+      "1 taza de granos de maíz",
+      "1 aguacate, en láminas",
+      "1 tomate, en dados",
+      "1 lima",
+      "cilantro fresco y 1 cdta. de comino"
+    ],
+    "instructions": "Calienta los frijoles con el comino y un chorrito de agua, machacándolos hasta que se puedan untar. Mezcla el maíz, el tomate, el cilantro y un chorrito de lima. Unta los frijoles sobre las tostadas, cubre con la ensalada de maíz y el aguacate y sirve con gajos de lima."
+  },
+  "n27": {
+    "name": "Bowl mexicano de arroz y frijoles",
+    "ingredients": [
+      "1 taza de arroz de grano largo",
+      "1 lata de frijoles negros o pintos (400 g), escurridos",
+      "1 taza de salsa de tomate",
+      "1 taza de granos de maíz",
+      "1 aguacate, en dados",
+      "1 cdta. de comino y 1 cdta. de pimentón",
+      "1 cda. de aceite y cilantro fresco"
+    ],
+    "instructions": "Tuesta el arroz en aceite 2 minutos, luego añade la salsa de tomate, 1,5 tazas de agua, el comino, el pimentón y sal. Tapa y cocina a fuego bajo 18 minutos. Calienta los frijoles y el maíz, reparte todo en cuencos sobre el arroz y decora con aguacate y cilantro."
+  },
+  "n28": {
+    "name": "Enchiladas de queso y frijoles",
+    "ingredients": [
+      "8 tortillas de maíz o de harina pequeñas",
+      "1 lata de frijoles negros (400 g), escurridos",
+      "2 tazas de mozzarella o queso amarillo rallado",
+      "2 tazas de salsa para enchiladas o de tomate",
+      "1/2 cebolla, en dados",
+      "1 cdta. de comino",
+      "1 cda. de aceite"
+    ],
+    "instructions": "Sofríe la cebolla en aceite y mézclala con los frijoles, el comino y la mitad del queso. Rellena cada tortilla, enróllala y colócala con la unión hacia abajo en una fuente. Vierte la salsa por encima, espolvorea con el resto del queso y hornea 20 minutos a 190 °C hasta que burbujee."
+  },
+  "n29": {
+    "name": "Chilaquiles con huevos",
+    "ingredients": [
+      "150 g de totopos",
+      "1,5 tazas de salsa de tomate",
+      "4 huevos",
+      "1/2 taza de queso rallado o feta desmenuzado",
+      "1/2 cebolla morada, en láminas finas",
+      "1 cda. de aceite",
+      "cilantro fresco"
+    ],
+    "instructions": "Cuece la salsa a fuego lento 3 minutos en una sartén ancha, añade los totopos y mezcla solo hasta que queden cubiertos pero aún algo crujientes. Fríe los huevos en aceite al gusto. Sirve los chilaquiles con los huevos, el queso, la cebolla y el cilantro."
+  },
+  "n30": {
+    "name": "Tacos de boniato asado",
+    "ingredients": [
+      "2 boniatos, en cubos pequeños",
+      "6 tortillas de maíz pequeñas",
+      "1 lata de frijoles negros (400 g), escurridos",
+      "1 aguacate, machacado con zumo de lima",
+      "1 cdta. de pimentón ahumado y 1 cdta. de comino",
+      "2 cdas. de aceite de oliva",
+      "cilantro fresco y col lombarda rallada"
+    ],
+    "instructions": "Mezcla los boniatos con el aceite de oliva, el pimentón, el comino y sal y ásalos 25 minutos a 220 °C hasta que estén tiernos y caramelizados. Calienta los frijoles y las tortillas. Rellena las tortillas con los frijoles, el boniato, el aguacate, la col y el cilantro."
+  },
+  "n31": {
+    "name": "Quiche de verduras",
+    "ingredients": [
+      "1 lámina de masa quebrada",
+      "4 huevos",
+      "1/2 taza de leche o nata",
+      "1 taza de queso rallado",
+      "1 calabacín y 1 taza de champiñones, laminados",
+      "1/2 cebolla, en dados",
+      "1 cda. de aceite de oliva"
+    ],
+    "instructions": "Sofríe la cebolla, el calabacín y los champiñones en aceite de oliva hasta que se evapore el líquido. Forra un molde de tarta con la masa y hornéala 10 minutos a 190 °C. Bate los huevos con la leche, sal y pimienta, reparte las verduras y el queso sobre la base, vierte la mezcla de huevo y hornea 30 minutos hasta que cuaje y dore."
+  },
+  "n32": {
+    "name": "Sopa de cebolla a la francesa",
+    "ingredients": [
+      "4 cebollas grandes, en láminas finas",
+      "3 cdas. de mantequilla",
+      "1 litro de caldo de verduras",
+      "1 cdta. de tomillo seco",
+      "4 rebanadas de baguette, tostadas",
+      "1 taza de queso gruyer o suizo rallado",
+      "1 cda. de harina"
+    ],
+    "instructions": "Cocina las cebollas en la mantequilla a fuego medio-bajo 35–40 minutos, removiendo a menudo, hasta que estén muy caramelizadas. Añade la harina y el tomillo, vierte el caldo y cuece 15 minutos. Reparte en cuencos aptos para horno, coloca el pan tostado y el queso y gratina 3–4 minutos hasta que burbujee y dore."
+  },
+  "n33": {
+    "name": "Pizza margarita casera",
+    "ingredients": [
+      "2 tazas de harina",
+      "1 sobre (7 g) de levadura seca",
+      "3/4 taza de agua tibia y 1 cda. de aceite de oliva",
+      "1 taza de salsa de tomate",
+      "200 g de mozzarella fresca, desgarrada",
+      "un puñado de albahaca fresca",
+      "1 cdta. de sal y 1 cdta. de azúcar"
+    ],
+    "instructions": "Mezcla la harina, la levadura, la sal, el azúcar, el agua tibia y el aceite hasta formar una masa, amasa 8 minutos y deja reposar 30 minutos. Estírala, cúbrela con la salsa de tomate y reparte la mozzarella. Hornea sobre una bandeja caliente 8–10 minutos a 250 °C hasta que el borde esté dorado y añade albahaca fresca."
+  },
+  "n34": {
+    "name": "Penne all'arrabbiata",
+    "ingredients": [
+      "250 g de penne",
+      "1 lata de tomate triturado (400 g)",
+      "3 dientes de ajo, en láminas",
+      "1/2–1 cdta. de chile en copos",
+      "3 cdas. de aceite de oliva",
+      "2 cdas. de perejil picado"
+    ],
+    "instructions": "Calienta el aceite de oliva con el ajo y el chile 1 minuto hasta que aromatice. Añade el tomate y una pizca de sal y cuece 15 minutos hasta que la salsa espese. Cuece la penne al dente, mézclala con la salsa y espolvorea con perejil."
+  },
+  "h5": {
+    "name": "Manzanas asadas con canela",
+    "ingredients": [
+      "4 manzanas, sin el corazón",
+      "2 cdas. de pasas",
+      "2 cdas. de nueces picadas",
+      "1 cdta. de canela",
+      "1 cda. de sirope de arce"
+    ],
+    "instructions": "Mezcla las pasas, las nueces, la canela y el sirope de arce y rellena las manzanas. Colócalas en una fuente con un chorrito de agua. Hornea 30 minutos a 180 °C hasta que estén tiernas y aromáticas."
+  },
+  "h6": {
+    "name": "Helado de plátano",
+    "ingredients": [
+      "3 plátanos maduros, en rodajas y congelados",
+      "1 cda. de cacao en polvo o 1/2 taza de frutos rojos congelados",
+      "2 cdas. de bebida vegetal",
+      "1 cdta. de extracto de vainilla"
+    ],
+    "instructions": "Tritura las rodajas de plátano congeladas con la bebida vegetal, la vainilla y el cacao o los frutos rojos hasta obtener una crema suave, rascando los bordes si hace falta. Sirve al momento como helado blando o congela 30 minutos para que quede más firme."
+  },
+  "h7": {
+    "name": "Corteza de yogur helado con frutos rojos",
+    "ingredients": [
+      "2 tazas de yogur griego",
+      "1 cda. de miel",
+      "1 taza de frutos rojos variados",
+      "2 cdas. de pistachos o almendras picadas"
+    ],
+    "instructions": "Mezcla la miel con el yogur y extiéndelo con un grosor de 1 cm sobre una bandeja forrada con papel de horno. Esparce los frutos rojos y los frutos secos y presiona ligeramente. Congela al menos 3 horas, rompe en trozos y sirve directamente del congelador."
+  },
+  "h8": {
+    "name": "Galletas de plátano y avena",
+    "ingredients": [
+      "2 plátanos maduros, machacados",
+      "1,5 tazas de copos de avena",
+      "1/3 taza de pepitas de chocolate negro o pasas",
+      "1 cdta. de canela",
+      "1 cdta. de extracto de vainilla"
+    ],
+    "instructions": "Mezcla los plátanos machacados con la avena, las pepitas de chocolate, la canela y la vainilla y deja reposar 5 minutos. Coloca cucharadas sobre una bandeja forrada y aplasta ligeramente. Hornea 15 minutos a 180 °C hasta que los bordes estén dorados."
+  },
+  "h9": {
+    "name": "Arroz glutinoso con mango",
+    "ingredients": [
+      "1 taza de arroz glutinoso, en remojo 1 hora",
+      "1 lata de leche de coco (400 ml)",
+      "3 cdas. de azúcar",
+      "1/2 cdta. de sal",
+      "2 mangos maduros, en láminas"
+    ],
+    "instructions": "Cuece el arroz remojado al vapor 25 minutos hasta que esté tierno. Calienta la leche de coco con el azúcar y la sal sin que hierva y mezcla dos tercios con el arroz caliente; tapa y deja que absorba 15 minutos. Sirve el arroz con las láminas de mango y baña con el resto de la salsa de coco."
+  },
+  "h10": {
+    "name": "Peras asadas con nueces y miel",
+    "ingredients": [
+      "4 peras maduras, partidas por la mitad y sin corazón",
+      "1/4 taza de nueces, picadas",
+      "2 cdas. de miel",
+      "1 cdta. de canela",
+      "1 cdta. de zumo de limón"
+    ],
+    "instructions": "Pincela la parte cortada de las peras con zumo de limón y colócalas con el corte hacia arriba en una fuente. Rellena el centro con las nueces, riega con miel y espolvorea con canela. Hornea 25 minutos a 180 °C hasta que estén tiernas y caramelizadas."
+  },
+  "h11": {
+    "name": "Fresas bañadas en chocolate negro",
+    "ingredients": [
+      "300 g de fresas grandes, lavadas y secas",
+      "100 g de chocolate negro (sin lácteos)",
+      "1 cdta. de aceite de coco",
+      "2 cdas. de pistachos picados o coco rallado"
+    ],
+    "instructions": "Derrite el chocolate con el aceite de coco en un bol sobre agua caliente, removiendo hasta que quede suave. Sumerge cada fresa hasta dos tercios en el chocolate y pásala por los pistachos si quieres. Colócalas sobre papel de horno y refrigera 20 minutos hasta que se endurezcan."
+  },
+  "h12": {
+    "name": "Sorbete de sandía y menta",
+    "ingredients": [
+      "4 tazas de trozos de sandía, sin semillas y congelados",
+      "1 cda. de zumo de lima o limón",
+      "8 hojas de menta fresca",
+      "1 cda. de sirope de arce (opcional)"
+    ],
+    "instructions": "Tritura la sandía congelada con el zumo de cítrico, la menta y el edulcorante hasta obtener una textura suave y espesa, rascando los bordes de vez en cuando. Sirve al momento o congela 30 minutos para que quede más firme. Decora con una hoja de menta."
+  },
+  "h13": {
+    "name": "Galletas de tahini",
+    "ingredients": [
+      "1/2 taza de tahini",
+      "1/3 taza de sirope de arce o de dátiles",
+      "1 taza de harina o harina de almendra",
+      "1 cdta. de extracto de vainilla",
+      "2 cdas. de semillas de sésamo"
+    ],
+    "instructions": "Mezcla el tahini, el sirope y la vainilla hasta que quede suave y añade la harina para formar una masa blanda. Forma bolitas, pásalas por el sésamo y aplástalas ligeramente sobre una bandeja forrada. Hornea 10–12 minutos a 170 °C hasta que apenas doren y deja que se endurezcan al enfriar."
+  },
+  "h14": {
+    "name": "Bizcocho de naranja y almendra sin harina",
+    "ingredients": [
+      "2 naranjas, hervidas enteras 1 hora y trituradas",
+      "3 huevos",
+      "1,5 tazas de harina de almendra",
+      "1/2 taza de azúcar",
+      "1 cdta. de levadura en polvo"
+    ],
+    "instructions": "Hierve las naranjas enteras en agua 1 hora hasta que estén blandas, deja enfriar, retira las pepitas y tritúralas con la piel. Bate los huevos con el azúcar y añade el puré de naranja, la harina de almendra y la levadura. Vierte en un molde de 22 cm forrado y hornea 45 minutos a 180 °C hasta que un palillo salga limpio."
+  },
+  "h15": {
+    "name": "Melocotones escalfados con canela",
+    "ingredients": [
+      "4 melocotones o nectarinas maduros, partidos por la mitad y sin hueso",
+      "2 tazas de agua",
+      "3 cdas. de azúcar",
+      "1 rama de canela",
+      "1 cdta. de extracto de vainilla"
+    ],
+    "instructions": "Cuece a fuego lento el agua, el azúcar, la rama de canela y la vainilla 3 minutos. Añade los melocotones con el corte hacia abajo y escálfalos suavemente 10–12 minutos hasta que estén tiernos. Sácalos, pélalos si quieres y sirve templados o fríos con una cucharada de almíbar."
+  },
+  "h16": {
+    "name": "Bolitas energéticas de cacahuete y avena",
+    "ingredients": [
+      "1 taza de copos de avena",
+      "1/2 taza de mantequilla de cacahuete",
+      "1/3 taza de sirope de arce o de dátiles",
+      "1/4 taza de pepitas de chocolate negro",
+      "1 cda. de semillas de chía"
+    ],
+    "instructions": "Mezcla todos los ingredientes en un bol hasta que la masa se compacte, añadiendo un chorrito de agua si está seca. Refrigera 15 minutos y forma 12 bolitas. Conserva en el frigorífico hasta una semana."
+  },
+  "i5": {
+    "name": "Galletas con pepitas de chocolate",
+    "ingredients": [
+      "1/2 taza de mantequilla, blanda",
+      "1/2 taza de azúcar moreno y 1/4 taza de azúcar blanco",
+      "1 huevo y 1 cdta. de extracto de vainilla",
+      "1,5 tazas de harina y 1/2 cdta. de bicarbonato",
+      "1 taza de pepitas de chocolate",
+      "una pizca de sal"
+    ],
+    "instructions": "Bate la mantequilla con ambos azúcares hasta que esté esponjosa y añade el huevo y la vainilla. Incorpora la harina, el bicarbonato y la sal y después las pepitas de chocolate. Coloca cucharadas en una bandeja forrada y hornea 10–12 minutos a 180 °C hasta que los bordes estén dorados y el centro aún tierno."
+  },
+  "i6": {
+    "name": "Brownies jugosos",
+    "ingredients": [
+      "150 g de chocolate negro",
+      "3/4 taza de mantequilla",
+      "3/4 taza de azúcar",
+      "3 huevos",
+      "1/2 taza de harina",
+      "1/4 taza de cacao en polvo",
+      "una pizca de sal"
+    ],
+    "instructions": "Derrite juntos el chocolate y la mantequilla y deja templar un poco. Incorpora el azúcar batiendo y después los huevos de uno en uno. Añade la harina, el cacao y la sal, vierte en un molde cuadrado de 20 cm forrado y hornea 22–25 minutos a 175 °C, hasta que la superficie cuaje y el centro siga jugoso."
+  },
+  "i7": {
+    "name": "Tarta de manzana clásica",
+    "ingredients": [
+      "1 masa de tarta doble ya preparada o casera",
+      "6 manzanas, peladas y en láminas",
+      "1/2 taza de azúcar",
+      "2 cdas. de harina",
+      "1 cdta. de canela",
+      "2 cdas. de mantequilla, en dados",
+      "1 huevo batido, para pincelar"
+    ],
+    "instructions": "Mezcla las manzanas con el azúcar, la harina y la canela. Forra un molde con la mitad de la masa, rellena con las manzanas y reparte los dados de mantequilla. Cubre con el resto de la masa, sella los bordes, haz cortes en la superficie, pincela con huevo y hornea 20 minutos a 200 °C y luego 35 minutos a 180 °C hasta que dore."
+  },
+  "i8": {
+    "name": "Crème brûlée",
+    "ingredients": [
+      "2 tazas de nata para montar",
+      "5 yemas de huevo",
+      "1/3 taza de azúcar, más un poco para la superficie",
+      "1 cdta. de extracto de vainilla"
+    ],
+    "instructions": "Calienta la nata con la vainilla. Bate las yemas con el azúcar e incorpora poco a poco la nata caliente. Vierte en 4 flaneras, colócalas en un baño maría y hornea 35–40 minutos a 150 °C hasta que apenas cuajen. Enfría 4 horas, espolvorea con azúcar y carameliza con un soplete o bajo el grill."
+  },
+  "i9": {
+    "name": "Bizcocho de ricotta y limón",
+    "ingredients": [
+      "250 g de queso ricotta",
+      "3 huevos",
+      "3/4 taza de azúcar",
+      "1 taza de harina",
+      "ralladura y zumo de 1 limón",
+      "1 cdta. de levadura en polvo"
+    ],
+    "instructions": "Bate los huevos con el azúcar hasta que estén pálidos y añade la ricotta, la ralladura y el zumo de limón. Incorpora la harina y la levadura. Vierte en un molde de 22 cm forrado y hornea 40 minutos a 180 °C hasta que dore y un palillo salga limpio. Espolvorea con azúcar glas."
+  },
+  "i10": {
+    "name": "Malabi (pudin de leche con agua de rosas)",
+    "ingredients": [
+      "3 tazas de leche",
+      "5 cdas. de maicena",
+      "1/3 taza de azúcar",
+      "1 cda. de agua de rosas",
+      "2 cdas. de pistachos picados",
+      "2 cdas. de coco rallado"
+    ],
+    "instructions": "Disuelve la maicena en un poco de leche fría. Calienta el resto de la leche con el azúcar, añade la maicena disuelta y cuece batiendo hasta que espese. Incorpora el agua de rosas, vierte en vasos y refrigera 3 horas. Decora con pistachos, coco y, si quieres, un chorrito de almíbar."
+  },
+  "i11": {
+    "name": "Kheer (arroz con leche al cardamomo)",
+    "ingredients": [
+      "1/2 taza de arroz basmati, lavado",
+      "4 tazas de leche",
+      "1/2 taza de azúcar",
+      "4 vainas de cardamomo, machacadas",
+      "2 cdas. de pasas",
+      "2 cdas. de almendras laminadas"
+    ],
+    "instructions": "Cuece el arroz con la leche y el cardamomo a fuego bajo 35–40 minutos, removiendo a menudo, hasta que esté espeso y cremoso. Añade el azúcar y las pasas y cocina 5 minutos más. Sirve templado o frío con las almendras por encima."
+  },
+  "i12": {
+    "name": "Churros con salsa de chocolate",
+    "ingredients": [
+      "1 taza de agua y 2 cdas. de azúcar",
+      "1 taza de harina",
+      "2 cdas. de mantequilla y 1 huevo",
+      "1/2 taza de aceite para freír",
+      "1/3 taza de azúcar mezclada con 1 cdta. de canela",
+      "100 g de chocolate negro y 1/3 taza de nata"
+    ],
+    "instructions": "Lleva a ebullición el agua, el azúcar y la mantequilla, incorpora la harina hasta formar una masa, deja templar y añade el huevo. Con una manga pastelera echa tiras en aceite caliente, fríelas 2–3 minutos por lado hasta que doren y pásalas por el azúcar con canela. Derrite el chocolate con la nata para una salsa para mojar."
+  },
+  "i13": {
+    "name": "Tarta de zanahoria con glaseado de queso crema",
+    "ingredients": [
+      "3 tazas de zanahoria rallada",
+      "2 tazas de harina, 1 cdta. de bicarbonato y 2 cdtas. de canela",
+      "1 taza de azúcar y 3/4 taza de aceite",
+      "3 huevos",
+      "1/2 taza de nueces picadas",
+      "200 g de queso crema y 1/2 taza de azúcar glas",
+      "1/4 taza de mantequilla blanda"
+    ],
+    "instructions": "Bate el azúcar, el aceite y los huevos, y mezcla con los ingredientes secos, la zanahoria y las nueces. Vierte en un molde de 22 cm forrado y hornea 40–45 minutos a 180 °C; deja enfriar por completo. Bate el queso crema, la mantequilla y el azúcar glas hasta hacer un glaseado y extiéndelo sobre la tarta."
+  },
+  "i14": {
+    "name": "Sufganiyot (donuts rellenos de mermelada)",
+    "ingredients": [
+      "3 tazas de harina",
+      "1 sobre (7 g) de levadura seca",
+      "1/2 taza de leche tibia",
+      "1/4 taza de azúcar, 2 huevos y 3 cdas. de mantequilla blanda",
+      "aceite para freír",
+      "1/2 taza de mermelada",
+      "azúcar glas para espolvorear"
+    ],
+    "instructions": "Mezcla la harina, la levadura, el azúcar, los huevos, la leche y la mantequilla hasta formar una masa blanda, amasa 8 minutos y deja reposar 1 hora. Extiéndela a 1,5 cm, corta círculos y deja reposar 30 minutos. Fríe en aceite caliente 2 minutos por lado hasta que doren, rellena con mermelada con una manga pastelera y espolvorea con azúcar glas."
+  },
+  "i15": {
+    "name": "Crepes con crema de chocolate y plátano",
+    "ingredients": [
+      "1 taza de harina",
+      "2 huevos",
+      "1,5 tazas de leche",
+      "1 cda. de mantequilla derretida, y más para la sartén",
+      "1/2 taza de crema de chocolate y avellanas",
+      "2 plátanos, en rodajas"
+    ],
+    "instructions": "Bate la harina, los huevos, la leche y la mantequilla derretida hasta obtener una masa fina y lisa y déjala reposar 10 minutos. Cocina crepes finas en una sartén ligeramente untada con mantequilla, aproximadamente 1 minuto por lado. Unta con la crema de chocolate, añade las rodajas de plátano y dobla en triángulos."
+  },
+  "i16": {
+    "name": "Rugelach de canela y nueces",
+    "ingredients": [
+      "2 tazas de harina",
+      "200 g de mantequilla fría, en dados",
+      "200 g de queso crema",
+      "1/3 taza de azúcar mezclada con 2 cdtas. de canela",
+      "1/2 taza de nueces muy picadas",
+      "1/2 taza de pasas",
+      "1 huevo batido, para pincelar"
+    ],
+    "instructions": "Trabaja la harina, la mantequilla y el queso crema hasta formar una masa suave, envuélvela y refrigera 1 hora. Extiéndela en un círculo, espolvorea con el azúcar con canela, las nueces y las pasas y corta en 16 porciones. Enrolla cada porción desde el lado ancho, pincela con huevo y hornea 25 minutos a 180 °C hasta que doren."
+  },
+  "k1": {
+    "name": "Aguacates rellenos de huevo al horno",
+    "ingredients": [
+      "2 aguacates maduros, partidos por la mitad y sin hueso",
+      "4 huevos",
+      "2 cdas. de cebollino o perejil picado",
+      "1/2 cdta. de pimentón",
+      "sal y pimienta"
+    ],
+    "instructions": "Retira un poco de pulpa de cada mitad de aguacate para agrandar el hueco y coloca las mitades en una fuente pequeña. Casca un huevo en cada una y sazona con sal, pimienta y pimentón. Hornea 15 minutos a 200 °C hasta que la clara cuaje y espolvorea con las hierbas."
+  },
+  "k2": {
+    "name": "« Arroz » de coliflor salteado con huevo",
+    "ingredients": [
+      "1 coliflor grande, rallada en granos del tamaño del arroz",
+      "3 huevos, batidos",
+      "2 cebolletas, en rodajas",
+      "2 dientes de ajo, picados",
+      "2 cdas. de salsa de soja",
+      "1 cda. de aceite de sésamo"
+    ],
+    "instructions": "Haz los huevos revueltos en una sartén caliente con un poco del aceite de sésamo y resérvalos. Saltea el ajo y la coliflor en el aceite restante 5–6 minutos hasta que estén tiernos pero no blandos. Devuelve los huevos, añade la salsa de soja y las cebolletas y mezcla 1 minuto."
+  },
+  "k3": {
+    "name": "Espaguetis de calabacín con pollo al ajo",
+    "ingredients": [
+      "2 pechugas de pollo, en tiras",
+      "3 calabacines, en espirales",
+      "3 dientes de ajo, en láminas",
+      "3 cdas. de aceite de oliva",
+      "ralladura y zumo de 1 limón",
+      "8 tomates cherry, partidos por la mitad",
+      "albahaca fresca"
+    ],
+    "instructions": "Sella el pollo en 1 cucharada de aceite de oliva 6–7 minutos hasta que esté hecho y resérvalo. Sofríe el ajo y los tomates en el aceite restante 2 minutos. Añade los espaguetis de calabacín y mezcla solo 2 minutos, luego devuelve el pollo y añade la ralladura y el zumo de limón y la albahaca."
+  },
+  "k4": {
+    "name": "Filete al ajo y hierbas con judías verdes asadas",
+    "ingredients": [
+      "2 filetes de solomillo o entrecot (unos 200 g cada uno)",
+      "300 g de judías verdes, sin los extremos",
+      "3 cdas. de aceite de oliva",
+      "3 dientes de ajo, aplastados",
+      "1 cda. de romero o tomillo fresco",
+      "sal y pimienta"
+    ],
+    "instructions": "Mezcla las judías con 1 cucharada de aceite y ásalas 12 minutos a 220 °C. Sazona los filetes generosamente y séllalos en 1 cucharada de aceite 3–4 minutos por lado con el ajo y las hierbas. Deja reposar 5 minutos, corta y sirve con las judías."
+  },
+  "k5": {
+    "name": "Muffins de huevo con espinacas y feta",
+    "ingredients": [
+      "6 huevos",
+      "1 taza de espinacas frescas, picadas",
+      "80 g de queso feta, desmenuzado",
+      "1/2 pimiento rojo, en dados pequeños",
+      "1 cda. de aceite de oliva, para engrasar",
+      "sal y pimienta"
+    ],
+    "instructions": "Engrasa 6 moldes de magdalena con el aceite de oliva. Bate los huevos con sal y pimienta y añade las espinacas, el feta y el pimiento rojo. Reparte en los moldes y hornea 18–20 minutos a 190 °C hasta que estén hinchados y cuajados."
+  },
+  "k6": {
+    "name": "Ensalada griega con halloumi a la plancha",
+    "ingredients": [
+      "200 g de queso halloumi, en lonchas",
+      "1 pepino, en dados",
+      "2 tomates, en dados",
+      "1/2 cebolla morada, en láminas finas",
+      "1/4 taza de aceitunas",
+      "3 cdas. de aceite de oliva",
+      "1 cda. de zumo de limón"
+    ],
+    "instructions": "Mezcla el pepino, los tomates, la cebolla y las aceitunas con 2 cucharadas de aceite de oliva, el zumo de limón y una pizca de sal. Dora las lonchas de halloumi a la plancha o en sartén en el aceite restante 2 minutos por lado. Sirve el halloumi caliente sobre la ensalada."
+  },
+  "k7": {
+    "name": "Salmón con salsa cremosa de eneldo",
+    "ingredients": [
+      "2 filetes de salmón",
+      "1/2 taza de yogur griego",
+      "2 cdas. de eneldo fresco picado",
+      "1 cda. de zumo de limón",
+      "1 diente de ajo, picado",
+      "1 cda. de aceite de oliva",
+      "sal y pimienta"
+    ],
+    "instructions": "Sazona el salmón y séllalo en el aceite de oliva, con la piel hacia abajo, 4 minutos; dale la vuelta y cocina 3–4 minutos más. Mientras tanto, mezcla el yogur con el eneldo, el zumo de limón, el ajo, sal y pimienta. Sirve el salmón cubierto con la salsa."
+  },
+  "k8": {
+    "name": "Pizza con base de coliflor",
+    "ingredients": [
+      "1 coliflor mediana, rallada (unas 3 tazas)",
+      "2 huevos",
+      "1,5 tazas de mozzarella rallada, dividida",
+      "1/2 taza de salsa de tomate sin azúcar",
+      "1 cdta. de orégano seco",
+      "unas hojas de albahaca fresca"
+    ],
+    "instructions": "Cuece la coliflor rallada en el microondas o al vapor 5 minutos, deja enfriar y exprímela en un paño limpio para quitarle todo el líquido posible. Mézclala con los huevos, media taza de mozzarella y el orégano y aplástala formando un círculo fino sobre una bandeja forrada. Hornea 15 minutos a 220 °C, cubre con la salsa y el resto del queso y hornea 8 minutos más; termina con albahaca."
+  },
+  "k9": {
+    "name": "Tacos de ternera en hojas de lechuga",
+    "ingredients": [
+      "400 g de carne de ternera picada",
+      "8 hojas grandes de lechuga (romana o mantecosa)",
+      "1 cdta. de comino y 1 cdta. de pimentón",
+      "1 aguacate, en láminas",
+      "1 tomate, en dados",
+      "cilantro fresco",
+      "1 lima"
+    ],
+    "instructions": "Dora la carne en una sartén caliente desmenuzándola, añade el comino, el pimentón y sal y cocina 8 minutos. Reparte la carne en las hojas de lechuga. Cubre con el aguacate, el tomate y el cilantro y exprime lima por encima."
+  },
+  "k10": {
+    "name": "Bombas de chocolate y mantequilla de almendra",
+    "ingredients": [
+      "1/2 taza de mantequilla de almendra",
+      "1/4 taza de aceite de coco",
+      "2 cdas. de cacao en polvo",
+      "1 cdta. de extracto de vainilla",
+      "1 cda. de eritritol en polvo o stevia (opcional)",
+      "una pizca de sal"
+    ],
+    "instructions": "Derrite suavemente la mantequilla de almendra con el aceite de coco y mezcla con el cacao, la vainilla, el edulcorante y la sal hasta que quede suave. Vierte en un molde de minimagdalenas o de silicona. Congela 30 minutos hasta que estén firmes y guárdalas en el congelador."
+  },
+  "k11": {
+    "name": "Mousse de queso crema y frambuesas",
+    "ingredients": [
+      "200 g de queso crema, blando",
+      "1/2 taza de nata para montar",
+      "1 taza de frambuesas frescas",
+      "1 cdta. de extracto de vainilla",
+      "1 cda. de eritritol en polvo o stevia (opcional)"
+    ],
+    "instructions": "Monta la nata hasta obtener picos suaves. Bate el queso crema con la vainilla y el edulcorante hasta que quede suave e incorpora la nata montada. Añade con cuidado la mayoría de las frambuesas, reparte en copas y decora con el resto. Refrigera 1 hora."
+  },
+  "k12": {
+    "name": "Brochetas de pollo con tahini y pepino",
+    "ingredients": [
+      "500 g de muslos de pollo, en dados",
+      "3 cdas. de tahini",
+      "2 cdas. de zumo de limón",
+      "2 dientes de ajo, picados",
+      "1 cdta. de comino",
+      "2 pepinos, en dados",
+      "2 cdas. de perejil picado"
+    ],
+    "instructions": "Mezcla el tahini, el zumo de limón, el ajo, el comino y sal con un chorrito de agua y marina el pollo en la mitad de la salsa 15 minutos. Ensártalo en pinchos y cocina a la parrilla 10–12 minutos, dándoles la vuelta, hasta que esté hecho. Mezcla los pepinos con el perejil y sirve con las brochetas y el resto de la salsa de tahini."
+  },
+  "k13": {
+    "name": "Cestitas de lechuga con ensalada de huevo",
+    "ingredients": [
+      "4 huevos duros, picados",
+      "2 cdas. de mayonesa",
+      "1 cdta. de mostaza",
+      "1 tallo de apio, en dados pequeños",
+      "1 cda. de cebollino picado",
+      "6 hojas de lechuga mantecosa"
+    ],
+    "instructions": "Mezcla los huevos picados con la mayonesa, la mostaza, el apio y el cebollino y sazona con sal y pimienta. Reparte la ensalada de huevo en las hojas de lechuga. Sirve enseguida."
+  }
+}
