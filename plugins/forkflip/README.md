@@ -20,6 +20,12 @@ claude plugin marketplace add keyquest-studio/claude-plugins
 claude plugin install forkflip@keyquest-studio
 ```
 
+## Where it works
+Claude Code, on macOS, Linux and Windows (WSL). The plugin runs a small local Python server on your computer; it does not run inside claude.ai web chat.
+
+## Privacy
+No account, sign-in or API key. The server runs locally and makes no network calls; the only download is the pinned `mcp` Python package from PyPI on first start. Ingredients you type are processed for that request only and are not stored or sent anywhere.
+
 ## Setup
 Needs Python 3.10+ or `uv`. On first start the server creates a private environment in `~/.cache/forkflip-claude-plugin` and installs the `mcp` package.
 
