@@ -1,8 +1,9 @@
 {
   "name": "forkflip",
   "displayName": "ForkFlip by KeyQuest",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Decide what to eat with ForkFlip by KeyQuest Studio: browse 163 original recipes in 7 languages, get meal suggestions, match recipes to ingredients you have and draft a missing-ingredients list.",
+  "icon": "./.claude-plugin/icon.png",
   "author": {
     "name": "KeyQuest Studio",
     "url": "https://1clicksoft.net"

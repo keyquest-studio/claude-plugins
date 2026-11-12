@@ -12,7 +12,7 @@
       "name": "forkflip",
       "source": "./plugins/forkflip",
       "description": "ForkFlip recipe catalog: 163 original recipes in 7 languages, meal suggestions, pantry matching and missing-ingredient drafts.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "category": "lifestyle",
       "keywords": [
         "recipes",
@@ -26,7 +26,7 @@
       "name": "smart-shopping",
       "source": "./plugins/smart-shopping",
       "description": "Smart Shopping List (קנייה חכמה): compare Israeli supermarket prices across 7 chains from their official daily price files.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "lifestyle",
       "keywords": [
         "grocery",
