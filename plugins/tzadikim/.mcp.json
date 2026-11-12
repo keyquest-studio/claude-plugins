@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tzadikim": {
+      "type": "http",
+      "url": "https://tzadikim-mcp.forkflip-mcp.workers.dev/mcp"
+    }
+  }
+}

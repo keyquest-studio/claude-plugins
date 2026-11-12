@@ -1,0 +1,16 @@
+name = "tzadikim-mcp"
+main = "src/index.js"
+compatibility_date = "2026-11-01"
+workers_dev = true
+
+# No request logging: bodies and arguments are never recorded.
+[observability]
+enabled = false
+
+# Per-client-IP limit. Many claude.ai users share Anthropic's addresses, so keep it generous.
+[[ratelimits]]
+name = "LIMITER"
+namespace_id = "7003"
+  [ratelimits.simple]
+  limit = 300
+  period = 60

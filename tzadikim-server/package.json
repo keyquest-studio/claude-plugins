@@ -1,0 +1,16 @@
+{
+  "name": "tzadikim-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Tzadikim Tombs remote MCP server (Cloudflare Worker).",
+  "license": "SEE LICENSE IN ../plugins/tzadikim/LICENSE",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "node --test test/*.test.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "4.161.0"
+  }
+}

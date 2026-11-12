@@ -1,0 +1,23 @@
+{
+  "name": "tzadikim",
+  "displayName": "Tzadikim Tombs by KeyQuest",
+  "version": "0.1.0",
+  "description": "Find tombs of tzadikim (Jewish sages) in Israel and abroad with Tzadikim Tombs by KeyQuest Studio: 115 sites with locations, short bios, yahrzeit (hilula) dates, nearby sites and navigation links, in Hebrew, English, French and Russian.",
+  "icon": "./.claude-plugin/icon.png",
+  "author": {
+    "name": "KeyQuest Studio",
+    "url": "https://1clicksoft.net"
+  },
+  "homepage": "https://apps.apple.com/il/app/tzadikim-tombs/id6815972609",
+  "keywords": [
+    "tzadikim",
+    "kivrei-tzadikim",
+    "jewish",
+    "israel",
+    "travel",
+    "hebrew"
+  ],
+  "repository": "https://github.com/keyquest-studio/claude-plugins",
+  "license": "LicenseRef-KeyQuest-Proprietary",
+  "privacyPolicyUrl": "https://tzadikim-mcp.forkflip-mcp.workers.dev/privacy"
+}

@@ -35,6 +35,20 @@
         "israel",
         "hebrew"
       ]
+    },
+    {
+      "name": "tzadikim",
+      "source": "./plugins/tzadikim",
+      "description": "Tzadikim Tombs (קברי צדיקים): find tombs of tzadikim in Israel and abroad, bios, yahrzeit dates, nearby sites and navigation links.",
+      "version": "0.1.0",
+      "category": "lifestyle",
+      "keywords": [
+        "tzadikim",
+        "jewish",
+        "israel",
+        "travel",
+        "hebrew"
+      ]
     }
   ]
 }

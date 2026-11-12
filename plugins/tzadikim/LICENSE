@@ -1,0 +1,21 @@
+Copyright (c) 2026 KeyQuest Studio. All rights reserved.
+
+The Tzadikim Tombs plugin for Claude (plugins/tzadikim), its server code
+(tzadikim-server) and the Tzadikim Tombs icon are proprietary.
+
+You may install and use the plugin, unmodified, with Claude for your own
+personal, non-commercial use. You may not copy, redistribute, republish, sell,
+sublicense, or create derivative works from the code or the icon without prior
+written permission from KeyQuest Studio.
+
+The data returned by the plugin keeps the licences of its sources:
+OpenStreetMap (ODbL 1.0, © OpenStreetMap contributors), Wikidata (CC0 1.0),
+Wikipedia excerpts (CC BY-SA 4.0), Wikimedia Commons images (per image), and
+KeyQuest Studio's own curation (CC BY-SA 4.0). Keep the attribution when reusing it.
+
+THE SOFTWARE AND DATA ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+Some burial locations follow tradition and are not historically proven. IN NO
+EVENT SHALL KEYQUEST STUDIO BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY
+ARISING FROM THE USE OF THE SOFTWARE OR DATA.
+
+Contact: https://1clicksoft.net
