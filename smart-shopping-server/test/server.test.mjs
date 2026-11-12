@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import worker, { handle, TOOL_DEFS } from '../src/index.js';
-import { normalizeQuery, shape } from '../src/prices.js';
+import { normalizeQuery, shape, relevance, matchControlled } from '../src/prices.js';
 
 const upstreamReply = (results, matched = results.length) => ({
   ok: true, status: 200,
@@ -62,7 +62,7 @@ test('cache: second identical search does not hit upstream', async () => {
   const store = new Map();
   const cache = { match: async (k) => store.get(k.url)?.clone(), put: async (k, v) => { store.set(k.url, v); } };
   let n = 0;
-  const fetch = async () => { n++; return upstreamReply([{ product: 'לחם', all_prices_ils: { 'שופרסל': 9 } }]); };
+  const fetch = async (url) => { if (!String(url).includes('mcpGroceryPrices')) return { ok: false, status: 503 }; n++; return upstreamReply([{ product: 'לחם', all_prices_ils: { 'שופרסל': 9 } }]); };
   await call('compare_grocery_price', { query: 'לחם' }, { fetch, cache });
   const out = parse(await call('compare_grocery_price', { query: 'לחם', limit: 3 }, { fetch, cache }));
   assert.equal(n, 1);
@@ -89,4 +89,27 @@ test('favicon is served as PNG and advertised in serverInfo.icons', async () => 
   }
   const init = await handle({ jsonrpc: '2.0', id: 1, method: 'initialize', params: { protocolVersion: '2025-11-25' } }, {});
   assert.match(init.result.serverInfo.icons[0].src, /^https:\/\/.+\/favicon\.png$/);
+});
+
+test('eggs: real item ranks first; price-control block when the catalog lacks it', () => {
+  assert.equal(relevance('ביצים', 'ביצים L טריות 12'), 0);
+  assert.equal(relevance('ביצים', 'פסטת ביצים 250 גרם'), 1);
+  assert.equal(relevance('לחם', 'לחמניות'), 2);
+  const up = { matched_count: 3, results: [
+    { product: 'פסטת ביצים 250 גרם', all_prices_ils: { 'קרפור': 10.9 } },
+    { product: 'ביצים L טריות 12', all_prices_ils: { 'שופרסל': 14.5, 'רמי לוי': 13.9 } },
+    { product: 'אטריות ביצים', all_prices_ils: { 'טיב טעם': 9.9 } },
+  ] };
+  const gov = [{ name: 'ביצי מאכל - גודל גדול (L)', maxPrice: 14.54, eilatPrice: 12.4, updatedAt: '01/11/2026' },
+    { name: 'חלב טרי בשקית 3% שומן (רגיל)', maxPrice: 6.6 }];
+  const out = shape('ביצים', up, 5, gov);
+  assert.equal(out.results[0].product, 'ביצים L טריות 12');
+  assert.deepEqual(out.results.slice(1).map((r) => r.product), ['אטריות ביצים', 'פסטת ביצים 250 גרם']);
+  assert.equal(out.government_price_control.length, 1);
+  assert.equal(out.government_price_control[0].max_price_ils, 14.54);
+  assert.ok(!out.price_control_note.includes('do not list'));
+  const noEggs = shape('ביצים', { matched_count: 1, results: [up.results[0]] }, 5, gov);
+  assert.match(noEggs.price_control_note, /do not list this item/);
+  assert.equal(shape('קפה', up, 5, gov).government_price_control, undefined);
+  assert.equal(matchControlled('חלב', gov).length, 1);
 });

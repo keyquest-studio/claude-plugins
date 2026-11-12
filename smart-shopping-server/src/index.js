@@ -1,7 +1,7 @@
 // Smart Shopping List remote MCP server (Streamable HTTP, stateless, JSON responses) on Cloudflare Workers.
 // Privacy: request bodies and arguments are never logged. The only outbound request is the product
 // search term, sent to the app's own price service; answers are cached at the edge by search term.
-import { ToolError, normalizeQuery, normalizeLimit, fetchUpstream, shape, listChains, CACHE_SECONDS } from './prices.js';
+import { ToolError, normalizeQuery, normalizeLimit, fetchUpstream, fetchControlled, shape, listChains, CACHE_SECONDS } from './prices.js';
 import { PRIVACY_HTML } from './privacy.js';
 import { LOGO_PNG_BASE64 } from './logo.js';
 
@@ -99,7 +99,11 @@ export async function handle(msg, deps = {}) {
         if (name === 'compare_grocery_price') {
           const query = normalizeQuery(args.query);
           const limit = normalizeLimit(args.limit);
-          return toolText(id, shape(query, await cachedUpstream(query, deps), limit));
+          const [upstream, controlled] = await Promise.all([
+            cachedUpstream(query, deps),
+            fetchControlled(deps.fetch).catch(() => []), // optional extra: never fails the search
+          ]);
+          return toolText(id, shape(query, upstream, limit, controlled));
         }
         return rpcError(id, -32602, `Unknown tool: ${String(name).slice(0, 60)}`);
       } catch (e) {

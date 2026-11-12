@@ -11,7 +11,7 @@ export const PRIVACY_HTML = `<!doctype html><html lang="en"><head><meta charset=
 <h2>What we receive</h2>
 <p>Only the tool requests Claude sends to answer you: a product search term (for example "milk") and how many results to show. Please don't include personal information in search terms.</p>
 <h2>Where it goes</h2>
-<p>The search term is forwarded to the Smart Shopping List app's own price service (Google Firebase, project of KeyQuest Studio) to look up prices. Nothing else about you is sent. The answer for a search term may be cached on Cloudflare for up to 6 hours so repeated searches are faster; the cache holds prices, not who asked.</p>
+<p>The search term is forwarded to the Smart Shopping List app's own price service (Google Firebase, project of KeyQuest Studio) to look up prices. Nothing else about you is sent. The server also downloads the app's public list of price-controlled products (such as eggs and milk); no search term is sent with it. The answer for a search term may be cached on Cloudflare for up to 6 hours so repeated searches are faster; the cache holds prices, not who asked.</p>
 <h2>What we keep</h2>
 <p>We do not log, store, sell or share request contents or tie them to a person. To enforce rate limits, our host (Cloudflare) briefly counts requests per IP address in memory; this count is not stored by us. Cloudflare and Google may process connection data as our infrastructure providers under their own privacy policies.</p>
 <h2>Your shopping lists</h2>

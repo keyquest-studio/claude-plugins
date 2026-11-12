@@ -4,6 +4,7 @@
 // so repeated questions never reach Firestore.
 
 export const UPSTREAM = 'https://europe-west1-shoppinglist-maor169.cloudfunctions.net/mcpGroceryPrices';
+export const CONTROLLED = 'https://europe-west1-shoppinglist-maor169.cloudfunctions.net/controlled';
 export const CHAINS = ['שופרסל', 'ויקטורי', 'רמי לוי', 'יוחננוף', 'אושר עד', 'טיב טעם', 'קרפור'];
 export const CHAINS_EN = {
   'שופרסל': 'Shufersal', 'ויקטורי': 'Victory', 'רמי לוי': 'Rami Levy', 'יוחננוף': 'Yochananof',
@@ -51,8 +52,53 @@ export async function fetchUpstream(query, fetchImpl = fetch) {
   return { matched_count: Number(data.matched_count) || 0, results: Array.isArray(data.results) ? data.results : [] };
 }
 
-// Keep only products that have at least one valid price; cheapest first per product.
-export function shape(query, upstream, limit) {
+// Hebrew-aware word matching. A light stem drops common plural/construct endings so
+// "ביצים" matches "ביצי מאכל" and "ביצה", while staying a whole-word (prefix) match.
+const words = (s) => String(s).toLowerCase().split(/[^0-9a-z\u05d0-\u05ea]+/).filter(Boolean);
+export function stem(w) {
+  const m = w.match(/^(.{3,}?)(ים|ות|יה|י|ה)$/);
+  return m ? m[1] : w;
+}
+const wordHit = (q, w) => w === q || w.startsWith(stem(q)) && stem(w) === stem(q);
+
+// 0 = the name starts with the searched word ("ביצים L" for "ביצים"), 1 = it appears as its own
+// word later ("פסטת ביצים"), 2 = only inside another word. Lower is more relevant.
+export function relevance(query, name) {
+  const q = words(query), n = words(name);
+  if (!q.length || !n.length) return 2;
+  if (q.every((qw, i) => n[i] && wordHit(qw, n[i]))) return 0;
+  if (q.every((qw) => n.some((w) => wordHit(qw, w)))) return 1;
+  return 2;
+}
+
+// Products under Israel's price control (eggs, milk, bread...): the legal maximum price.
+let controlledMemo = null; // per-isolate copy; the list changes a few times a year
+export async function fetchControlled(fetchImpl = fetch) {
+  if (controlledMemo && Date.now() - controlledMemo.at < CACHE_SECONDS * 1000) return controlledMemo.list;
+  const res = await fetchImpl(CONTROLLED, { cf: { cacheTtl: CACHE_SECONDS, cacheEverything: true } });
+  if (!res.ok) throw new Error(`controlled ${res.status}`);
+  const list = await res.json();
+  if (!Array.isArray(list)) return [];
+  controlledMemo = { at: Date.now(), list };
+  return list;
+}
+
+export function matchControlled(query, list) {
+  const q = words(query);
+  return (list || [])
+    .filter((p) => typeof p?.name === 'string' && q.every((qw) => words(p.name).some((w) => wordHit(qw, w))))
+    .map((p) => ({
+      product: p.name,
+      max_price_ils: Number(p.maxPrice) || null,
+      eilat_max_price_ils: Number(p.eilatPrice) || null,
+      updated: typeof p.updatedAt === 'string' ? p.updatedAt : null,
+    }))
+    .filter((p) => p.max_price_ils)
+    .slice(0, 6);
+}
+
+// Keep only products that have at least one valid price; most relevant first, then cheapest.
+export function shape(query, upstream, limit, controlledList = []) {
   const priced = [];
   for (const r of upstream.results) {
     const entries = Object.entries(r?.all_prices_ils || {})
@@ -67,14 +113,26 @@ export function shape(query, upstream, limit) {
       chains_with_price: entries.length,
       all_prices_ils: Object.fromEntries(entries),
       last_updated: typeof r.last_updated === 'string' ? r.last_updated : null,
+      _rel: relevance(query, r.product),
     });
   }
+  priced.sort((a, b) => a._rel - b._rel || a.cheapest_price_ils - b.cheapest_price_ils);
+  const exact = priced.some((p) => p._rel === 0);
+  for (const p of priced) delete p._rel;
+  const regulated = matchControlled(query, controlledList);
   return {
     query,
     matched_products: upstream.matched_count,
     shown: Math.min(limit, priced.length),
     results: priced.slice(0, limit),
-    tip: priced.length ? undefined : 'No priced product matched. Try a shorter, more generic Hebrew term (e.g. "חלב" rather than a brand and size).',
+    ...(regulated.length ? {
+      government_price_control: regulated,
+      price_control_note: 'Maximum consumer prices set by Israel\'s price-control order (Ministry of Economy), incl. VAT. ' +
+        'Chains may not charge more for these items.' +
+        (exact ? '' : ' The chains\' price files in this catalog do not list this item itself, so the products below only contain the word.'),
+    } : {}),
+    tip: priced.length ? (exact || regulated.length ? undefined : 'None of these is the item itself; they only contain the word. Try a more specific term.')
+      : 'No priced product matched. Try a shorter, more generic Hebrew term (e.g. "חלב" rather than a brand and size).',
     notice: NOTICE,
     app: 'Smart Shopping List (קנייה חכמה): https://apps.apple.com/app/id6808103403 · https://play.google.com/store/apps/details?id=com.maor169.shoppinglist',
   };
