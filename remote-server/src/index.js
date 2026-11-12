@@ -3,8 +3,11 @@
 import { TOOLS, ToolError } from './catalog.js';
 import TOOL_DEFS from './tools.json';
 import { PRIVACY_HTML } from './privacy.js';
+import { LOGO_PNG_BASE64 } from './logo.js';
 
-const SERVER_INFO = { name: 'ForkFlip Recipe Catalog', title: 'ForkFlip by KeyQuest Studio', version: '0.2.0' };
+const LOGO_PNG = Uint8Array.from(atob(LOGO_PNG_BASE64), (c) => c.charCodeAt(0));
+const SERVER_INFO = { name: 'ForkFlip Recipe Catalog', title: 'ForkFlip by KeyQuest Studio', version: '0.2.0',
+  icons: [{ src: 'https://forkflip-mcp.forkflip-mcp.workers.dev/favicon.png', mimeType: 'image/png', sizes: ['192x192'] }] };
 const PROTOCOLS = ['2025-11-25', '2025-06-18', '2025-03-26', '2024-11-05'];
 const INSTRUCTIONS = 'ForkFlip recipe catalog (163 original recipes, 7 languages). All tools are read-only. ' +
   'Pass the user\'s language code. Labels are informational, not allergy or kashrut certification.';
@@ -67,6 +70,9 @@ export default {
     if (url.pathname === '/' && request.method === 'GET') {
       return json({ name: SERVER_INFO.title, mcp_endpoint: `${url.origin}/mcp`, read_only: true, privacy: `${url.origin}/privacy`,
         install: 'claude plugin marketplace add keyquest-studio/claude-plugins', source: 'https://github.com/keyquest-studio/claude-plugins' });
+    }
+    if ((url.pathname === '/favicon.ico' || url.pathname === '/favicon.png') && request.method === 'GET') {
+      return new Response(LOGO_PNG, { headers: { 'Content-Type': 'image/png', 'Cache-Control': 'public, max-age=86400', 'X-Content-Type-Options': 'nosniff' } });
     }
     if (url.pathname === '/privacy' && request.method === 'GET') {
       return new Response(PRIVACY_HTML, { headers: { 'Content-Type': 'text/html; charset=utf-8', ...SECURITY, 'Cache-Control': 'public, max-age=3600' } });

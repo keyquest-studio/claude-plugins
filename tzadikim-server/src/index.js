@@ -3,10 +3,13 @@
 // app's public data feed (no user data), cached at the edge for an hour.
 import { TOOLS, ToolError, LANGS } from './catalog.js';
 import { PRIVACY_HTML } from './privacy.js';
+import { LOGO_PNG_BASE64 } from './logo.js';
 
 const FEED = 'https://tzadikim-tombs.web.app/tzadikim.json';
 const FEED_TTL = 3600;
-const SERVER_INFO = { name: 'Tzadikim Tombs', title: 'Tzadikim Tombs by KeyQuest', version: '0.1.0' };
+const LOGO_PNG = Uint8Array.from(atob(LOGO_PNG_BASE64), (c) => c.charCodeAt(0));
+const SERVER_INFO = { name: 'Tzadikim Tombs', title: 'Tzadikim Tombs by KeyQuest', version: '0.1.0',
+  icons: [{ src: 'https://tzadikim-mcp.forkflip-mcp.workers.dev/favicon.png', mimeType: 'image/png', sizes: ['128x128'] }] };
 const PROTOCOLS = ['2025-11-25', '2025-06-18', '2025-03-26', '2024-11-05'];
 const INSTRUCTIONS = 'Tombs of tzadikim (Jewish sages) in Israel and abroad, from the Tzadikim Tombs app: 115 sites with ' +
   'locations, short bios, yahrzeit dates and navigation links. Read-only, no account. Pass the user\'s language (he, en, fr, ru). ' +
@@ -140,6 +143,9 @@ export default {
     if (url.pathname === '/' && request.method === 'GET') {
       return json({ name: SERVER_INFO.title, mcp_endpoint: `${url.origin}/mcp`, read_only: true, privacy: `${url.origin}/privacy`,
         install: 'claude plugin marketplace add keyquest-studio/claude-plugins', source: 'https://github.com/keyquest-studio/claude-plugins' });
+    }
+    if ((url.pathname === '/favicon.ico' || url.pathname === '/favicon.png') && request.method === 'GET') {
+      return new Response(LOGO_PNG, { headers: { 'Content-Type': 'image/png', 'Cache-Control': 'public, max-age=86400', 'X-Content-Type-Options': 'nosniff' } });
     }
     if (url.pathname === '/privacy' && request.method === 'GET') {
       return new Response(PRIVACY_HTML, { headers: { 'Content-Type': 'text/html; charset=utf-8', ...SECURITY, 'Cache-Control': 'public, max-age=3600' } });

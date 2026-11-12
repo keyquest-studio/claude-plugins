@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { handle, TOOL_DEFS } from '../src/index.js';
+import worker, { handle, TOOL_DEFS } from '../src/index.js';
 import { normalizeQuery, shape } from '../src/prices.js';
 
 const upstreamReply = (results, matched = results.length) => ({
@@ -77,4 +77,16 @@ test('chains list, unknown tool and bad requests', async () => {
   assert.equal((await handle({ jsonrpc: '2.0', id: 1, method: 'x' })).error.code, -32601);
   assert.equal(normalizeQuery('a\u0000b  c'), 'a b c');
   assert.equal(shape('q', { matched_count: 0, results: [] }, 5).results.length, 0);
+});
+
+test('favicon is served as PNG and advertised in serverInfo.icons', async () => {
+  for (const path of ['/favicon.ico', '/favicon.png']) {
+    const res = await worker.fetch(new Request(`https://example.dev${path}`), {});
+    assert.equal(res.status, 200);
+    assert.equal(res.headers.get('content-type'), 'image/png');
+    const bytes = new Uint8Array(await res.arrayBuffer());
+    assert.deepEqual([...bytes.slice(0, 4)], [0x89, 0x50, 0x4e, 0x47]);
+  }
+  const init = await handle({ jsonrpc: '2.0', id: 1, method: 'initialize', params: { protocolVersion: '2025-11-25' } }, {});
+  assert.match(init.result.serverInfo.icons[0].src, /^https:\/\/.+\/favicon\.png$/);
 });

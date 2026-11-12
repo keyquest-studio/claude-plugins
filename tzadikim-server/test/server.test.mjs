@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { handle, TOOL_DEFS, loadData } from '../src/index.js';
+import worker, { handle, TOOL_DEFS, loadData } from '../src/index.js';
 import { norm, haversineKm } from '../src/catalog.js';
 
 const data = JSON.parse(readFileSync(new URL('./fixture.json', import.meta.url)));
@@ -76,4 +76,16 @@ test('regions, errors and feed loading', async () => {
   const f = async () => { n++; return { ok: true, json: async () => data }; };
   await loadData({ fetch: f }); await loadData({ fetch: f });
   assert.equal(n, 1);
+});
+
+test('favicon is served as PNG and advertised in serverInfo.icons', async () => {
+  for (const path of ['/favicon.ico', '/favicon.png']) {
+    const res = await worker.fetch(new Request(`https://example.dev${path}`), {});
+    assert.equal(res.status, 200);
+    assert.equal(res.headers.get('content-type'), 'image/png');
+    const bytes = new Uint8Array(await res.arrayBuffer());
+    assert.deepEqual([...bytes.slice(0, 4)], [0x89, 0x50, 0x4e, 0x47]);
+  }
+  const init = await handle({ jsonrpc: '2.0', id: 1, method: 'initialize', params: { protocolVersion: '2025-11-25' } }, {});
+  assert.match(init.result.serverInfo.icons[0].src, /^https:\/\/.+\/favicon\.png$/);
 });
