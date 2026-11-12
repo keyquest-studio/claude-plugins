@@ -1,7 +1,9 @@
+import { LOGO_PNG_BASE64 } from './logo.js';
+
 export const PRIVACY_HTML = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>ForkFlip for Claude – Privacy Policy</title>
-<style>body{font:16px/1.6 system-ui,sans-serif;max-width:720px;margin:40px auto;padding:0 16px;color:#222;background:#fff}h1{font-size:1.6em}h2{font-size:1.15em;margin-top:1.6em}@media(prefers-color-scheme:dark){body{color:#eee;background:#151515}a{color:#f0a070}}</style></head><body>
-<h1>ForkFlip for Claude – Privacy Policy</h1>
+<style>body{font:16px/1.6 system-ui,sans-serif;max-width:720px;margin:40px auto;padding:0 16px;color:#222;background:#fff}h1{font-size:1.6em;margin:.4em 0}.brand{display:flex;align-items:center;gap:16px;margin-bottom:8px}.brand img{width:72px;height:72px;border-radius:16px;box-shadow:0 2px 8px rgba(0,0,0,.15)}h2{font-size:1.15em;margin-top:1.6em}@media(prefers-color-scheme:dark){body{color:#eee;background:#151515}a{color:#f0a070}}</style></head><body>
+<div class="brand"><img src="data:image/png;base64,${LOGO_PNG_BASE64}" alt="ForkFlip logo" width="72" height="72"><h1>ForkFlip for Claude – Privacy Policy</h1></div>
 <p>Effective: 12 November 2026. Publisher: KeyQuest Studio (<a href="https://1clicksoft.net">1clicksoft.net</a>).</p>
 <p>This policy covers the ForkFlip plugin for Claude and its recipe server at <code>forkflip-mcp.forkflip-mcp.workers.dev</code>.</p>
 <h2>What the service does</h2>
