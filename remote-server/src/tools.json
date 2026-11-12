@@ -1,0 +1,361 @@
+[
+ {
+  "name": "list_recipes",
+  "description": "List original ForkFlip recipes using optional filters and pagination. Diet labels are not allergy guarantees.",
+  "inputSchema": {
+   "properties": {
+    "language": {
+     "default": "en",
+     "enum": [
+      "he",
+      "en",
+      "ru",
+      "ar",
+      "fr",
+      "de",
+      "es"
+     ],
+     "title": "Language",
+     "type": "string"
+    },
+    "meal": {
+     "anyOf": [
+      {
+       "enum": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "dessert"
+       ],
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Meal"
+    },
+    "diet": {
+     "anyOf": [
+      {
+       "enum": [
+        "meat",
+        "dairy",
+        "vegetarian",
+        "vegan",
+        "keto"
+       ],
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Diet"
+    },
+    "kosher_only": {
+     "default": false,
+     "title": "Kosher Only",
+     "type": "boolean"
+    },
+    "max_minutes": {
+     "anyOf": [
+      {
+       "type": "integer"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Max Minutes"
+    },
+    "cuisine": {
+     "anyOf": [
+      {
+       "enum": [
+        "mediterranean",
+        "middleEastern",
+        "italian",
+        "asian",
+        "thai",
+        "mexican",
+        "indian",
+        "american",
+        "french"
+       ],
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Cuisine"
+    },
+    "offset": {
+     "default": 0,
+     "title": "Offset",
+     "type": "integer"
+    },
+    "limit": {
+     "default": 10,
+     "title": "Limit",
+     "type": "integer"
+    }
+   },
+   "title": "list_recipesArguments",
+   "type": "object"
+  },
+  "annotations": {
+   "readOnlyHint": true,
+   "destructiveHint": false,
+   "openWorldHint": false
+  }
+ },
+ {
+  "name": "get_recipe",
+  "description": "Get ingredients and instructions for an original catalog recipe ID.",
+  "inputSchema": {
+   "properties": {
+    "recipe_id": {
+     "title": "Recipe Id",
+     "type": "string"
+    },
+    "language": {
+     "default": "en",
+     "enum": [
+      "he",
+      "en",
+      "ru",
+      "ar",
+      "fr",
+      "de",
+      "es"
+     ],
+     "title": "Language",
+     "type": "string"
+    }
+   },
+   "required": [
+    "recipe_id"
+   ],
+   "title": "get_recipeArguments",
+   "type": "object"
+  },
+  "annotations": {
+   "readOnlyHint": true,
+   "destructiveHint": false,
+   "openWorldHint": false
+  }
+ },
+ {
+  "name": "suggest_meals",
+  "description": "Suggest up to three real recipes matching the requested filters.",
+  "inputSchema": {
+   "properties": {
+    "language": {
+     "default": "en",
+     "enum": [
+      "he",
+      "en",
+      "ru",
+      "ar",
+      "fr",
+      "de",
+      "es"
+     ],
+     "title": "Language",
+     "type": "string"
+    },
+    "meal": {
+     "anyOf": [
+      {
+       "enum": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "dessert"
+       ],
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Meal"
+    },
+    "diet": {
+     "anyOf": [
+      {
+       "enum": [
+        "meat",
+        "dairy",
+        "vegetarian",
+        "vegan",
+        "keto"
+       ],
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Diet"
+    },
+    "kosher_only": {
+     "default": false,
+     "title": "Kosher Only",
+     "type": "boolean"
+    },
+    "max_minutes": {
+     "anyOf": [
+      {
+       "type": "integer"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Max Minutes"
+    },
+    "cuisine": {
+     "anyOf": [
+      {
+       "enum": [
+        "mediterranean",
+        "middleEastern",
+        "italian",
+        "asian",
+        "thai",
+        "mexican",
+        "indian",
+        "american",
+        "french"
+       ],
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Cuisine"
+    }
+   },
+   "title": "suggest_mealsArguments",
+   "type": "object"
+  },
+  "annotations": {
+   "readOnlyHint": true,
+   "destructiveHint": false,
+   "openWorldHint": false
+  }
+ },
+ {
+  "name": "match_pantry",
+  "description": "Find recipes with ingredient text matching items supplied in this request; no personal pantry is read or saved.",
+  "inputSchema": {
+   "properties": {
+    "ingredients": {
+     "items": {
+      "type": "string"
+     },
+     "title": "Ingredients",
+     "type": "array"
+    },
+    "language": {
+     "default": "en",
+     "enum": [
+      "he",
+      "en",
+      "ru",
+      "ar",
+      "fr",
+      "de",
+      "es"
+     ],
+     "title": "Language",
+     "type": "string"
+    },
+    "meal": {
+     "anyOf": [
+      {
+       "enum": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "dessert"
+       ],
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Meal"
+    }
+   },
+   "required": [
+    "ingredients"
+   ],
+   "title": "match_pantryArguments",
+   "type": "object"
+  },
+  "annotations": {
+   "readOnlyHint": true,
+   "destructiveHint": false,
+   "openWorldHint": false
+  }
+ },
+ {
+  "name": "build_missing_ingredients",
+  "description": "Prepare a draft of potentially missing ingredients for one recipe; never writes to Smart Shopping.",
+  "inputSchema": {
+   "properties": {
+    "recipe_id": {
+     "title": "Recipe Id",
+     "type": "string"
+    },
+    "pantry": {
+     "items": {
+      "type": "string"
+     },
+     "title": "Pantry",
+     "type": "array"
+    },
+    "language": {
+     "default": "en",
+     "enum": [
+      "he",
+      "en",
+      "ru",
+      "ar",
+      "fr",
+      "de",
+      "es"
+     ],
+     "title": "Language",
+     "type": "string"
+    }
+   },
+   "required": [
+    "recipe_id",
+    "pantry"
+   ],
+   "title": "build_missing_ingredientsArguments",
+   "type": "object"
+  },
+  "annotations": {
+   "readOnlyHint": true,
+   "destructiveHint": false,
+   "openWorldHint": false
+  }
+ }
+]
