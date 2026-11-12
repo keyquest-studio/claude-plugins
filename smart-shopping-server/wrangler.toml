@@ -1,0 +1,17 @@
+name = "smart-shopping-mcp"
+main = "src/index.js"
+compatibility_date = "2026-11-01"
+workers_dev = true
+
+# No request logging: bodies and arguments are never recorded.
+[observability]
+enabled = false
+
+# Per-client-IP limit. Many claude.ai users share Anthropic's addresses, so keep it generous.
+# Repeated searches are served from the edge cache (6 h) and never reach Firestore.
+[[ratelimits]]
+name = "LIMITER"
+namespace_id = "7002"
+  [ratelimits.simple]
+  limit = 120
+  period = 60

@@ -1,0 +1,22 @@
+{
+  "name": "smart-shopping",
+  "displayName": "Smart Shopping List by KeyQuest",
+  "version": "0.1.0",
+  "description": "Compare Israeli supermarket prices with Smart Shopping List (קנייה חכמה) by KeyQuest Studio: find where a product is cheapest across Shufersal, Victory, Rami Levy, Yochananof, Osher Ad, Tiv Taam and Carrefour, from the chains' official daily price files.",
+  "author": {
+    "name": "KeyQuest Studio",
+    "url": "https://1clicksoft.net"
+  },
+  "homepage": "https://apps.apple.com/app/id6808103403",
+  "keywords": [
+    "smart-shopping",
+    "shopping-list",
+    "grocery",
+    "prices",
+    "israel",
+    "hebrew"
+  ],
+  "repository": "https://github.com/keyquest-studio/claude-plugins",
+  "license": "LicenseRef-KeyQuest-Proprietary",
+  "privacyPolicyUrl": "https://smart-shopping-mcp.forkflip-mcp.workers.dev/privacy"
+}

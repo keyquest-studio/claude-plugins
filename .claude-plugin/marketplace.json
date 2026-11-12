@@ -21,6 +21,20 @@
         "pantry",
         "hebrew"
       ]
+    },
+    {
+      "name": "smart-shopping",
+      "source": "./plugins/smart-shopping",
+      "description": "Smart Shopping List (קנייה חכמה): compare Israeli supermarket prices across 7 chains from their official daily price files.",
+      "version": "0.1.0",
+      "category": "lifestyle",
+      "keywords": [
+        "grocery",
+        "prices",
+        "shopping-list",
+        "israel",
+        "hebrew"
+      ]
     }
   ]
 }

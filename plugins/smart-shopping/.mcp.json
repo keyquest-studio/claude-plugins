@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "smart-shopping": {
+      "type": "http",
+      "url": "https://smart-shopping-mcp.forkflip-mcp.workers.dev/mcp"
+    }
+  }
+}
