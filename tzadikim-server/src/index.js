@@ -136,11 +136,26 @@ export async function handle(msg, deps = {}) {
   }
 }
 
+// Home page for browsers and favicon crawlers (Claude's directory shows the site icon); API clients still get JSON.
+const HOME_DESC = 'Tombs of tzadikim in Israel and abroad: 115 sites with bios, yahrzeit dates and map links.';
+const homeHtml = (origin) => `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>${SERVER_INFO.title}</title><meta name="description" content="${HOME_DESC}">
+<link rel="icon" type="image/png" href="/favicon.png"><link rel="shortcut icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/favicon.png">
+<meta property="og:title" content="${SERVER_INFO.title}"><meta property="og:description" content="${HOME_DESC}"><meta property="og:image" content="${origin}/favicon.png">
+<style>body{font:16px/1.6 system-ui,sans-serif;max-width:640px;margin:48px auto;padding:0 16px;color:#222;background:#fff}img{width:96px;height:96px;border-radius:20px}code{background:#f2f2f2;padding:2px 6px;border-radius:4px}@media(prefers-color-scheme:dark){body{color:#eee;background:#151515}code{background:#2a2a2a}a{color:#7cc4ff}}</style></head><body>
+<img src="/favicon.png" alt="Tzadikim Tombs logo" width="96" height="96"><h1>${SERVER_INFO.title}</h1><p>${HOME_DESC}</p>
+<p>A read-only MCP server for Claude. No account or sign-in. MCP endpoint: <code>${origin}/mcp</code></p>
+<p><a href="/privacy">Privacy policy</a> · <a href="https://github.com/keyquest-studio/claude-plugins">Source and support</a> · <a href="https://1clicksoft.net">KeyQuest Studio</a></p>
+</body></html>`;
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: { ...CORS, 'Access-Control-Max-Age': '86400' } });
     if (url.pathname === '/' && request.method === 'GET') {
+      if ((request.headers.get('accept') || '').includes('text/html')) {
+        return new Response(homeHtml(url.origin), { headers: { 'Content-Type': 'text/html; charset=utf-8', ...SECURITY, 'Cache-Control': 'public, max-age=3600' } });
+      }
       return json({ name: SERVER_INFO.title, mcp_endpoint: `${url.origin}/mcp`, read_only: true, privacy: `${url.origin}/privacy`,
         install: 'claude plugin marketplace add keyquest-studio/claude-plugins', source: 'https://github.com/keyquest-studio/claude-plugins' });
     }

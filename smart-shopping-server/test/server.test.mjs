@@ -113,3 +113,14 @@ test('eggs: real item ranks first; price-control block when the catalog lacks it
   assert.equal(shape('קפה', up, 5, gov).government_price_control, undefined);
   assert.equal(matchControlled('חלב', gov).length, 1);
 });
+
+test('home page: HTML with icon links for browsers, JSON for API clients', async () => {
+  const html = await worker.fetch(new Request('https://example.dev/', { headers: { Accept: 'text/html,application/xhtml+xml' } }), {});
+  assert.match(html.headers.get('content-type'), /text\/html/);
+  const body = await html.text();
+  assert.match(body, /<link rel="icon" type="image\/png" href="\/favicon.png">/);
+  assert.match(body, /https:\/\/example.dev\/mcp/);
+  const api = await worker.fetch(new Request('https://example.dev/'), {});
+  assert.match(api.headers.get('content-type'), /application\/json/);
+  assert.equal((await api.json()).mcp_endpoint, 'https://example.dev/mcp');
+});

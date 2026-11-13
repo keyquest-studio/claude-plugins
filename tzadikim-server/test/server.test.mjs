@@ -89,3 +89,14 @@ test('favicon is served as PNG and advertised in serverInfo.icons', async () => 
   const init = await handle({ jsonrpc: '2.0', id: 1, method: 'initialize', params: { protocolVersion: '2025-11-25' } }, {});
   assert.match(init.result.serverInfo.icons[0].src, /^https:\/\/.+\/favicon\.png$/);
 });
+
+test('home page: HTML with icon links for browsers, JSON for API clients', async () => {
+  const html = await worker.fetch(new Request('https://example.dev/', { headers: { Accept: 'text/html,application/xhtml+xml' } }), {});
+  assert.match(html.headers.get('content-type'), /text\/html/);
+  const body = await html.text();
+  assert.match(body, /<link rel="icon" type="image\/png" href="\/favicon.png">/);
+  assert.match(body, /https:\/\/example.dev\/mcp/);
+  const api = await worker.fetch(new Request('https://example.dev/'), {});
+  assert.match(api.headers.get('content-type'), /application\/json/);
+  assert.equal((await api.json()).mcp_endpoint, 'https://example.dev/mcp');
+});
